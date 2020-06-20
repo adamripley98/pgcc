@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-lander",
-  "author": "Hunter Chang",
-  "repository": "https://github.com/codebushi/gatsby-starter-lander",
+  "name": "penn-grad-consulting",
+  "author": "Adam Ripley",
+  "repository": "https://github.com/codebushi/penn-grad-consulting",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -9,11 +9,14 @@
     "build": "gatsby build"
   },
   "dependencies": {
+    "@brainhubeu/react-carousel": "^1.16.3",
     "gatsby": "^2.18.18",
     "gatsby-theme-codebushi": "1.0.0",
     "react": "^16.12.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
-    "react-dom": "^16.12.0"
+    "react-carousel": "^4.3.0",
+    "react-dom": "^16.12.0",
+    "react-img-carousel": "^1.7.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
