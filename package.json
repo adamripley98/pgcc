@@ -10,23 +10,26 @@
   },
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.16.3",
+    "@tailwindcss/ui": "^0.4.0",
     "gatsby": "^2.18.18",
+    "gatsby-cli": "^2.12.62",
     "gatsby-theme-codebushi": "1.0.0",
     "react": "^16.12.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-carousel": "^4.3.0",
     "react-dom": "^16.12.0",
-    "react-img-carousel": "^1.7.0"
+    "react-img-carousel": "^1.7.0",
+    "tailwindcss": "^1.5.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
-    "eslint-config-prettier": "^6.9.0",
-    "eslint-plugin-prettier": "^3.1.2",
-    "eslint-plugin-react-hooks": "^2.3.0",
     "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
     "prettier": "^1.19.1"
   }
 }
