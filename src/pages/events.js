@@ -7,6 +7,7 @@ import UpcomingEventCard from '../components/UpcomingEventCard';
 import MailList from '../components/MailList';
 import pastEvents from '../data/past-events';
 import upcomingEvents from '../data/upcoming-events';
+import FacebookEvents from '../components/FacebookEvents';
 
 export default () => (
   <Layout>
@@ -19,6 +20,7 @@ export default () => (
         </p>
       </div>
     </section>
+    <FacebookEvents />
     <section id="upcoming" className="pt-20">
       <div className="flex justify-center mb-10">
         <img className="w-12 mr-2" src={Calendar} alt="calendar" />

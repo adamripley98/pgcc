@@ -46,27 +46,51 @@ class Header extends React.Component {
               </svg>
             </button>
           </div>
-          <div className="hidden lg:inline-flex flex mt-4 sm:mt-0">
-            <Link className="px-4 nav-link" to="/">
-              Home
-            </Link>
-            <Link className="px-4 nav-link" to="/about">
-              About
-            </Link>
-            <Link className="px-4 nav-link" to="/events">
-              Events
-            </Link>
-            <Link className="px-4 nav-link" to="/pro-bono-consulting">
-              Pro Bono
-            </Link>
-            <Link className="px-4 nav-link" to="/sponsors">
-              Sponsors
-            </Link>
-            <Link className="px-4 nav-link" to="/resources">
-              Resources
-            </Link>
-          </div>
-          <div className="hidden lg:inline-flex">
+          <div className="hidden lg:inline-flex flex">
+            <div className="lg:inline-flex flex self-center mr-4">
+              <Link
+                className="px-4 nav-link"
+                activeStyle={{ 'text-decoration': 'underline' }}
+                to="/"
+              >
+                Home
+              </Link>
+              <Link
+                className="px-4 nav-link"
+                activeStyle={{ 'text-decoration': 'underline' }}
+                to="/about"
+              >
+                About
+              </Link>
+              <Link
+                className="px-4 nav-link"
+                activeStyle={{ 'text-decoration': 'underline' }}
+                to="/events"
+              >
+                Events
+              </Link>
+              <Link
+                className="px-4 nav-link"
+                activeStyle={{ 'text-decoration': 'underline' }}
+                to="/pro-bono-consulting"
+              >
+                Pro Bono
+              </Link>
+              <Link
+                className="px-4 nav-link"
+                activeStyle={{ 'text-decoration': 'underline' }}
+                to="/sponsors"
+              >
+                Sponsors
+              </Link>
+              <Link
+                className="px-4 nav-link"
+                activeStyle={{ 'text-decoration': 'underline' }}
+                to="/resources"
+              >
+                Resources
+              </Link>
+            </div>
             <Button className="text-sm">Contact Us</Button>
           </div>
         </div>

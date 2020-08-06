@@ -12,6 +12,7 @@ import Money from '../images/icons/money.png';
 import User from '../images/icons/user.png';
 import MailList from '../components/MailList';
 import SectionSpacer from '../components/layout/SectionSpacer';
+import IGFeed from '../components/IGFeed';
 
 export default () => (
   <Layout>
@@ -70,15 +71,15 @@ export default () => (
       <div className="container mx-auto text-center">
         <h2 className="text-3xl font-bold leading-tight">Get Involved</h2>
         <div className="flex flex-col lg:flex-row sm:-mx-3 mt-12">
-          <div className="flex-1 my-6 lg:my-0 px-3">
+          <div className="same-height my-6 lg:my-0 px-3">
             <Card className="bg-white">
               <div className="flex justify-center">
                 <img className="w-12 h-12 mr-4" src={User} alt="user" />
                 <p className="font-bold text-2xl self-center">Join Our Community</p>
               </div>
               <p className="mt-4 text-lg">
-                Are you a graduate degree candidate or post-doc interested in consulting looking to
-                be part of our organization?&nbsp;
+                Are you a graduate candidate or post-doc interested in consulting looking to be part
+                of our organization?&nbsp;
               </p>
               <br />
               <Button>
@@ -88,7 +89,7 @@ export default () => (
               </Button>
             </Card>
           </div>
-          <div className="flex-1 my-6 lg:my-0 px-3">
+          <div className="same-height my-6 lg:my-0 px-3">
             <Card className="bg-white">
               <div className="flex justify-center">
                 <img className="w-12 h-12 mr-4" src={Money} alt="money" />
@@ -96,7 +97,7 @@ export default () => (
               </div>
               <p className="mt-4 text-lg">
                 Sponsoring our annual PGCC Case Competition offers a great branding opportunity for
-                your organization.&nbsp;
+                your organization.
               </p>
               <br />
               <Button>
@@ -106,7 +107,7 @@ export default () => (
               </Button>
             </Card>
           </div>
-          <div className="flex-1 my-6 lg:my-0 px-3">
+          <div className="same-height my-6 lg:my-0 px-3">
             <Card className="bg-white">
               <div className="flex justify-center">
                 <img className="w-12 h-12 mr-4" src={Folder} alt="folder" />
@@ -144,6 +145,8 @@ export default () => (
         </div>
       </div>
     </section>
+    <SectionSpacer />
+    <IGFeed />
     <div id="get-involved">
       <SectionSpacer />
       <MailList />

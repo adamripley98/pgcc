@@ -1,7 +1,7 @@
 {
   "name": "penn-grad-consulting",
   "author": "Adam Ripley",
-  "repository": "https://github.com/codebushi/penn-grad-consulting",
+  "repository": "https://github.com/adamripley98/pgcc",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -11,15 +11,20 @@
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.16.3",
     "@tailwindcss/ui": "^0.4.0",
+    "cheerio": "^1.0.0-rc.3",
     "gatsby": "^2.18.18",
     "gatsby-cli": "^2.12.62",
     "gatsby-theme-codebushi": "1.0.0",
+    "net": "^1.0.2",
     "react": "^16.12.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-carousel": "^4.3.0",
     "react-dom": "^16.12.0",
     "react-img-carousel": "^1.7.0",
-    "tailwindcss": "^1.5.1"
+    "request": "^2.88.2",
+    "tailwindcss": "^1.5.1",
+    "tls": "^0.0.1",
+    "tunnel-agent": "^0.6.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",

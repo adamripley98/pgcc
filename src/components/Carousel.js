@@ -10,7 +10,7 @@ import imageSix from '../images/pgcc-6.jpg';
 
 const Gallery = () => (
   <div className="z-0">
-    <Carousel arrows infinite dots animationSpeed="1000">
+    <Carousel arrows infinite dots autoPlay="3000" animationSpeed="1000">
       <img key="1" src={imageOne} alt="carousel-img" />
       <img key="2" src={imageTwo} alt="carousel-img" />
       <img key="3" src={imageThree} alt="carousel-img" />
