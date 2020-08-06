@@ -12,7 +12,7 @@ Built using Gatsby and Tailwindcss.
 
 * [ ] Add in fade in transitions
 * [ ] Add in stats transition
-* [ ] Smooth scroll
+* [ ] Smoothscroll
 
 * [ ] Link contact us and email listserv
 * [ ] Exec board Modal
