@@ -9,8 +9,22 @@ a:hover {
 }
 
 .btn-link {
-  color: white !important;
+  color: white;
   text-decoration: none;
+}
+
+.blue-link {
+  text-decoration: none;
+  @apply text-blue-900;
+}
+
+.blue-link:hover {
+  text-decoration: none;
+  /* color: white; */
+}
+
+.transparent-btn:hover > .blue-link {
+  color: white;
 }
 
 .btn-link:hover {

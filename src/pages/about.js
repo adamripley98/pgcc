@@ -100,7 +100,11 @@ class About extends React.Component {
             </div>
           </div>
         </section>
-        <Modal showModal={this.state.showModal} person={this.state.person} />
+        <Modal
+          showModal={this.state.showModal}
+          person={this.state.person}
+          changeModalState={this.changeModalState}
+        />
         <section id="board-members" className="pt-20">
           <div className="container mx-auto">
             <LabelText className="mb-8 font-bold text-center">Meet the executive board</LabelText>

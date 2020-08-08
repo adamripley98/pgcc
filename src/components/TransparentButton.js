@@ -7,15 +7,19 @@ const sizes = {
   xl: `py-5 px-16 text-lg`
 };
 
-const Button = ({ children, className = '', size }) => {
+const TransparentButton = ({ children, className = '', size }) => {
   return (
     <button
       type="button"
       className={`
         ${sizes[size] || sizes.default}
         ${className}
-        bg-blue-900
+        bg-transparent
+        border
+        border-blue-900
+        text-blue-900
         hover:bg-blue-800
+        hover:text-white
         rounded
         text-white
     `}
@@ -25,4 +29,4 @@ const Button = ({ children, className = '', size }) => {
   );
 };
 
-export default Button;
+export default TransparentButton;

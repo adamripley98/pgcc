@@ -1,5 +1,6 @@
 import React from 'react';
 import Button from '../components/Button';
+import TransparentButton from '../components/TransparentButton';
 import Card from '../components/Card';
 import LabelText from '../components/LabelText';
 import Layout from '../components/layout/Layout';
@@ -27,16 +28,16 @@ export default () => (
             strong.
           </p>
           <p className="mt-8 md:mt-8">
-            <Button size="lg" className="mr-4">
+            <Button size="lg" className="mx-4 md:-ml-1 my-1">
               <a className="btn-link" href="/about">
                 Learn More
               </a>
             </Button>
-            <Button size="lg">
-              <a className="btn-link" href="#get-involved">
+            <TransparentButton className="transparent-btn my-1" size="lg">
+              <a className="blue-link" href="#get-involved">
                 Get Involved
               </a>
-            </Button>
+            </TransparentButton>
           </p>
         </div>
         <div className="lg:w-1/2">

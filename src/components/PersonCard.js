@@ -1,5 +1,4 @@
 import React from 'react';
-import Card from './Card';
 import LinkedIn from '../images/icons/linkedin.png';
 import Mail from '../images/icons/email.png';
 
