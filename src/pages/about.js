@@ -3,14 +3,16 @@ import PersonCard from '../components/PersonCard';
 import LabelText from '../components/LabelText';
 import Layout from '../components/layout/Layout';
 import Modal from '../components/Modal';
-import execBoard from '../data/exec-board';
 import One from '../images/icons/1.png';
 import Two from '../images/icons/2.png';
 import Three from '../images/icons/3.png';
 import Four from '../images/icons/4.png';
 import Five from '../images/icons/5.png';
 import MailList from '../components/MailList';
+import Banner from '../components/Banner';
 import SectionSpacer from '../components/layout/SectionSpacer';
+import execBoard from '../data/exec-board';
+import alumni from '../data/alumni';
 
 class About extends React.Component {
   constructor(props) {
@@ -33,6 +35,10 @@ class About extends React.Component {
   render() {
     return (
       <Layout>
+        <Banner
+          title="About PGCC"
+          subtitle="This is the subtitle of the about page. We can put whatever text you so desire here."
+        />
         <section className="py-20">
           <div className="container mx-auto px-8">
             <div className="text-left">
@@ -105,6 +111,23 @@ class About extends React.Component {
                     changeModalState={() => this.changeModalState(person)}
                     person={person}
                   />
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+        <SectionSpacer />
+        <section id="alumni">
+          <div className="container mx-auto">
+            <LabelText className="mb-8 font-bold text-center">PGCC Alumni</LabelText>
+            <div className="flex flex-col items-center">
+              {alumni.map(person => (
+                <div className="mb-4">
+                  <h1 className="text-xl font-bold">{person.name}</h1>
+                  <p className="italic font-light">
+                    {person.title}, {person.year}
+                  </p>
+                  <p className="">{person.bio}</p>
                 </div>
               ))}
             </div>

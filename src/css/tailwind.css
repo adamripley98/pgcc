@@ -41,6 +41,12 @@ a:hover {
   font-style: italic;
 }
 
+.banner {
+  background: rgb(42, 67, 101);
+  background: linear-gradient(0deg, rgba(42, 67, 101, 1) 0%, rgba(116, 42, 42, 1) 80%);
+  height: 45vh;
+}
+
 @tailwind components;
 
 @tailwind utilities;

@@ -6,11 +6,17 @@ import SectionSpacer from '../components/layout/SectionSpacer';
 import Agreement from '../images/icons/agreement.png';
 import MailList from '../components/MailList';
 import SponsorFAQ from '../components/SponsorFAQ';
+import Banner from '../components/Banner';
+
 import sponsorsGold from '../data/sponsors-gold';
 import sponsorsSilver from '../data/sponsors-silver';
 
 export default () => (
   <Layout>
+    <Banner
+      title="Sponsors"
+      subtitle="This is the subtitle of the sponsors page. We can put whatever text you so desire here."
+    />
     <section id="top" className="pt-20">
       <div className="container mx-auto px-8 lg:flex lg:justify-between">
         <div className="text-left lg:w-1/2">

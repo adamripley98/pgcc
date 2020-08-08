@@ -6,10 +6,10 @@ const style = {
 };
 
 const FacebookEvents = () => (
-  <div className="my-20 flex justify-center">
+  <div className="mt-20 flex justify-center">
     <iframe
       title="events"
-      src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Flandomusiclive%2F&tabs=events&width=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=206640596556006"
+      src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FInletTower%2F&tabs=events&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=206640596556006"
       width="500"
       height="500"
       style={style}

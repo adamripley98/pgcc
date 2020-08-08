@@ -4,13 +4,13 @@ import cheerio from 'cheerio';
 
 class IGFeed extends React.Component {
   componentDidMount() {
-    request(
-      'https://embedsocial.com/facebook_album/pro_instagram/9fffdfec5d37bf8f66d4ece32184079a51042de3',
-      (error, response, body) => {
-        const $ = cheerio.load(body);
-        document.getElementById('gallery-html').innerHTML = $.html();
-      }
-    );
+    const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+    const targetUrl =
+      'https://embedsocial.com/facebook_album/pro_instagram/9fffdfec5d37bf8f66d4ece32184079a51042de3';
+    request(proxyUrl + targetUrl, (error, response, body) => {
+      const $ = cheerio.load(body);
+      document.getElementById('gallery-html').innerHTML = $.html();
+    });
   }
 
   render() {

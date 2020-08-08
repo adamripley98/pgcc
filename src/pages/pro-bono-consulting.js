@@ -4,9 +4,14 @@ import Layout from '../components/layout/Layout';
 import SectionSpacer from '../components/layout/SectionSpacer';
 import MailList from '../components/MailList';
 import Meeting from '../images/icons/meeting.png';
+import Banner from '../components/Banner';
 
 export default () => (
   <Layout>
+    <Banner
+      title="Pro Bono Consulting"
+      subtitle="This is the subtitle of the pro bono consulting page. We can put whatever text you so desire here."
+    />
     <section id="top" className="py-20">
       <div className="container mx-auto px-8">
         <p className="mt-8 text-2xl font-light text-left">

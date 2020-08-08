@@ -2,6 +2,8 @@ import React from 'react';
 import LabelText from '../components/LabelText';
 import Layout from '../components/layout/Layout';
 import MailList from '../components/MailList';
+import Banner from '../components/Banner';
+
 import resources from '../data/resources';
 
 const caseBooks = resources.filter(resource => {
@@ -30,6 +32,10 @@ const otherResources = resources.filter(resource => {
 
 export default () => (
   <Layout>
+    <Banner
+      title="Helpful Resources"
+      subtitle="This is the subtitle of the resources page. We can put whatever text you so desire here."
+    />
     <section id="case-books" className="pt-16 pb-24 bg-gray-200">
       <div className="container mx-auto">
         <LabelText className="mb-12">Consulting Case Books</LabelText>
