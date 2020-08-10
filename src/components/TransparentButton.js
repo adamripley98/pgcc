@@ -22,6 +22,8 @@ const TransparentButton = ({ children, className = '', size }) => {
         hover:text-white
         rounded
         text-white
+        tracking-wider
+        uppercase
     `}
     >
       {children}

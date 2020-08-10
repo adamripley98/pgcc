@@ -14,10 +14,7 @@ class Header extends React.Component {
   }
 
   toggle() {
-    console.log('yup');
-    console.log('th', this.state.isOpen);
     const isOpen = !this.state.isOpen;
-    console.log('isope', isOpen);
     this.setState({ isOpen });
   }
 
@@ -92,7 +89,11 @@ class Header extends React.Component {
                   Resources
                 </Link>
               </div>
-              <Button className="text-sm">Contact Us</Button>
+              <Button className="text-sm">
+                <Link className="btn-link" to="/contact">
+                  Contact Us
+                </Link>
+              </Button>
             </div>
           </div>
         </header>

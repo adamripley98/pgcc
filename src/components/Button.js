@@ -18,6 +18,8 @@ const Button = ({ children, className = '', size }) => {
         hover:bg-blue-800
         rounded
         text-white
+        tracking-wider
+        uppercase
     `}
     >
       {children}

@@ -13,144 +13,160 @@ import Money from '../images/icons/money.png';
 import User from '../images/icons/user.png';
 import MailList from '../components/MailList';
 import SectionSpacer from '../components/layout/SectionSpacer';
+import FadeInSection from '../components/layout/FadeInSection';
 import IGFeed from '../components/IGFeed';
 
 export default () => (
   <Layout>
-    <section id="top" className="pt-16 xl:pt-20 bg-gray-200 top-background">
-      <div className="container mx-auto px-8 lg:flex lg:items-center">
-        <div className="text-center lg:text-left lg:w-1/2">
-          <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-            Penn Graduate Consulting Club
-          </h1>
-          <p className="text-xl lg:text-2xl mt-6 font-light">
-            Premiere student-run consulting club at the University of Pennsylvania, 500+ members
-            strong.
-          </p>
-          <p className="mt-8 md:mt-8">
-            <Button size="lg" className="mx-4 md:-ml-1 my-1">
-              <a className="btn-link" href="/about">
-                Learn More
-              </a>
-            </Button>
-            <TransparentButton className="transparent-btn my-1" size="lg">
-              <a className="blue-link" href="#get-involved">
-                Get Involved
-              </a>
-            </TransparentButton>
-          </p>
-        </div>
-        <div className="lg:w-1/2">
-          <img src={HeroImage} className="hide-on-mobile" alt="hero" />
-        </div>
-      </div>
-    </section>
-    <SectionSpacer />
-    <SplitSection
-      id="mission"
-      primarySlot={<Carousel />}
-      secondarySlot={
-        <div className="xl:mx-16 lg:ml-20 mx-10">
-          <h5 className="text-3xl font-bold leading-tight">Our Mission</h5>
-          <p className="mt-8 text-xl font-light">
-            Penn Graduate Consulting Club (PGCC) is one of the largest student–run consulting clubs
-            for non-MBA graduate students (PhDs, MDs, JDs, master's, etc.) and post-docs at the
-            University of Pennsylvania. The mission of PGCC is to educate the community about the
-            consulting industry and to help advanced degree candidates prepare for a career in
-            consulting. ​{' '}
-          </p>
-          <p className="mt-8 text-xl font-light">
-            PGCC currently has 500+ members and a strong impact on the broader Penn Community. More
-            than 80% of our members show great passion for a consulting career, and more than 200
-            members will be applying for full-time jobs or internships in the next recruiting cycle.
-          </p>
-        </div>
-      }
-    />
-    <SectionSpacer />
-    <section id="features" className="pt-16 pb-24 bg-gray-200">
-      <div className="container mx-auto text-center">
-        <h2 className="text-3xl font-bold leading-tight">Get Involved</h2>
-        <div className="flex flex-col lg:flex-row sm:-mx-3 mt-12">
-          <div className="same-height my-6 lg:my-0 px-3">
-            <Card className="bg-white">
-              <div className="flex justify-center">
-                <img className="w-12 h-12 mr-4" src={User} alt="user" />
-                <p className="font-bold text-2xl self-center">Join Our Community</p>
-              </div>
-              <p className="mt-4 text-lg">
-                Are you a graduate candidate or post-doc interested in consulting looking to be part
-                of our organization?&nbsp;
-              </p>
-              <br />
-              <Button>
-                <a className="btn-link" href="mailto:TODO">
-                  Reach out
+    <FadeInSection>
+      <section id="top" className="pt-16 xl:pt-20 bg-gray-200 top-background">
+        <div className="container mx-auto px-8 lg:flex lg:items-center">
+          <div className="text-center lg:text-left lg:w-1/2">
+            <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
+              Penn Graduate Consulting Club
+            </h1>
+            <p className="text-xl lg:text-2xl mt-6 font-light">
+              Premiere student-run consulting club at the University of Pennsylvania, 500+ members
+              strong.
+            </p>
+            <p className="mt-8 md:mt-8">
+              <Button size="lg" className="mx-4 md:-ml-1 my-1">
+                <a className="btn-link" href="/about">
+                  Learn More
                 </a>
               </Button>
-            </Card>
-          </div>
-          <div className="same-height my-6 lg:my-0 px-3">
-            <Card className="bg-white">
-              <div className="flex justify-center">
-                <img className="w-12 h-12 mr-4" src={Money} alt="money" />
-                <p className="font-bold text-2xl self-center">Become a Sponsor</p>
-              </div>
-              <p className="mt-4 text-lg">
-                Sponsoring our annual PGCC Case Competition offers a great branding opportunity for
-                your organization.
-              </p>
-              <br />
-              <Button>
-                <a className="btn-link" href="/sponsors">
-                  Find out more
+              <TransparentButton className="transparent-btn my-1" size="lg">
+                <a className="blue-link" href="#get-involved">
+                  Get Involved
                 </a>
-              </Button>
-            </Card>
+              </TransparentButton>
+            </p>
           </div>
-          <div className="same-height my-6 lg:my-0 px-3">
-            <Card className="bg-white">
-              <div className="flex justify-center">
-                <img className="w-12 h-12 mr-4" src={Folder} alt="folder" />
-                <p className="font-bold text-2xl self-center">Work With Us</p>
-              </div>
-              <p className="mt-4 text-lg">
-                PGCC offers pro bono consulting to organizations, providing consultants with
-                analytical skillsets and creativity.&nbsp;
-              </p>
-              <br />
-              <Button>
-                <a className="btn-link" href="/pro-bono-consulting">
-                  Learn more
-                </a>
-              </Button>
-            </Card>
+          <div className="lg:w-1/2">
+            <img src={HeroImage} className="hide-on-mobile" alt="hero" />
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </FadeInSection>
     <SectionSpacer />
-    <section id="stats">
-      <div className="container mx-auto text-center">
-        <LabelText className="text-gray-600">Our club in numbers</LabelText>
-        <div className="flex flex-col sm:flex-row mt-8 lg:px-24">
-          <div className="my-3 sm:w-1/3">
-            <StatsBox primaryText="500+" secondaryText="Passionate Members" />
+    <FadeInSection>
+      <SplitSection
+        id="mission"
+        primarySlot={<Carousel />}
+        secondarySlot={
+          <div className="xl:mx-16 lg:ml-20 mx-10">
+            <h5 className="text-3xl font-bold leading-tight">Our Mission</h5>
+            <p className="mt-8 text-xl font-light">
+              Penn Graduate Consulting Club (PGCC) is one of the largest student–run consulting
+              clubs for non-MBA graduate students (PhDs, MDs, JDs, master's, etc.) and post-docs at
+              the University of Pennsylvania. The mission of PGCC is to educate the community about
+              the consulting industry and to help advanced degree candidates prepare for a career in
+              consulting. ​{' '}
+            </p>
+            <p className="mt-8 text-xl font-light">
+              PGCC currently has 500+ members and a strong impact on the broader Penn Community.
+              More than 80% of our members show great passion for a consulting career, and more than
+              200 members will be applying for full-time jobs or internships in the next recruiting
+              cycle.
+            </p>
           </div>
-          <div className="my-3 sm:w-1/3">
-            <StatsBox primaryText="+100%" secondaryText="Stats Information" />
-          </div>
-          <div className="my-3 sm:w-1/3">
-            <StatsBox primaryText="+100%" secondaryText="Stats Information" />
+        }
+      />
+    </FadeInSection>
+    <SectionSpacer />
+    <FadeInSection>
+      <section id="features" className="pt-16 pb-24 bg-gray-200">
+        <div className="container mx-auto text-center">
+          <h2 className="text-3xl font-bold leading-tight">Get Involved</h2>
+          <div className="flex flex-col lg:flex-row sm:-mx-3 mt-12">
+            <div className="same-height my-6 lg:my-0 px-3">
+              <Card className="bg-white">
+                <div className="flex justify-center">
+                  <img className="w-12 h-12 mr-4" src={User} alt="user" />
+                  <p className="font-bold text-2xl self-center">Join Our Community</p>
+                </div>
+                <p className="mt-4 text-lg">
+                  Are you a graduate candidate or post-doc interested in consulting looking to be
+                  part of our organization?&nbsp;
+                </p>
+                <br />
+                <Button>
+                  <a className="btn-link" href="mailto:pgcc.comm@gmail.com">
+                    Reach out
+                  </a>
+                </Button>
+              </Card>
+            </div>
+            <div className="same-height my-6 lg:my-0 px-3">
+              <Card className="bg-white">
+                <div className="flex justify-center">
+                  <img className="w-12 h-12 mr-4" src={Money} alt="money" />
+                  <p className="font-bold text-2xl self-center">Become a Sponsor</p>
+                </div>
+                <p className="mt-4 text-lg">
+                  Sponsoring our annual PGCC Case Competition offers a great branding opportunity
+                  for your organization.
+                </p>
+                <br />
+                <Button>
+                  <a className="btn-link" href="/sponsors">
+                    Find out more
+                  </a>
+                </Button>
+              </Card>
+            </div>
+            <div className="same-height my-6 lg:my-0 px-3">
+              <Card className="bg-white">
+                <div className="flex justify-center">
+                  <img className="w-12 h-12 mr-4" src={Folder} alt="folder" />
+                  <p className="font-bold text-2xl self-center">Work With Us</p>
+                </div>
+                <p className="mt-4 text-lg">
+                  PGCC offers pro bono consulting to organizations, providing consultants with
+                  analytical skillsets and creativity.&nbsp;
+                </p>
+                <br />
+                <Button>
+                  <a className="btn-link" href="/pro-bono-consulting">
+                    Learn more
+                  </a>
+                </Button>
+              </Card>
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </FadeInSection>
+
     <SectionSpacer />
-    <IGFeed />
-    <div id="get-involved">
-      <SectionSpacer />
-      <MailList />
-    </div>
+    <FadeInSection>
+      <section id="stats">
+        <div className="container mx-auto text-center">
+          <LabelText className="text-gray-600">Our club in numbers</LabelText>
+          <div className="flex flex-col sm:flex-row mt-8 lg:px-24">
+            <div className="my-3 sm:w-1/3">
+              <StatsBox primaryText="500+" secondaryText="Passionate Members" />
+            </div>
+            <div className="my-3 sm:w-1/3">
+              <StatsBox primaryText="+100%" secondaryText="Stats Information" />
+            </div>
+            <div className="my-3 sm:w-1/3">
+              <StatsBox primaryText="+100%" secondaryText="Stats Information" />
+            </div>
+          </div>
+        </div>
+      </section>
+    </FadeInSection>
+
+    <SectionSpacer />
+    <FadeInSection>
+      <IGFeed />
+    </FadeInSection>
+    <FadeInSection>
+      <div id="get-involved">
+        <SectionSpacer />
+        <MailList />
+      </div>
+    </FadeInSection>
   </Layout>
 );
