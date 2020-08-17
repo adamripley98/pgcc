@@ -35,7 +35,7 @@ export default () => (
   <Layout>
     <Banner
       title="Helpful Resources"
-      subtitle="This is the subtitle of the resources page. We can put whatever text you so desire here."
+      subtitle="Check out the books, podcasts, and case prep resources PGCC recommends."
     />
     <FadeInSection>
       <section id="case-books" className="pt-16 pb-24 bg-gray-200">

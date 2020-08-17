@@ -72,7 +72,7 @@ class Header extends React.Component {
                   activeStyle={{ 'text-decoration': 'underline' }}
                   to="/pro-bono-consulting"
                 >
-                  Pro Bono
+                  Consulting
                 </Link>
                 <Link
                   className="px-4 nav-link"

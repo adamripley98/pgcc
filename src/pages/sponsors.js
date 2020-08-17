@@ -14,19 +14,18 @@ import sponsorsSilver from '../data/sponsors-silver';
 
 export default () => (
   <Layout>
-    <Banner
-      title="Sponsors"
-      subtitle="This is the subtitle of the sponsors page. We can put whatever text you so desire here."
-    />
+    <Banner title="Sponsors" subtitle="Connect with top talent while supporting our members." />
     <FadeInSection>
       <section id="top" className="pt-20">
         <div className="container mx-auto px-8 lg:flex lg:justify-between">
           <div className="text-left lg:w-1/2">
             <p className="my-8 text-2xl font-light text-left">
-              TODO: Write something about how we are grateful for our sponsors. Say what a sponsor
-              does and what their money is used for. Perhaps talk about the difference between gold
-              and silver tier sponsors. If you are interested in learning more about sponsorship,
-              don't hesitate to reach out!
+              PGCC offers firms the chance to{' '}
+              <span className="font-bold">network with a future talent pool</span> consisting of
+              over 500 graduate students and postdocs from the University of Pennsylvania. Our
+              sponsors <span className="font-bold">create opportunities</span> for our members by
+              funding case competitions, speaker events, and scholarships. Reach out to us to learn
+              how you can become a sponsor.
             </p>
             <Button>
               <a className="btn-link" href="mailto:pgcc.comm@gmail.com">

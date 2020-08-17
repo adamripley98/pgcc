@@ -12,13 +12,17 @@ const Footer = () => (
           </p>
         </div>
         <div className="flex-1 px-3">
-          <h2 className="text-lg font-bold">Important Links</h2>
+          <h2 className="text-lg font-bold">Partnering Organizations</h2>
           <ul className="mt-4 leading-loose">
             <li>
-              <a href="https://www.google.com/">TODO: Add link</a>
+              <a target="_blank" rel="noreferrer" href="https://pbgconsulting.org/PBGsite/">
+                Penn Biotech Group
+              </a>
             </li>
             <li>
-              <a href="https://www.google.com/">TODO: Add link</a>
+              <a target="_blank" rel="noreferrer" href="https://pbgconsulting.org/PBGsite/">
+                PennSEM
+              </a>
             </li>
           </ul>
         </div>
@@ -40,7 +44,9 @@ const Footer = () => (
               </a>
             </li>
             <li>
-              <a href="mailto:pgcc.comm@gmail.com">Email</a>
+              <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/groups/1829393/">
+                Linkedin
+              </a>
             </li>
           </ul>
         </div>

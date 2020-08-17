@@ -11,7 +11,7 @@ export default () => (
   <Layout>
     <Banner
       title="Pro Bono Consulting"
-      subtitle="This is the subtitle of the pro bono consulting page. We can put whatever text you so desire here."
+      subtitle="PGCC members can solve business problems for companies across a variety of industries"
     />
     <FadeInSection>
       <section id="top" className="py-20">
@@ -44,8 +44,8 @@ export default () => (
               defined by clients.
             </p>
             <p className="mt-8 text-xl font-light">
-              If you are interested in working with us, contact the VP of Consulting Huiwen Bai at
-              pgcc.comm@gmail.com.
+              If you are interested in working with us, contact the VP of Business Development and
+              Consulting at <a href="mailto:pgcc.comm@gmail.com">pgcc.comm@gmail.com.</a>
             </p>
           </div>
         </div>

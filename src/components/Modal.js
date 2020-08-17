@@ -4,7 +4,7 @@ import Mail from '../images/icons/email.png';
 
 const Modal = ({ showModal, changeModalState, person }) => (
   <div className={showModal ? 'show-modal' : 'hide-modal'}>
-    <div className="fixed bottom-0 inset-x-0 px-4 pb-4 sm:inset-0 sm:flex sm:items-center sm:justify-center">
+    <div className="z-50 fixed bottom-0 inset-x-0 px-4 pb-4 sm:inset-0 sm:flex sm:items-center sm:justify-center">
       <div className="fixed inset-0 transition-opacity">
         <div className="absolute inset-0 bg-gray-500 opacity-75" />
       </div>
@@ -31,9 +31,11 @@ const Modal = ({ showModal, changeModalState, person }) => (
             <a href={person.linkedin}>
               <img src={LinkedIn} className="w-8 h-8 mr-2 social-icon" alt="linkedin" />
             </a>
-            <a href={`mailto:${person.email}`}>
-              <img src={Mail} className="w-8 h-8 social-icon" alt="mail" />
-            </a>
+            {person.email ? (
+              <a href={`mailto:${person.email}`}>
+                <img src={Mail} className="w-8 social-icon" alt="mail" />
+              </a>
+            ) : null}
           </div>
           <button
             type="button"

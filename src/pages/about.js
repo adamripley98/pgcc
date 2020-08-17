@@ -14,6 +14,7 @@ import SectionSpacer from '../components/layout/SectionSpacer';
 import FadeInSection from '../components/layout/FadeInSection';
 import execBoard from '../data/exec-board';
 import alumni from '../data/alumni';
+import advisors from '../data/advisors';
 
 class About extends React.Component {
   constructor(props) {
@@ -36,10 +37,7 @@ class About extends React.Component {
   render() {
     return (
       <Layout>
-        <Banner
-          title="About PGCC"
-          subtitle="This is the subtitle of the about page. We can put whatever text you so desire here."
-        />
+        <Banner title="About PGCC" subtitle="Learn what we do and meet our executive board." />
         <FadeInSection>
           <section className="py-20">
             <div className="container mx-auto px-8">
@@ -132,17 +130,32 @@ class About extends React.Component {
         </FadeInSection>
         <SectionSpacer />
         <FadeInSection>
+          <section id="advisors">
+            <div className="container mx-auto px-2">
+              <LabelText className="mb-8 pb-8 font-bold text-center">Advisors</LabelText>
+              <div className="flex flex-wrap">
+                {advisors.map(person => (
+                  <div key={person.name} className="px-3 w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 mb-4">
+                    <PersonCard
+                      changeModalState={() => this.changeModalState(person)}
+                      person={person}
+                    />
+                  </div>
+                ))}
+              </div>
+            </div>
+          </section>
+        </FadeInSection>
+        <SectionSpacer />
+        <FadeInSection>
           <section id="alumni">
             <div className="container mx-auto px-2">
-              <LabelText className="mb-8 font-bold text-center">PGCC Alumni</LabelText>
-              <div className="flex flex-col items-center">
+              <LabelText className="mb-8 pb-8 font-bold text-center">PGCC Alumni</LabelText>
+              <div className="flex flex-wrap justify-center">
                 {alumni.map(person => (
-                  <div className="mb-4">
+                  <div className="mb-4 px-3 w-full md:w-1/2">
                     <h1 className="text-xl font-bold">{person.name}</h1>
-                    <p className="italic font-light">
-                      {person.title}, {person.year}
-                    </p>
-                    <p className="">{person.bio}</p>
+                    <p className="italic font-light">{person.title}</p>
                   </div>
                 ))}
               </div>

@@ -1,32 +1,34 @@
 export default [
   {
-    name: 'John Doe',
-    title: 'VP for Career Development',
-    bio: 'John works at Goldman Sachs as an analyst in New York.',
-    year: 2016
+    name: 'Caiyue Xu',
+    title: 'Life Sciences Specialist, L.E.K. Consulting'
   },
   {
-    name: 'John Doe',
-    title: 'VP for Career Development',
-    bio: 'John works at Goldman Sachs as an analyst in New York.',
-    year: 2016
+    name: 'Prutha Dubashi',
+    title: 'Associate, BCG'
   },
   {
-    name: 'John Doe',
-    title: 'VP for Career Development',
-    bio: 'John works at Goldman Sachs as an analyst in New York.',
-    year: 2016
+    name: 'Hyder M. Alikhan',
+    title: 'Senior Specialist, Bain & Company'
   },
   {
-    name: 'John Doe',
-    title: 'VP for Career Development',
-    bio: 'John works at Goldman Sachs as an analyst in New York.',
-    year: 2016
+    name: 'Rosa María Álvarez',
+    title: 'Senior Consultant, Deloitte'
   },
   {
-    name: 'John Doe',
-    title: 'VP for Career Development',
-    bio: 'John works at Goldman Sachs as an analyst in New York.',
-    year: 2016
+    name: 'Dr. Abhilash Nair',
+    title: 'Manager - Strategy & Analytics, Deloitte'
+  },
+  {
+    name: 'Maria Elisabeth Murrayu',
+    title: 'Senior Consultant at IQVIA Government Solutions'
+  },
+  {
+    name: 'Jonathon Yoderu',
+    title: 'Engagement Director/Life Sciences Strategic Consultant, Axiom Healthcare Strategies'
+  },
+  {
+    name: 'Brittany Borden-Edwards',
+    title: 'Management Consultant, North Highland'
   }
 ];
