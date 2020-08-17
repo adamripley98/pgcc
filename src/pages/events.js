@@ -33,30 +33,9 @@ export default () => (
       </section>
     </FadeInSection>
     <FadeInSection>
-      <FacebookEvents />
-    </FadeInSection>
-    <FadeInSection>
       <section id="upcoming" className="pt-20">
         <LabelText className="mb-8 font-bold text-center">Upcoming Events</LabelText>
-        <div>
-          {upcomingEvents.map(event => (
-            <div key={event.title} className="flex justify-center px-3 mb-6">
-              <UpcomingEventCard className="" event={event} />
-            </div>
-          ))}
-        </div>
-      </section>
-    </FadeInSection>
-    <FadeInSection>
-      <section id="past" className="pt-20">
-        <LabelText className="mb-8 font-bold text-center">Past Events</LabelText>
-        <div>
-          {pastEvents.map(event => (
-            <div key={event.title} className="flex justify-center px-3 mb-6">
-              <PastEventCard className="" event={event} />
-            </div>
-          ))}
-        </div>
+        <FacebookEvents />
       </section>
     </FadeInSection>
     <FadeInSection>

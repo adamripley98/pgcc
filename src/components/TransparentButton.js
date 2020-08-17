@@ -23,7 +23,6 @@ const TransparentButton = ({ children, className = '', size }) => {
         rounded
         text-white
         tracking-wider
-        uppercase
     `}
     >
       {children}

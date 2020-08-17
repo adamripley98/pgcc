@@ -36,16 +36,16 @@ export default () => (
           <div className="text-left lg:pl-16">
             <LabelText>Become a client</LabelText>
             <p className="mt-8 text-xl font-light">
-              As one of the largest consulting clubs at UPenn, PGCC is always looking for new
-              projects for our members to get real-world consulting experience. We are now working
-              with a few start-ups and companies to offer pro bono consulting services in market
-              research, entry strategies, implementation assistance, etc. Our members with related
-              backgrounds work in teams, devoting their knowledge and time to work on projects
-              defined by clients.
+              At PGCC, we offer Pro Bono consulting services for clients ranging from local small
+              businesses, to growing start-ups and international firms. We bring together top Penn
+              graduate students of diverse backgrounds and expertise to solve business problems
+              spanning marketing, strategy, and implementation for firms in education, biotech, and
+              beyond.
             </p>
             <p className="mt-8 text-xl font-light">
-              If you are interested in working with us, contact the VP of Business Development and
-              Consulting at <a href="mailto:pgcc.comm@gmail.com">pgcc.comm@gmail.com.</a>
+              If you’re a potential client, reach out to us at{' '}
+              <a href="mailto:pgcc.comm@gmail.com">pgcc.comm@gmail.com.</a> to learn more about
+              working with us.
             </p>
           </div>
         </div>
@@ -55,10 +55,12 @@ export default () => (
     <FadeInSection>
       <section id="join-team" className="pt-20 container mx-auto px-8">
         <LabelText>Join Our Consulting Team</LabelText>
-        <p className="mt-8 text-xl font-light">
-          We inform PGCC members about upcoming pro bono consulting projects via our mailing list.
-          If you would like to get first-hand experience in consulting, sign up for our mailing list
-          to stay up to date!
+        <p className="mt-8 text-xl font-light text-center">
+          If you’re a student,{' '}
+          <a target="_" rel="noreferrer" href="https:www.TODO.com">
+            apply here
+          </a>{' '}
+          to be considered for future Pro Bono consulting projects.
         </p>
       </section>
     </FadeInSection>

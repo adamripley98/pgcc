@@ -10,30 +10,35 @@ const ContactForm = () => (
       </h1>
 
       <Card className="mx-4 lg:w-2/3">
-        <div className="lg:flex">
-          <input
-            type="text"
-            className="focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-4 px-4 mr-2 my-2 w-full lg:w-1/2"
-            placeholder="Name"
-            name="name"
+        <form>
+          <div className="lg:flex">
+            <input
+              type="text"
+              className="focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-4 px-4 mr-2 my-2 w-full lg:w-1/2"
+              placeholder="Name"
+              name="name"
+            />
+            <input
+              type="email"
+              className="focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-4 px-4 my-2 w-full lg:w-1/2"
+              placeholder="Email"
+              name="email"
+            />
+          </div>
+          <textarea
+            rows="4"
+            className="focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-4 px-4 mr-2 my-2 w-full"
+            placeholder="Write your message..."
+            name="message"
           />
-          <input
-            type="email"
-            className="focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-4 px-4 my-2 w-full lg:w-1/2"
-            placeholder="Email"
-            name="email"
-          />
-        </div>
-        <textarea
-          rows="4"
-          className="focus:outline-none focus:shadow-outline border border-gray-300 rounded-lg py-4 px-4 mr-2 my-2 w-full"
-          placeholder="Write your message..."
-          name="message"
-        />
+          <input type="hidden" name="_gotcha" />
+          <div className="flex justify-center">
+            <Button size="md" className="mt-8">
+              Send Message
+            </Button>
+          </div>
+        </form>
       </Card>
-      <Button size="md" className="mt-10">
-        Send Message
-      </Button>
     </div>
   </div>
 );
