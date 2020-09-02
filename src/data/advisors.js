@@ -1,4 +1,4 @@
-import Eric from '../images/headshots/eric.png';
+import Scott from '../images/headshots/scott.jpg';
 
 export default [
   {
@@ -7,6 +7,6 @@ export default [
     name: 'Scott Ugras',
     title: 'Corporate Strategy, Sarepta Therapeutics',
     linkedin: 'https://www.linkedin.com/in/scottugras/',
-    image: Eric
+    image: Scott
   }
 ];

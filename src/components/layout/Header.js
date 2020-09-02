@@ -151,21 +151,6 @@ class Header extends React.Component {
 
 export default Header;
 
-// <div className="dropdown">
-//   <span className="px-4 nav-link">About</span>
-//   <div className="dropdown-content">
-//     <Link className="px-4 nav-link" to="/about">
-//       About us
-//     </Link>
-//     <Link className="px-4 nav-link" to="/">
-//       Test
-//     </Link>
-//     <Link className="px-4 nav-link" to="/">
-//       Tes
-//     </Link>
-//   </div>
-// </div>
-
 // <AnchorLink className="px-4 nav-link" href="#top">
 //   Home
 // </AnchorLink>

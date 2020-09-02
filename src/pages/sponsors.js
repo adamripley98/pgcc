@@ -4,6 +4,7 @@ import LabelText from '../components/LabelText';
 import Layout from '../components/layout/Layout';
 import SectionSpacer from '../components/layout/SectionSpacer';
 import Agreement from '../images/icons/agreement.png';
+import Benefits from '../images/sponsors/sponsor-benefits.pdf';
 import MailList from '../components/MailList';
 import SponsorFAQ from '../components/SponsorFAQ';
 import Banner from '../components/Banner';
@@ -27,11 +28,18 @@ export default () => (
               funding case competitions, speaker events, and scholarships. Reach out to us to learn
               how you can become a sponsor.
             </p>
-            <Button>
-              <a className="btn-link" href="mailto:pgcc.comm@gmail.com">
-                Reach out
-              </a>
-            </Button>
+            <p className="mt-8 md:mt-8">
+              <Button size="lg" className="mx-4 md:-ml-1 my-1">
+                <a className="btn-link" href="mailto:pgcc.comm@gmail.com">
+                  Reach out
+                </a>
+              </Button>
+              <Button className="my-1" size="lg">
+                <a href={Benefits} className="btn-link" rel="noreferrer" target="_blank">
+                  View benefits
+                </a>
+              </Button>
+            </p>
           </div>
           <img src={Agreement} alt="agreement" className="hidden lg:inline-flex lg:w-1/3" />
         </div>

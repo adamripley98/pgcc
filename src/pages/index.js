@@ -151,7 +151,7 @@ export default () => (
               <StatsBox primaryText="12" secondaryText="Penn Schools Represented" />
             </div>
             <div className="my-3 sm:w-1/3">
-              <StatsBox primaryText="+100%" secondaryText="Stats Information" />
+              <StatsBox primaryText="100+" secondaryText="Case Comp Participants" />
             </div>
           </div>
         </div>
