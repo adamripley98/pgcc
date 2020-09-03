@@ -11,9 +11,11 @@
   "dependencies": {
     "@brainhubeu/react-carousel": "^1.16.3",
     "@tailwindcss/ui": "^0.4.0",
+    "async": "^3.2.0",
     "cheerio": "^1.0.0-rc.3",
     "gatsby": "^2.18.18",
     "gatsby-cli": "^2.12.62",
+    "gatsby-plugin-mailchimp": "^5.2.2",
     "gatsby-plugin-manifest": "^2.4.27",
     "gatsby-theme-codebushi": "1.0.0",
     "net": "^1.0.2",
