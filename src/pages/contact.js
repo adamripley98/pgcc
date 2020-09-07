@@ -10,7 +10,7 @@ export default () => (
   <Layout>
     <Banner
       title="Get in touch"
-      subtitle="This is the subtitle of the contact page. We can put whatever text you so desire here."
+      subtitle="Inquire about our club through the form and we will respond within 48 hours."
     />
     <FadeInSection>
       <section className="pt-20">

@@ -82,8 +82,8 @@ export default () => (
             <div className="same-height my-6 lg:my-0 px-3">
               <Card className="bg-white">
                 <div className="flex justify-center">
-                  <img className="w-12 h-12 mr-4" src={User} alt="user" />
-                  <p className="font-bold text-2xl self-center">Join Our Community</p>
+                  <img className="w-8 h-8 mr-4" src={User} alt="user" />
+                  <p className="font-bold text-xl">Join Our Community</p>
                 </div>
                 <p className="mt-4 text-lg">
                   Are you a graduate candidate or post-doc interested in consulting looking to be
@@ -100,8 +100,8 @@ export default () => (
             <div className="same-height my-6 lg:my-0 px-3">
               <Card className="bg-white">
                 <div className="flex justify-center">
-                  <img className="w-12 h-12 mr-4" src={Money} alt="money" />
-                  <p className="font-bold text-2xl self-center">Become a Sponsor</p>
+                  <img className="w-8 h-8 mr-4" src={Money} alt="money" />
+                  <p className="font-bold text-xl">Become a Sponsor</p>
                 </div>
                 <p className="mt-4 text-lg">
                   Sponsoring our annual PGCC Case Competition offers a great branding opportunity
@@ -118,8 +118,8 @@ export default () => (
             <div className="same-height my-6 lg:my-0 px-3">
               <Card className="bg-white">
                 <div className="flex justify-center">
-                  <img className="w-12 h-12 mr-4" src={Folder} alt="folder" />
-                  <p className="font-bold text-2xl self-center">Work With Us</p>
+                  <img className="w-8 h-8 mr-4" src={Folder} alt="folder" />
+                  <p className="font-bold text-xl">Work With Us</p>
                 </div>
                 <p className="mt-4 text-lg">
                   PGCC offers pro bono consulting to organizations, providing consultants with

@@ -1,5 +1,6 @@
 import React from 'react';
 import PersonCard from '../components/PersonCard';
+import AdvisorCard from '../components/AdvisorCard';
 import LabelText from '../components/LabelText';
 import Layout from '../components/layout/Layout';
 import Modal from '../components/Modal';
@@ -133,10 +134,10 @@ class About extends React.Component {
           <section id="advisors">
             <div className="container mx-auto px-2">
               <LabelText className="mb-8 pb-8 font-bold text-center">Advisors</LabelText>
-              <div className="flex flex-wrap">
+              <div className="flex justify-center">
                 {advisors.map(person => (
-                  <div key={person.name} className="px-3 w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 mb-4">
-                    <PersonCard
+                  <div key={person.name} className="w-full md:w-2/3 lg:w-1/2 mb-4">
+                    <AdvisorCard
                       changeModalState={() => this.changeModalState(person)}
                       person={person}
                     />
@@ -151,9 +152,9 @@ class About extends React.Component {
           <section id="alumni">
             <div className="container mx-auto px-2">
               <LabelText className="mb-8 pb-8 font-bold text-center">PGCC Alumni</LabelText>
-              <div className="flex flex-wrap justify-center">
+              <div className="flex flex-wrap">
                 {alumni.map(person => (
-                  <div className="mb-4 px-3 w-full md:w-1/2">
+                  <div className="mb-4 px-12 w-full md:w-1/2">
                     <h1 className="text-xl font-bold">{person.name}</h1>
                     <p className="italic font-light">{person.title}</p>
                   </div>

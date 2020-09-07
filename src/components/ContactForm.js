@@ -5,10 +5,6 @@ const ContactForm = () => {
   return (
     <div className="container mx-auto">
       <div className="flex justify-center items-center flex-col">
-        <h1 className="text-2xl mb-8">
-          Inquire about our club through this form and we will respond within 48 hours.
-        </h1>
-
         <Card className="mx-4 lg:w-2/3">
           <form action="https://formcarry.com/s/nkNt2jippDBi" method="POST" acceptCharset="UTF-8">
             <div className="lg:flex">
@@ -32,7 +28,7 @@ const ContactForm = () => {
               name="message"
             />
             <input type="hidden" name="_gotcha" />
-            <div className="flex justify-center">
+            <div className="flex justify-center mt-4">
               <input
                 type="submit"
                 name="submit"

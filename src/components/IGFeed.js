@@ -20,6 +20,12 @@ class IGFeed extends React.Component {
   render() {
     return (
       <div className="container">
+        <h5 className="text-3xl font-bold leading-tight text-center mb-12">
+          Find us on{' '}
+          <a href="https://www.instagram.com/upenn_pgcc/" rel="noreferrer" target="_blank">
+            Instagram
+          </a>
+        </h5>
         <div id="gallery-html" />
       </div>
     );
