@@ -41,7 +41,7 @@ class MailList extends React.Component {
           <p className="mt-8 mx-8 text-xl font-light">{this.state.result}</p>
         ) : (
           <>
-            <p className="mt-8 mx-8 text-xl font-light">
+            <p className="mt-8 mx-4 text-xl font-light">
               Sign up for our mailing list to become a PGCC member, get updates about upcoming
               events, and gain valuable resources.
             </p>

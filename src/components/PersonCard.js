@@ -10,14 +10,14 @@ const PersonCard = ({ changeModalState, person }) => (
         <p className="font-bold text-xl">{person.name}</p>
         <p className="text-sm italic text-gray-600">{person.title}</p>
       </div>
-      <div className="flex justify-between mt-5">
+      <div className="flex flex-wrap justify-between mt-5">
         <div className="flex">
           <a href={person.linkedin}>
-            <img src={LinkedIn} className="w-8 mr-2 social-icon" alt="linkedin" />
+            <img src={LinkedIn} className="w-8 h-8 mr-2" alt="linkedin" />
           </a>
           {person.email ? (
             <a href={`mailto:${person.email}`}>
-              <img src={Mail} className="w-8 social-icon" alt="mail" />
+              <img src={Mail} className="w-8 h-8" alt="mail" />
             </a>
           ) : null}
         </div>

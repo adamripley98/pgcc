@@ -1,10 +1,17 @@
 @tailwind base;
 
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 .layout {
   animation: fadeInAnimation ease 2s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
+
 @keyframes fadeInAnimation {
   0% {
     opacity: 0;

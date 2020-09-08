@@ -16,7 +16,7 @@ export default () => (
     <FadeInSection>
       <section id="top" className="py-20">
         <div className="container mx-auto px-8">
-          <p className="mt-8 text-2xl font-light text-left">
+          <p className="mt-8 text-xl md:text-2xl font-light text-left">
             PGCC offers pro bono consulting to interested organizations. We staff projects with
             enthusiastic and bright advanced degree candidates and post-doctoral researchers who use
             their analytical skillset and creativity to generate solutions for our clients. Projects
@@ -55,7 +55,7 @@ export default () => (
     <FadeInSection>
       <section id="join-team" className="pt-20 container mx-auto px-8">
         <LabelText>Join Our Consulting Team</LabelText>
-        <p className="mt-8 text-xl font-light text-center">
+        <p className="mt-8 text-xl font-light text-left md:text-center">
           If you’re a student,{' '}
           <a target="_" rel="noreferrer" href="https://forms.gle/V9UUAp8yHkGws8mf6">
             apply here

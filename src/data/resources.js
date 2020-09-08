@@ -12,7 +12,7 @@ import TA from '../images/resources/ta.jpg';
 import MCKPOD from '../images/resources/mckinsey-podcast.jpg';
 import ART from '../images/resources/art-of-consulting-pod.jpg';
 import STRAT from '../images/resources/strategy-skills.png';
-import GS from '../images/resources/gs-logo.svg';
+import GS from '../images/resources/gs-logo.png';
 import FREAK from '../images/resources/freakonomics.png';
 import HBR from '../images/resources/hbr.jpeg';
 import DEL from '../images/resources/deloitte.jpg';

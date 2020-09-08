@@ -79,7 +79,7 @@ export default () => (
             {podcasts.map(x => (
               <div key={x.link} className="px-5 py-2 w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 mb-4">
                 <a href={x.link} target="_blank" rel="noreferrer">
-                  <img src={x.image} className="h-64 resource-img" alt="logo" />
+                  <img src={x.image} className="resource-img" alt="logo" />
                 </a>
               </div>
             ))}

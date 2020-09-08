@@ -141,7 +141,11 @@ class Header extends React.Component {
             >
               Resources
             </Link>
-            <Button className="text-sm my-2">Contact Us</Button>
+            <Button className="text-sm">
+              <Link className="btn-link" to="/contact">
+                Contact Us
+              </Link>
+            </Button>
           </div>
         </div>
       </>

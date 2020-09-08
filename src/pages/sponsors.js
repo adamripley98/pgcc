@@ -29,12 +29,12 @@ export default () => (
               how you can become a sponsor.
             </p>
             <p className="mt-8 md:mt-8">
-              <Button size="lg" className="mx-4 md:-ml-1 my-1">
+              <Button size="md" className="mx-4 md:-ml-1 my-1">
                 <a className="btn-link" href="mailto:pgcc.comm@gmail.com">
                   Reach out
                 </a>
               </Button>
-              <Button className="my-1" size="lg">
+              <Button className="my-1" size="md">
                 <a href={Benefits} className="btn-link" rel="noreferrer" target="_blank">
                   View benefits
                 </a>

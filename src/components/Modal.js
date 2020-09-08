@@ -16,13 +16,13 @@ const Modal = ({ showModal, changeModalState, person }) => (
         aria-labelledby="modal-headline"
       >
         <div className="bg-white px-4 pt-5 pb-4 sm:p-6 sm:pb-4">
-          <div className="mt-3 text-center sm:mt-0 sm:ml-4 sm:text-left">
+          <div className="mt-3 text-left sm:mt-0 sm:ml-4">
             <div>
               <p className="font-bold text-xl">{person.name}</p>
               <p className="text-sm italic text-gray-600">{person.title}</p>
             </div>
             <div className="my-6">
-              <p className="text-md text-gray-800">{person.content}</p>
+              <p className="text-xs sm:text-md text-gray-800">{person.content}</p>
             </div>
           </div>
         </div>
