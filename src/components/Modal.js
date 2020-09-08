@@ -22,7 +22,7 @@ const Modal = ({ showModal, changeModalState, person }) => (
               <p className="text-sm italic text-gray-600">{person.title}</p>
             </div>
             <div className="my-6">
-              <p className="text-xs sm:text-md text-gray-800">{person.content}</p>
+              <p className="text-xs sm:text-base text-gray-800">{person.content}</p>
             </div>
           </div>
         </div>

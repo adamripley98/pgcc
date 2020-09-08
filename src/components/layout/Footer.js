@@ -5,15 +5,15 @@ const Footer = () => (
     <footer className="py-10 px-6 mt-24 mb-8 text-gray-800">
       <div className="flex">
         <div className="flex-1 px-3">
-          <h2 className="text-lg font-bold">About Us</h2>
-          <p className="mt-5">
+          <h2 className="text-base md:text-lg font-bold">About Us</h2>
+          <p className="mt-5 text-sm md:text-base">
             Premiere student-run consulting club at the University of Pennsylvania, 500+ members
             strong.
           </p>
         </div>
         <div className="flex-1 px-3">
-          <h2 className="text-lg font-bold">Partnering Organizations</h2>
-          <ul className="mt-4 leading-loose">
+          <h2 className="text-base md:text-lg font-bold">Partnering Organizations</h2>
+          <ul className="mt-4 leading-loose text-sm md:text-base">
             <li>
               <a target="_blank" rel="noreferrer" href="https://pbgconsulting.org/PBGsite/">
                 Penn Biotech Group
@@ -27,8 +27,8 @@ const Footer = () => (
           </ul>
         </div>
         <div className="flex-1 px-3">
-          <h2 className="text-lg font-bold">Social Media</h2>
-          <ul className="mt-4 leading-loose">
+          <h2 className="text-base md:text-lg font-bold">Social Media</h2>
+          <ul className="mt-4 leading-loose text-sm md:text-base">
             <li>
               <a target="_blank" rel="noreferrer" href="https://www.instagram.com/upenn_pgcc/">
                 Instagram

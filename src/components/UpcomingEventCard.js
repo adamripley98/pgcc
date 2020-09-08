@@ -17,7 +17,7 @@ const Card = ({ event }) => (
       <div className="lg:w-7/12 px-12 py-6">
         <div>
           <p className="font-bold text-3xl -mb-1">{event.title}</p>
-          <p className="text-md mb-3 font-semibold uppercase text-gray-500">{event.date}</p>
+          <p className="text-base mb-3 font-semibold uppercase text-gray-500">{event.date}</p>
         </div>
         <p className="text-xl italic">{event.description}</p>
         <div className="flex justify-end">

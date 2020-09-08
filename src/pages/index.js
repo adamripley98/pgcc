@@ -81,7 +81,7 @@ export default () => (
           <div className="flex flex-col lg:flex-row sm:-mx-3 mt-12">
             <div className="same-height my-6 lg:my-0 px-3">
               <Card className="bg-white">
-                <div className="flex justify-center">
+                <div className="flex justify-center whitespace-no-wrap">
                   <img className="w-8 h-8 mr-4" src={User} alt="user" />
                   <p className="font-bold text-xl">Join Our Community</p>
                 </div>
@@ -99,7 +99,7 @@ export default () => (
             </div>
             <div className="same-height my-6 lg:my-0 px-3">
               <Card className="bg-white">
-                <div className="flex justify-center">
+                <div className="flex justify-center whitespace-no-wrap">
                   <img className="w-8 h-8 mr-4" src={Money} alt="money" />
                   <p className="font-bold text-xl">Become a Sponsor</p>
                 </div>
@@ -117,7 +117,7 @@ export default () => (
             </div>
             <div className="same-height my-6 lg:my-0 px-3">
               <Card className="bg-white">
-                <div className="flex justify-center">
+                <div className="flex justify-center whitespace-no-wrap">
                   <img className="w-8 h-8 mr-4" src={Folder} alt="folder" />
                   <p className="font-bold text-xl">Work With Us</p>
                 </div>
