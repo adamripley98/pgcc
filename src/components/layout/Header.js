@@ -8,14 +8,27 @@ class Header extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      isOpen: false
+      isOpen: false,
+      eventsOpen: false,
+      aboutOpen: false
     };
     this.toggle = this.toggle.bind(this);
+    this.toggleMobile = this.toggleMobile.bind(this);
   }
 
   toggle() {
     const isOpen = !this.state.isOpen;
-    this.setState({ isOpen });
+    this.setState({ isOpen, eventsOpen: false, aboutOpen: false });
+  }
+
+  toggleMobile(which) {
+    if (which === 'events') {
+      const eventsOpen = !this.state.eventsOpen;
+      this.setState({ eventsOpen });
+    } else if (which === 'about') {
+      const aboutOpen = !this.state.aboutOpen;
+      this.setState({ aboutOpen });
+    }
   }
 
   render() {
@@ -132,20 +145,58 @@ class Header extends React.Component {
             <Link className="my-2 nav-link" activeStyle={{ 'text-decoration': 'underline' }} to="/">
               Home
             </Link>
-            <Link
-              className="nav-link my-2"
-              activeStyle={{ 'text-decoration': 'underline' }}
-              to="/about"
-            >
-              About
-            </Link>
-            <Link
-              className="nav-link my-2"
-              activeStyle={{ 'text-decoration': 'underline' }}
-              to="/events"
-            >
-              Events
-            </Link>
+            <div className="flex">
+              <Link
+                className="nav-link my-2"
+                activeStyle={{ 'text-decoration': 'underline' }}
+                to="/about"
+              >
+                About
+              </Link>
+              <div
+                className="text-2xl ml-2 text-blue-900 cursor-pointer"
+                onClick={() => this.toggleMobile('about')}
+              >
+                ›
+              </div>
+            </div>
+            <div className={this.state.aboutOpen ? 'inline' : 'hidden'}>
+              <Link className="px-4 nav-link my-1" to="/about">
+                Overview
+              </Link>
+              <Link className="px-4 nav-link my-1" to="/about/#executive-board">
+                Executive Board
+              </Link>
+              <Link className="px-4 nav-link my-1" to="/about/#advisors">
+                Advisors
+              </Link>
+              <Link className="px-4 nav-link my-1 mb-4" to="/about/#alumni">
+                Alumni
+              </Link>
+            </div>
+            <div className="flex">
+              <Link
+                className="nav-link my-2"
+                activeStyle={{ 'text-decoration': 'underline' }}
+                to="/events"
+              >
+                Events
+              </Link>
+              <div
+                className="text-2xl ml-2 text-blue-900 cursor-pointer"
+                onClick={() => this.toggleMobile('events')}
+              >
+                ›
+              </div>
+            </div>
+            <div className={this.state.eventsOpen ? 'inline' : 'hidden'}>
+              <Link className="px-4 nav-link whitespace-no-wrap my-1" to="/events">
+                Upcoming Events
+              </Link>
+              <Link className="px-4 nav-link whitespace-no-wrap my-1 mb-4" to="/case-competition">
+                2020 Case Competition
+              </Link>
+            </div>
             <Link
               className="nav-link my-2"
               activeStyle={{ 'text-decoration': 'underline' }}
@@ -154,20 +205,20 @@ class Header extends React.Component {
               Pro Bono
             </Link>
             <Link
-              className="nav-link my-2"
+              className="nav-link my-4"
               activeStyle={{ 'text-decoration': 'underline' }}
               to="/sponsors"
             >
               Sponsors
             </Link>
             <Link
-              className="nav-link my-2"
+              className="nav-link my-4"
               activeStyle={{ 'text-decoration': 'underline' }}
               to="/resources"
             >
               Resources
             </Link>
-            <Button className="text-sm">
+            <Button className="text-sm mb-3">
               <Link className="btn-link" to="/contact">
                 Contact Us
               </Link>
