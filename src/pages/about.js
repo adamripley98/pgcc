@@ -136,7 +136,7 @@ class About extends React.Component {
               <LabelText className="mb-8 pb-8 font-bold text-center">Advisors</LabelText>
               <div className="flex justify-center">
                 {advisors.map(person => (
-                  <div key={person.name} className="w-full md:w-2/3 lg:w-1/2 mb-4">
+                  <div key={person.name} className="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 mb-4">
                     <AdvisorCard
                       changeModalState={() => this.changeModalState(person)}
                       person={person}
