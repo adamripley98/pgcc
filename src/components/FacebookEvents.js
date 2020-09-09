@@ -9,6 +9,7 @@ let width = 800;
 if (typeof window !== `undefined`) {
   width = window.innerWidth > 0 ? window.innerWidth : screen.width;
 }
+console.log('width', width);
 
 const FacebookEvents = () => (
   <div className="mt-20 flex justify-center">
@@ -16,9 +17,10 @@ const FacebookEvents = () => (
       title="events"
       src={`https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPennGradConsulting%2F&tabs=events&width=${Math.min(
         500,
-        width - 100
+        width - 50
       )}&height=244&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=733305677505596`}
       height="244"
+      width={Math.min(500, width - 50)}
       style={style}
       scrolling="no"
       frameBorder="0"

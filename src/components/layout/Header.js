@@ -53,20 +53,46 @@ class Header extends React.Component {
                 >
                   Home
                 </Link>
-                <Link
-                  className="px-4 nav-link"
-                  activeStyle={{ 'text-decoration': 'underline' }}
-                  to="/about"
-                >
-                  About
-                </Link>
-                <Link
-                  className="px-4 nav-link"
-                  activeStyle={{ 'text-decoration': 'underline' }}
-                  to="/events"
-                >
-                  Events
-                </Link>
+                <div className="about-dropdown">
+                  <Link
+                    className="px-4 nav-link about-link"
+                    activeStyle={{ 'text-decoration': 'underline' }}
+                    to="/about"
+                  >
+                    About
+                  </Link>
+                  <div className="about-dropdown-content rounded">
+                    <Link className="px-4 nav-link my-1" to="/about">
+                      Overview
+                    </Link>
+                    <Link className="px-4 nav-link my-1" to="/about/#executive-board">
+                      Executive Board
+                    </Link>
+                    <Link className="px-4 nav-link my-1" to="/about/#advisors">
+                      Advisors
+                    </Link>
+                    <Link className="px-4 nav-link my-1" to="/about/#alumni">
+                      Alumni
+                    </Link>
+                  </div>
+                </div>
+                <div className="events-dropdown">
+                  <Link
+                    className="px-4 nav-link about-link"
+                    activeStyle={{ 'text-decoration': 'underline' }}
+                    to="/events"
+                  >
+                    Events
+                  </Link>
+                  <div className="events-dropdown-content rounded">
+                    <Link className="px-4 nav-link whitespace-no-wrap my-1" to="/events">
+                      Upcoming Events
+                    </Link>
+                    <Link className="px-4 nav-link whitespace-no-wrap my-1" to="/case-competition">
+                      2020 Case Competition
+                    </Link>
+                  </div>
+                </div>
                 <Link
                   className="px-4 nav-link"
                   activeStyle={{ 'text-decoration': 'underline' }}

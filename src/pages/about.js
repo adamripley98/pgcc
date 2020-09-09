@@ -113,7 +113,7 @@ class About extends React.Component {
           changeModalState={this.changeModalState}
         />
         <FadeInSection>
-          <section id="board-members" className="pt-20">
+          <section id="executive-board" className="pt-20">
             <div className="container mx-auto">
               <LabelText className="mb-8 font-bold text-center">Meet the executive board</LabelText>
               <div className="flex flex-wrap">
