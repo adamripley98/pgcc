@@ -13,7 +13,7 @@ const AdvisorCard = ({ changeModalState, person }) => (
       <div className="flex flex-wrap justify-between mt-5">
         <div className="flex">
           <a href={person.linkedin}>
-            <img src={LinkedIn} className="w-8 h-8 mr-2" alt="linkedin" />
+            <img src={LinkedIn} className="w-8 h-8 mr-2" alt="linked-in" />
           </a>
           {person.email ? (
             <a href={`mailto:${person.email}`}>
