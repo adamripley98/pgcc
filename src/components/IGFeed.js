@@ -6,7 +6,7 @@ class IGFeed extends React.Component {
   componentDidMount() {
     const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
     const targetUrl =
-      'https://embedsocial.com/facebook_album/pro_instagram/9fffdfec5d37bf8f66d4ece32184079a51042de3';
+      'https://embedsocial.com/facebook_album/instagram_album_media/9fffdfec5d37bf8f66d4ece32184079a51042de3';
     request(proxyUrl + targetUrl, (error, response, body) => {
       const $ = cheerio.load(body);
       $('.estitle').addClass('hidden');

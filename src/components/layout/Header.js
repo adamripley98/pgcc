@@ -1,5 +1,4 @@
 import React from 'react';
-import AnchorLink from 'react-anchor-link-smooth-scroll';
 import { Link } from 'gatsby';
 import LogoIcon from '../../images/logo.png';
 import Button from '../Button';
