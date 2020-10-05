@@ -23,9 +23,14 @@ export default () => (
             to give graduate students (PhDs, JDs, MDs, master’s, etc) and postdocs an opportunity to
             solve a real healthcare problem in teams of 3-6 members. You will also be able to meet
             and engage with corporate leaders from top healthcare and biotechnology firms who will
-            be helping as judges. All are welcome to apply to participate. No business experience is
+            be helping as judges.
+
+            All are welcome to apply to participate. No business experience is
             necessary. Cash prizes will be given with the first-place team receiving $2000! More
             information can be found by clicking the buttons below.
+
+            Additionally, we'll be hosting a coffee chat on October 9th, 2020 from 7-8 PM EST.
+            Learn more and register at https://upenn.zoom.us/meeting/register/tJwpcOqoqj8tH90kiR8szYz4U4cOHfK4HC3v
           </p>
           <div className="my-4 flex justify-center">
             <Button className="mt-4 mx-3" size="lg">
