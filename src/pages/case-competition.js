@@ -36,8 +36,7 @@ export default () => (
 
           </p>
 
-            <iframe src="https://www.youtube.com/watch?v=vkpgqlEaRUc"
-             width="560" height="315" frameborder="0" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/vkpgqlEaRUc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           <div className="my-4 flex justify-center">
             <Button className="mt-4 mx-3" size="lg">
