@@ -26,7 +26,7 @@ export default () => (
             and engage with corporate leaders from top healthcare and biotechnology firms who will
             be helping as judges.
             </p>
-            <p className="mt-8 text-2xl font-light text-left">
+          <p className="mt-8 text-2xl font-light text-left">
             All are welcome to apply to participate. No business experience is
             necessary. Cash prizes will be given with the first-place team receiving $2000! More
             information can be found by clicking the buttons below.
@@ -34,7 +34,13 @@ export default () => (
             Additionally, we'll be hosting a coffee chat on October 9th, 2020 from 7-8 PM EST.
             Learn more and register below!
 
-            </p>
+          </p>
+          <html>
+           <body>
+            <iframe src="https://www.youtube.com/watch?v=vkpgqlEaRUc"
+             width="560" height="315" frameborder="0" allowfullscreen></iframe>
+           </body>
+          </html>
           <div className="my-4 flex justify-center">
             <Button className="mt-4 mx-3" size="lg">
               <a
