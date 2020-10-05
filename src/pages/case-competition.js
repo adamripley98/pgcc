@@ -31,16 +31,14 @@ export default () => (
             necessary. Cash prizes will be given with the first-place team receiving $2000! More
             information can be found by clicking the buttons below.
 
-            Additionally, we'll be hosting a coffee chat on October 9th, 2020 from 7-8 PM EST.
+            Additionally, we'll be hosting a coffee chat on <b>October 9th, 2020 from 7-8 PM EST</b>.
             Learn more and register below!
 
           </p>
-          <html>
-           <body>
+
             <iframe src="https://www.youtube.com/watch?v=vkpgqlEaRUc"
              width="560" height="315" frameborder="0" allowfullscreen></iframe>
-           </body>
-          </html>
+
           <div className="my-4 flex justify-center">
             <Button className="mt-4 mx-3" size="lg">
               <a
