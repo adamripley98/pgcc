@@ -20,18 +20,18 @@ export default () => (
             Are you a life scientist interested in business or entrepreneurship? Do you wonder how
             game-changing decisions are made about our innovative discoveries once they leave the
             lab? Penn Biotech Group (PBG) and Penn Graduate Consulting Club (PGCC) will be hosting
-            the first virtual Penn Healthcare Case Competition on November 7th. This event is meant
+            the first virtual Penn Healthcare Case Competition on <b>November 7th, 2020</b>. This event is meant
             to give graduate students (PhDs, JDs, MDs, master’s, etc) and postdocs an opportunity to
-            solve a real healthcare problem in teams of 3-6 members. You will also be able to meet
+            solve a real healthcare problem in <b>teams of 3-6 members</b>. You will also be able to meet
             and engage with corporate leaders from top healthcare and biotechnology firms who will
-            be helping as judges.
+            be serving as judges. 
             </p>
           <p className="mt-8 text-2xl font-light text-left">
             All are welcome to apply to participate. No business experience is
             necessary. Cash prizes will be given with the first-place team receiving $2000! More
             information can be found by clicking the buttons below.
 
-            Additionally, we'll be hosting a coffee chat on <b>October 9th, 2020 from 7-8 PM EST</b>.
+            <b>Applications are open from October 7th to October 11th, 2020.</b> Additionally, we'll be hosting a coffee chat on <b>October 9th, 2020 from 7-8 PM EST</b>.
             Learn more and register below!
 
           </p>
