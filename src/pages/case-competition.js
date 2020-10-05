@@ -30,10 +30,10 @@ export default () => (
             All are welcome to apply to participate. No business experience is
             necessary. Cash prizes will be given with the first-place team receiving $2000! More
             information can be found by clicking the buttons below.
-
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>Applications are open from October 7th to October 11th, 2020.</b> Additionally, we'll be hosting a coffee chat on <b>October 9th, 2020 from 7-8 PM EST</b>.
             Learn more and register below!
-
           </p>
           <p align="center">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/vkpgqlEaRUc" frameborder="0" allow="accelerometer; 
