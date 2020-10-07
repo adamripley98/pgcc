@@ -32,7 +32,7 @@ export default () => (
             information can be found by clicking the buttons below.
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>Applications are open now from October 7th to October 11th, 2020.</b> Additionally, we'll be hosting a coffee chat on <b>October 9th, 2020 from 7-8 PM EST</b>.
+            <b>Applications are open now from October 7th to October 18th, 2020.</b> Additionally, we'll be hosting a coffee chat on <b>October 9th, 2020 from 7-8 PM EST</b>.
             Please <a href="https://forms.gle/RdeE8L4MLMuWynTaA">register your team for the competition here, </a> and find info and register for the coffee chat below!
           </p>
           <p className="mt-8 text-2xl font-light text-left">
