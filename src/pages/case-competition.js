@@ -32,8 +32,8 @@ export default () => (
             information can be found by clicking the buttons below.
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>Applications are open from October 7th to October 11th, 2020.</b> Additionally, we'll be hosting a coffee chat on <b>October 9th, 2020 from 7-8 PM EST</b>.
-            Learn more and register below!
+            <b>Applications are open now from October 7th to October 11th, 2020.</b> Additionally, we'll be hosting a coffee chat on <b>October 9th, 2020 from 7-8 PM EST</b>.
+            Please <a href="https://forms.gle/RdeE8L4MLMuWynTaA">register your team here. </a>
           </p>
           <p align="center">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/vkpgqlEaRUc" frameborder="0" allow="accelerometer; 
