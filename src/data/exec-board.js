@@ -5,7 +5,6 @@ import Eric from '../images/headshots/eric.png';
 import Mai from '../images/headshots/mai.png';
 import Mohit from '../images/headshots/mohit.jpeg';
 import Sandol from '../images/headshots/sandol.png';
-import Sasmita from '../images/headshots/sasmita.png';
 import Sreshta from '../images/headshots/sreshta.png';
 import Sunny from '../images/headshots/sunny.png';
 import Yibing from '../images/headshots/yibing.png';
@@ -102,15 +101,7 @@ export default [
     email: 'mohit11@seas.upenn.edu',
     image: Mohit
   },
-  {
-    content:
-      'I am currently a first year Masters of Biotechnology student looking towards a career in Healthcare consulting. This summer I have had the opportunity to intern for Axiom Healthcare Strategies, a consulting firm focusing on the oncology and rare diseases space. As a board member of PGCC, I aim to use my prior experience to bring together consulting enthusiasts and help them gain a wide variety of consulting experiences across multiple industries. Apart from academics, I enjoy painting, reading and experimenting with new recipes. I am also a travelling enthusiast having traveled to over 23 countries.',
-    name: 'Sasmita Rout',
-    title: 'VP of Social and Student Engagement',
-    linkedin: 'https://www.linkedin.com/in/sasmita-rout-08915910b/',
-    email: 'rout@seas.upenn.edu',
-    image: Sasmita
-  },
+
   {
     content:
       'Mai is a second-year PhD candidate in the Chemical and Biomolecular Engineering program. His research focuses on the analysis of copy number variations within cancer   using genomics sequencing technology. His career interests include healthcare consulting and pharmaceutical industry. As VP for Alumni Relations, Mai hopes to connect PGCC with more alumni to provide more opportunities for PGCC members. In his free time, Mai enjoys weight lifting and photography.',
