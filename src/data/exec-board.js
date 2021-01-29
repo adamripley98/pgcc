@@ -7,7 +7,7 @@ import Mohit from '../images/headshots/mohit.jpeg';
 import Sandol from '../images/headshots/sandol.png';
 import Sreshta from '../images/headshots/sreshta.png';
 import Sunny from '../images/headshots/sunny.png';
-import Yibing from '../images/headshots/yibing.png';
+import Chelsea from '../images/headshots/chelsea.png';
 import Sabrina from '../images/headshots/sabrina.jpg';
 
 export default [
@@ -40,12 +40,12 @@ export default [
   },
   {
     content:
-      'Yibing is a 2nd year Masters Student in Interdisciplinary Studies of Human Development (ISHD) in the Graduate School of Education, with a focus on development psychology, statistics, measurement, and research design. Her career interests include education or management consulting. As VP for Guided Case Practice, Yibing hopes to help students across Penn get involved in PGCC’s guided case practice. She also aims to help students develop the necessary casing and interview skills to find a job in consulting. In her free time, Yibing enjoys electronic organ, Chinese folk dancing, and cooking.​',
-    name: 'Yibing Zhang',
+      'Chelsea is a second-year Master of City Planning student with a concentration in Sustainable Transportation and Infrastructure Planning at the Stuart Weitzman School of Design. With an interest in consulting, she hopes to build a connection between her previous experience in marketing and knowledge in planning, ultimately making positive impacts on people's lives. As the VP of Business Development and Consulting, Chelsea is responsible for overseeing the pro-bono consulting projects and maintaining relationships with the clients. Outside of school and work, Chelsea enjoys reading, watching east asian movies and singing while playing the guitar.',
+    name: 'Chen (Chelsea) Zhang',
     title: 'VP for Biz Dev and Consulting',
-    linkedin: 'http://www.linkedin.com/in/yibing-zhang-60872a17a',
-    email: 'ybzhang@upenn.edu',
-    image: Yibing
+    linkedin: 'https://www.linkedin.com/in/chenchelseazhang/',
+    email: 'czhang03@upenn.edu',
+    image: Chelsea
   },
   {
     content:
