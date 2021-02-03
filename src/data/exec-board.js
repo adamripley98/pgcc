@@ -1,14 +1,14 @@
 import Christine from '../images/headshots/christine.jpg';
+import Mohit from '../images/headshots/mohit.jpeg';
+import Chelsea from '../images/headshots/chelsea.png';
+import Sabrina from '../images/headshots/sabrina.jpg';
 import Adreinne from '../images/headshots/adreinne.png';
 import Diana from '../images/headshots/diana.png';
 import Eric from '../images/headshots/eric.png';
 import Mai from '../images/headshots/mai.png';
-import Mohit from '../images/headshots/mohit.jpeg';
 import Sandol from '../images/headshots/sandol.png';
 import Sreshta from '../images/headshots/sreshta.png';
 import Sunny from '../images/headshots/sunny.png';
-import Chelsea from '../images/headshots/chelsea.png';
-import Sabrina from '../images/headshots/sabrina.jpg';
 
 export default [
   {
@@ -40,7 +40,7 @@ export default [
   },
   {
     content:
-      'Chelsea is a second-year Master of City Planning student with a concentration in Sustainable Transportation and Infrastructure Planning at the Stuart Weitzman School of Design. With an interest in consulting, she hopes to build a connection between her previous experience in marketing and knowledge in planning, ultimately making positive impacts on people's lives. As the VP of Business Development and Consulting, Chelsea is responsible for overseeing the pro-bono consulting projects and maintaining relationships with the clients. Outside of school and work, Chelsea enjoys reading, watching east asian movies and singing while playing the guitar.',
+      "Chelsea is a second-year Master of City Planning student with a concentration in Sustainable Transportation and Infrastructure Planning at the Stuart Weitzman School of Design. With an interest in consulting, she hopes to build a connection between her previous experience in marketing and knowledge in planning, ultimately making positive impacts on people's lives. As the VP of Business Development and Consulting, Chelsea is responsible for overseeing the pro-bono consulting projects and maintaining relationships with the clients. Outside of school and work, Chelsea enjoys reading, watching east asian movies and singing while playing the guitar.",
     name: 'Chen (Chelsea) Zhang',
     title: 'VP for Biz Dev and Consulting',
     linkedin: 'https://www.linkedin.com/in/chenchelseazhang/',
@@ -49,7 +49,7 @@ export default [
   },
   {
     content:
-      'Sandol is a second-year graduate student in the Earth and Environmental Science Department at the University of Pennsylvania, School of Arts and Sciences. His research is focused on environmental sustainability and natural resources, and he is a recipient of the Water Center’s Graduate Student Research Program Award 2019 for his project on the Water-Reuse and Rare Earth Elements Recovery. He has over five years of experience in the Solar Energy business with Hanwha Group during which he participated in numerous meetings for business opportunities including the 2018 Davos World Economic Forum. Prior to this, he earned his Bachelor’s degree in International Development Studies at McGill University and served at the U.S.-Korea Combined Forces Command and United Nations Command as an Army officer for over three years. As Vice President of Alumni Relations, he aspires to become a connector and a facilitator for the current PGCC members, alumni, advisors/mentors and consulting firms to build strong partnerships. In his spare time, he enjoys reading, traveling and working out. ',
+      'Sandol is a second-year graduate student in the Earth and Environmental Science Department at the University of Pennsylvania, School of Arts and Sciences. His research is focused on environmental sustainability and natural resources, and he is a recipient of the Water Center’s Graduate Student Research Program Award 2019 for his project on the Water-Reuse and Rare Earth Elements Recovery. He has over five years of experience in the Solar Energy business with Hanwha Group during which he participated in numerous meetings for business opportunities including the 2018 Davos World Economic Forum. Prior to this, he earned his Bachelor’s degree in International Development Studies at McGill University and served at the U.S.-Korea Combined Forces Command and United Nations Command as an Army officer for over three years. As Vice President of Alumni Relations, he aspires to become a connector and a facilitator for the current PGCC members, alumni, advisors/mentors and consulting firms to build strong partnerships. In his spare time, he enjoys reading, traveling and working out.',
     name: 'Sandol Park',
     title: 'VP of Alumni Relations',
     linkedin: 'https://www.linkedin.com/in/sandolpark/',
