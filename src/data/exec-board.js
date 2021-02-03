@@ -1,6 +1,6 @@
 import Christine from '../images/headshots/christine.jpg';
 import Mohit from '../images/headshots/mohit.jpeg';
-import Chelsea from '../images/headshots/chelsea.png';
+import Chelsea from '../images/headshots/chelsea.jpeg';
 import Sabrina from '../images/headshots/sabrina.jpg';
 import Adreinne from '../images/headshots/adreinne.png';
 import Diana from '../images/headshots/diana.png';
