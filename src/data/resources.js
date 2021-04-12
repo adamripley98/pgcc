@@ -181,5 +181,10 @@ export default [
     type: 'other resource',
     link:
       'https://www.accenture.com/t20180913T100614Z__w__/us-en/_acnmedia/Careers/PDF-14/Accenture-FY19-Case-Workbook-One-Accenture-Technology.pdf'
+  },
+  {
+    name: 'Mr. Soosung Lee, Roland Berger',
+    type: 'video',
+    link: 'https://www.youtube.com/embed/gbI_1Y0LEQU'
   }
 ];

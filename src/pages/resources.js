@@ -31,12 +31,36 @@ const otherResources = resources.filter(resource => {
   return resource.type === 'other resource';
 });
 
+const videos = resources.filter(resource => {
+  return resource.type === 'video';
+});
+
 export default () => (
   <Layout>
     <Banner
       title="Helpful Resources"
       subtitle="Check out the books, podcasts, and case prep resources PGCC recommends."
     />
+    <FadeInSection>
+      <section id="videos" className="pt-16 pb-24">
+        <div className="container mx-auto">
+          <LabelText className="mb-12">Videos</LabelText>
+          <div className="flex flex-wrap items-center justify-center">
+            {videos.map(x => (
+              <iframe
+                width="560"
+                height="315"
+                src={x.link}
+                title="A conversation with Mr. Soosung Lee, the managing partner at Roland Berger"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              />
+            ))}
+          </div>
+        </div>
+      </section>
+    </FadeInSection>
     <FadeInSection>
       <section id="case-books" className="pt-16 pb-24 bg-gray-200">
         <div className="container mx-auto">

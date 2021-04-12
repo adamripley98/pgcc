@@ -26,7 +26,7 @@ class IGFeed extends React.Component {
           </h5>
           <iframe
             title="ig-feed"
-            src="https://embedsocial.com/facebook_album/pro_instagram/9fffdfec5d37bf8f66d4ece32184079a51042de3"
+            src="https://embedsocial.com/facebook_album/pro_instagram/fe466ea11261e0375beb51ea6ae0bac13c2eca8a"
             width={`${Math.min(this.state.width - 50, 1000)}px`}
             height="1200px"
             frameBorder="0"
