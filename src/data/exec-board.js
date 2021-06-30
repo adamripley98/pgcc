@@ -3,7 +3,7 @@ import Mohit from '../images/headshots/mohit.jpeg';
 import Chelsea from '../images/headshots/chelsea.jpeg';
 import Sabrina from '../images/headshots/sabrina.jpg';
 import Adreinne from '../images/headshots/adreinne.png';
-import Diana from '../images/headshots/diana.png';
+import Erin from '../images/headshots/Erin.jpeg';
 import Eric from '../images/headshots/eric.png';
 import Mai from '../images/headshots/mai.png';
 import Sandol from '../images/headshots/sandol.png';
@@ -31,12 +31,12 @@ export default [
   },
   {
     content:
-      'Diana Swidler has just graduated from the Master of Environmental Studies, and she is currently pursuing a Certificate in energy management and policy at the Kleinman Center. Her career interests are focused on designing strategies and systems that help businesses to become more sustainable and concretely more energy efficient. Diana hopes to help students learn about professional development in the consulting field and nurture collaboration between students and firms. Her hobbies include running, snowboarding, skiing, and volunteering in her nonprofit focused on exposing young children to the benefits of second language acquisition',
-    name: 'Diana Swidler',
+      'Erin is a 3rd year PhD student in Nursing, with a focus in healthcare informatics and data science. Her dissertation focuses on development and implementation of predictive technology to improve clinical decision making in hospitals. She leverages her clinical background as a Registered Nurse and data science training to collaborate with both clinical and administrative teams. Her career interests include healthcare consulting and administration. As VP for Communications, Erin aims to help graduate students across Penn learn about professional development in consulting and foster partnerships between firms and students. In her free time, she enjoys running, skiing, and hiking.',
+    name: 'Erin Kennedy',
     title: 'VP for Communications',
-    linkedin: 'https://www.linkedin.com/in/diana-swidler-68543442/',
-    email: 'dswidler@sas.upenn.edu',
-    image: Diana
+    linkedin: 'https://www.linkedin.com/in/erin--kennedy/',
+    email: 'erinken@nursing.upenn.edu',
+    image: Erin
   },
   {
     content:
