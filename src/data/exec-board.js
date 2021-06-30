@@ -3,7 +3,7 @@ import Mohit from '../images/headshots/mohit.jpeg';
 import Chelsea from '../images/headshots/chelsea.jpeg';
 import Sabrina from '../images/headshots/sabrina.jpg';
 import Adreinne from '../images/headshots/adreinne.png';
-import Erin from '../images/headshots/Erin.jpeg';
+import Erin from '../images/headshots/Erin.png';
 import Eric from '../images/headshots/eric.png';
 import Mai from '../images/headshots/mai.png';
 import Sandol from '../images/headshots/sandol.png';
