@@ -1,33 +1,33 @@
 import Christine from '../images/headshots/christine.jpg';
 import Mohit from '../images/headshots/mohit.jpeg';
 import Chelsea from '../images/headshots/chelsea.jpeg';
-import Sabrina from '../images/headshots/sabrina.jpg';
-import Adreinne from '../images/headshots/adreinne.png';
+import Hassan from '../images/headshots/Hassan.png';
+import Claire from '../images/headshots/Claire.png';
 import Erin from '../images/headshots/Erin.png';
-import Eric from '../images/headshots/eric.png';
+import Angela from '../images/headshots/Angela.png';
 import Mai from '../images/headshots/mai.png';
-import Sandol from '../images/headshots/sandol.png';
-import Sreshta from '../images/headshots/sreshta.png';
+import Alex from '../images/headshots/Alex.png';
+import Cheryl from '../images/headshots/Cheryl.png';
 import Sunny from '../images/headshots/sunny.png';
 
 export default [
   {
     content:
-      'Eric is a fifth-year PhD Candidate in Bioengineering. His thesis work is focused on leveraging mechanical forces for cellular engineering, with the goal of regenerating damaged tissues in the musculoskeletal system. He plans to pursue management consulting, with the long-term goal of entering biotech in a strategic leadership role. As Co-President, Eric hopes to guide PGCC’s transition to virtual events. Outside of his research and PGCC, Eric is involved in biotech entrepreneurship. To relax, he plays violin in Penn Chamber, competes in Penn League of Legends, and explores Philadelphia.',
-    name: 'Eric Dai',
+      'Mai is a third-year PhD candidate in the Chemical and Biomolecular Engineering program. His research focuses on the analysis of copy number variations within cancer using genomics sequencing technology. His career interests include healthcare consulting and pharmaceutical industry. In his free time, Mai enjoys weight lifting and photography.',
+    name: 'Mai Wang',
     title: 'Co-President',
-    linkedin: 'https://www.linkedin.com/in/eric-dai-bioe/',
-    email: 'erkaidai@gmail.com',
-    image: Eric
+    linkedin: 'https://www.linkedin.com/in/mai-wang-0199aa73/',
+    email: 'maiwang@seas.upenn.edu',
+    image: Mai
   },
   {
     content:
-      'Sreshta is a 2nd year Master of Biotechnology student. She has been part of several healthcare consulting projects and hopes to pursue consulting as a full-time job. She currently works as a Graduate Fellow at the Penn Center for Innovation and as a part-time freelance writer. She also serves as the secretary of GSEG, the graduate student government for the School of Engineering and Applied Science. Her hobbies include reading, writing, and playing Minecraft. As co-president of PGCC, she hopes to expand students’ engagement with the club and introduce new initiatives to help people prepare for careers in consulting.',
-    name: 'Sreshta Ravikumar',
+      'Christine is a third year PhD candidate in Cell and Molecular Biology program. Her thesis work focuses on studying pancreatic cancer, investigating therapeutic metabolism targets for treating this devastating disease. Her career interests include healthcare consulting and management consulting. As Co-President, Christine aims to provide opportunities for PGCC members to learn about consulting career, and she hopes to guide PGCC’s post-pandemic transition. In her free time, she enjoys dancing and baking.',
+    name: 'Yanqing (Christine) Jiang',
     title: 'Co-President',
-    linkedin: 'https://www.linkedin.com/in/sreshtaravikumar/',
-    email: 'sreshta@seas.upenn.edu',
-    image: Sreshta
+    linkedin: 'https://www.linkedin.com/in/yanqing-christine-jiang-b63a20168/',
+    email: 'yanqingj@pennmedicine.upenn.edu',
+    image: Christine
   },
   {
     content:
@@ -49,39 +49,39 @@ export default [
   },
   {
     content:
-      'Sandol is a second-year graduate student in the Earth and Environmental Science Department at the University of Pennsylvania, School of Arts and Sciences. His research is focused on environmental sustainability and natural resources, and he is a recipient of the Water Center’s Graduate Student Research Program Award 2019 for his project on the Water-Reuse and Rare Earth Elements Recovery. He has over five years of experience in the Solar Energy business with Hanwha Group during which he participated in numerous meetings for business opportunities including the 2018 Davos World Economic Forum. Prior to this, he earned his Bachelor’s degree in International Development Studies at McGill University and served at the U.S.-Korea Combined Forces Command and United Nations Command as an Army officer for over three years. As Vice President of Alumni Relations, he aspires to become a connector and a facilitator for the current PGCC members, alumni, advisors/mentors and consulting firms to build strong partnerships. In his spare time, he enjoys reading, traveling and working out.',
-    name: 'Sandol Park',
+      'Alex is a second year master’s student in Biotechnology. She has experience in biotechnology startups, medical device entrepreneurship, healthcare consulting, pharmaceutical marketing and science communications. Her career goal includes biotech/pharmaceutical industry and life science consulting. As the VP Alumni Relations, Alex strives to build connections with alumni and provide resources to best support current PGCC members in career development. In her free time, she enjoys exploring food places, dancing, walking, watching drama and kpop.',
+    name: 'Yixuan (Alex) Jiang',
     title: 'VP of Alumni Relations',
-    linkedin: 'https://www.linkedin.com/in/sandolpark/',
-    email: 'hajisan3@sas.upenn.edu',
-    image: Sandol
+    linkedin: 'https://www.linkedin.com/in/yixuan-alex-jiang-38ab991bb/',
+    email: 'yixjiang@seas.upenn.edu',
+    image: Alex
   },
   {
     content:
-      'Christine is a 2nd year PhD candidate in Cell and Molecular Biology program, with a focus in Cancer Biology. Her thesis work focuses on studying pancreatic cancer, investigating therapeutic metabolism targets for treating this devastating disease. Her career interests include healthcare consulting and management consulting. As VP for Career Development, Christine aims to provide opportunities for PGCC members to learn about consulting career by organizing various info sessions, career panels and workshops. She hopes to connect our members to top firms and current consultants to gain more exposure to consulting industry. In her free time, she enjoys K-pop dancing, reading psychology books and baking cakes.',
-    name: 'Yanqing (Christine) Jiang',
+      'Zihan (Cheryl) Yu is a 2nd year master of Biotechnology with a biomedical engineering concentration. Prior to Penn, she graduated from Boston College with years of medical institute working experience. Now her research at Penn is focusing on genetics and computational biology. She has previously interned at McKinsey and now she is a consultant of Impact Consulting. Cheryl also has case competition experience and she was the winner of the TMCCC case competition. During her free time, she enjoys wakesurfing and traveling',
+    name: 'Zihan (Cheryl) Yu',
     title: 'VP for Career Development',
-    linkedin: 'https://www.linkedin.com/in/yanqing-christine-jiang-b63a20168/',
-    email: 'yanqingj@pennmedicine.upenn.edu',
-    image: Christine
+    linkedin: 'https://www.linkedin.com/in/cherylyzh/',
+    email: 'cherylyu@seas.upenn.edu',
+    image: Cheryl
   },
   {
     content:
-      'Adrienne is a second year PhD student in the Pharmacology Graduate Group. She is fascinated by the intersection between neuroscience and pharmacology, and has a specific interest in neuropsychiatric disorders.  As VP of Case Competitions, she hopes to utilize her extroverted personality and interest in consulting to help organize and facilitate the annual PGCC Case Competition. In her free time, Adrienne loves listening to techno and house music, seeing live shows, and fantasizing about her next backpacking trip (she can talk for hours about Berlin, Costa Rica or Nicaragua)!',
-    name: 'Adrienne Jo',
+      'Hassan is a recent master\'s graduate in mechanical engineering at the University of Pennsylvania. Hassan has been part of conflict resolution consulting as an interpreter. His long-term aspirations include teaching, researching, and working within the consulting industry. As a Case Competition Co-Chair of PGCC, he hopes to expand students\' involvement with PGCC and collaborate with other groups to further consulting awareness. Hassan is passionate about documentaries, brass engraving, and traditional Arabic music.',
+    name: 'Hassan Alyagoob',
     title: 'VP of Case Competition',
-    linkedin: 'https://www.linkedin.com/in/adriennejo/',
-    email: 'ajo97@pennmedicine.upenn.edu',
-    image: Adreinne
+    linkedin: '',
+    email: 'alyagoob@seas.upenn.edu',
+    image: Hassan
   },
   {
     content:
-      'Sabrina is a rising third year dental student at the University of Pennsylvania School of Dental Medicine. She is passionate about healthcare and education policy and reform. Before starting dental school, she graduated from Johns Hopkins University with a B.S. in Molecular and Cellular Biology and worked in a viral oncology lab during that time. She is an avid baker and cook (because she is an avid eater) and loves creating healthy vegan recipes. When she is not too busy trying to resurrect the plants she keeps killing, she loves going on runs, painting, and reading. She is excited to join the PGCC team and looks forward to helping develop a health-care focused case competition! ',
-    name: 'Diya Sabrina Chandra',
+      'Claire is a first year Master of Biotechnology student. She’s currently doing an internship at Wistar Institute and her lab’s main research direction is about melanoma metastasis using PDX and Crispr. She participated in PGCC’s pro bono consulting project last year and is passionate about pursuing a career in healthcare consulting or biopharmaceutical industry. As a case competition co chair, Claire looks forward to organizing and contributing to case competitions and all kinds of activities in PGCC. She enjoys traveling, sightseeing, and watching movies with friends in her spare time.',
+    name: 'Claire Zhu',
     title: 'VP of Case Competition',
-    linkedin: 'https://www.linkedin.com/in/diya-sabrina-chandra-724b11b2/',
-    email: 'diyasabr@dental.upenn.edu',
-    image: Sabrina
+    linkedin: 'https://www.linkedin.com/in/xingyue-zhu-a6b2b5163/',
+    email: 'claire97@seas.upenn.edu',
+    image: Claire
   },
   {
     content:
@@ -104,11 +104,11 @@ export default [
 
   {
     content:
-      'Mai is a second-year PhD candidate in the Chemical and Biomolecular Engineering program. His research focuses on the analysis of copy number variations within cancer   using genomics sequencing technology. His career interests include healthcare consulting and pharmaceutical industry. As VP for Alumni Relations, Mai hopes to connect PGCC with more alumni to provide more opportunities for PGCC members. In his free time, Mai enjoys weight lifting and photography.',
-    name: 'Mai Wang',
+      'Angela is pursuing her master degree in Social Policy and Data Analytics. She has been involved in various strategic planning and data mining research activities and conferences in both tech- and management consulting companies. As VP for Guided Case Practice, Angela aims to organize consulting workshops and case-practice sessions for Penn graduate students to enhance their consulting skill set and prepare for future career development.',
+    name: 'Jingyi (Angela) Guo',
     title: 'VP for Guided Case Practice',
-    linkedin: 'https://www.linkedin.com/in/mai-wang-0199aa73/',
-    email: 'maiwang@seas.upenn.edu',
-    image: Mai
+    linkedin: 'https://www.linkedin.com/in/jingyi-angela-guo-92995b205/',
+    email: 'angelagj@upenn.edu',
+    image: Angela
   }
 ];
