@@ -183,6 +183,24 @@ export default [
       'https://www.accenture.com/t20180913T100614Z__w__/us-en/_acnmedia/Careers/PDF-14/Accenture-FY19-Case-Workbook-One-Accenture-Technology.pdf'
   },
   {
+    name: 'Case Interview Preparation Tips (PassTheCase.com)',
+    type: 'other resource',
+    link:
+      'https://www.passthecase.com/case-interview/case-interview-prep'
+  },
+  {
+    name: 'Case Interview Examples (PassTheCase.com)',
+    type: 'other resource',
+    link:
+      'https://www.passthecase.com/case-interview/case-interview-examples'
+  },
+  {
+    name: 'Consulting Resume Guide (PassTheCase.com)',
+    type: 'other resource',
+    link:
+      'https://www.passthecase.com/consulting-resume'
+  },
+  {
     name: 'Mr. Soosung Lee, Roland Berger',
     type: 'video',
     link: 'https://www.youtube.com/embed/gbI_1Y0LEQU'
