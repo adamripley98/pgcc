@@ -1,6 +1,6 @@
 import Christine from '../images/headshots/christine.jpg';
 import Mohit from '../images/headshots/mohit.jpeg';
-import Chelsea from '../images/headshots/chelsea.jpeg';
+import Robert from '../images/headshots/Robert.png';
 import Hassan from '../images/headshots/Hassan.png';
 import Claire from '../images/headshots/Claire.png';
 import Erin from '../images/headshots/Erin.png';
@@ -40,12 +40,12 @@ export default [
   },
   {
     content:
-      "Chelsea is a second-year Master of City Planning student with a concentration in Sustainable Transportation and Infrastructure Planning at the Stuart Weitzman School of Design. With an interest in consulting, she hopes to build a connection between her previous experience in marketing and knowledge in planning, ultimately making positive impacts on people's lives. As the VP of Business Development and Consulting, Chelsea is responsible for overseeing the pro-bono consulting projects and maintaining relationships with the clients. Outside of school and work, Chelsea enjoys reading, watching east asian movies and singing while playing the guitar.",
-    name: 'Chen (Chelsea) Zhang',
+      "Robert is currently finishing his Capstone in the Organizational Dynamics M-Phil track at the Wharton School. His career interest centers on business development, project management, human capital management and consulting. In his new role with PGCC Robert is focused on preparing for the pro-bono consulting projects for the Fall 2021 semester. Robert will enter the Coaching Cohort program at Penn this fall.",
+    name: 'Robert North',
     title: 'VP for Biz Dev and Consulting',
-    linkedin: 'https://www.linkedin.com/in/chenchelseazhang/',
-    email: 'czhang03@upenn.edu',
-    image: Chelsea
+    linkedin: '',
+    email: 'robertnorth58@gmail.com',
+    image: Robert
   },
   {
     content:
