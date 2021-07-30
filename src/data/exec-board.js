@@ -9,6 +9,7 @@ import Mai from '../images/headshots/mai.png';
 import Alex from '../images/headshots/Alex.png';
 import Cheryl from '../images/headshots/Cheryl.png';
 import Sunny from '../images/headshots/sunny.png';
+import Abhinav from '../images/headshots/Abhinav.png';
 
 export default [
   {
