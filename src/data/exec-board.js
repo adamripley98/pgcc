@@ -110,7 +110,7 @@ export default [
     linkedin: 'https://www.linkedin.com/in/jingyi-angela-guo-92995b205/',
     email: 'angelagj@upenn.edu',
     image: Angela
-  }
+  },
   {
     content:
       'Christina Zheng is a second-year Master of Social Policy & Data Analytics (MSSP+DA) student at School of Social Policy & Practice. Prior to pursuing her master’s degree, she graduated from University of Toronto with a BCom in Management and Marketing. Her career interests are focused on public sector consulting and strategy, where she plans to leverage her experience in policy work, data insights, and sales & marketing to deliver better social change. As the VP for Social & Student Engagement, Christina hopes to build connections between PGCC and graduate students who are passionate about a career in consulting. When she is not busy, she enjoys playing the piano and creating original music.',
