@@ -8,7 +8,7 @@ import Angela from '../images/headshots/Angela.png';
 import Mai from '../images/headshots/mai.png';
 import Alex from '../images/headshots/Alex.png';
 import Cheryl from '../images/headshots/Cheryl.png';
-import Sunny from '../images/headshots/sunny.png';
+import Ilknur from '../images/headshots/Ilknur.png';
 import Abhinav from '../images/headshots/Abhinav.png';
 import Christina from '../images/headshots/Christina.png';
 
@@ -87,12 +87,12 @@ export default [
   },
   {
     content:
-      'Yunqi is a 2nd year student pursuing a Masters in Bioengineering. She has worked on synthesizing mussel inspired benzoxazine molecules and applying them for various applications such as adhesive primer, anti-corrosion, and wet adhesive. She plans to pursue consulting or industrial research in her career. As a Case Competition Co-Chair, she hopes to contribute to make PGCC a better platform for students to get involved in consulting. She is passionate about music (especially traditional Chinese music), and loves traditional poetry, art, and traveling.',
-    name: 'Yunqi (Sunny) Xu',
+      'Ilknur is pursuing a Master in Behavioral and Decision Sciences to complement her engineering and business background. A systems thinker, she is passionate about integrating business, tech, and human-centered design to unlock potential within organizations. Ilknur is a recent MIT Sloan Fellows MBA graduate with experience in operations and business development in the energy industry across 4 continents. As a VP of Case Competition, she aims to make this a highlight event for both students and partner institutions, spurring further collaborations. In her free time, she enjoys traveling (visited 30+ countries), café crawling, and poetry.',
+    name: 'Ilknur Bechir',
     title: 'VP for Case Competition',
-    linkedin: 'https://www.linkedin.com/in/yunqi-sunny-xu-413843106',
-    email: 'yunqixu@seas.upenn.edu',
-    image: Sunny
+    linkedin: 'https://www.linkedin.com/in/ilknurbechir/',
+    email: 'ibechir@sas.upenn.edu',
+    image: Ilknur
   },
   {
     content:
