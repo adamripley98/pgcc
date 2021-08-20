@@ -53,7 +53,7 @@ export default [
     content:
       'Alex is a second year master’s student in Biotechnology. She has experience in biotechnology startups, medical device entrepreneurship, healthcare consulting, pharmaceutical marketing and science communications. Her career goal includes biotech/pharmaceutical industry and life science consulting. As the VP Alumni Relations, Alex strives to build connections with alumni and provide resources to best support current PGCC members in career development. In her free time, she enjoys exploring food places, dancing, walking, watching drama and kpop.',
     name: 'Yixuan (Alex) Jiang',
-    title: 'VP of Alumni Relations',
+    title: 'VP of Operations',
     linkedin: 'https://www.linkedin.com/in/yixuan-alex-jiang-38ab991bb/',
     email: 'yixjiang@seas.upenn.edu',
     image: Alex
@@ -67,15 +67,7 @@ export default [
     email: 'cherylyu@seas.upenn.edu',
     image: Cheryl
   },
-  {
-    content:
-      'Hassan is a recent master\'s graduate in mechanical engineering at the University of Pennsylvania. Hassan has been part of conflict resolution consulting as an interpreter. His long-term aspirations include teaching, researching, and working within the consulting industry. As a Case Competition Co-Chair of PGCC, he hopes to expand students\' involvement with PGCC and collaborate with other groups to further consulting awareness. Hassan is passionate about documentaries, brass engraving, and traditional Arabic music.',
-    name: 'Hassan Alyagoob',
-    title: 'VP of Case Competition',
-    linkedin: '',
-    email: 'alyagoob@seas.upenn.edu',
-    image: Hassan
-  },
+  
   {
     content:
       'Claire is a first year Master of Biotechnology student. She’s currently doing an internship at Wistar Institute and her lab’s main research direction is about melanoma metastasis using PDX and Crispr. She participated in PGCC’s pro bono consulting project last year and is passionate about pursuing a career in healthcare consulting or biopharmaceutical industry. As a case competition co chair, Claire looks forward to organizing and contributing to case competitions and all kinds of activities in PGCC. She enjoys traveling, sightseeing, and watching movies with friends in her spare time.',
@@ -98,7 +90,7 @@ export default [
     content:
       'Abhinav is pursuing a Master\'s in Data Science. A published TEDx speaker, his primary area of focus is algorithmic bias and its various applications. Abhinav has worked with data extensively in the finance/technology sectors and hopes to apply solutions for bias in these industries. As VP of Finance, Abhinav aims to expand PGCC\'s reach through strategic corporate sponsorships with both general and specialty consulting firms. In his free time, he plays tennis, writes short stories, and sings.',
     name: 'Abhinav Raghunathan',
-    title: 'VP of Finance',
+    title: 'VP of Management',
     linkedin: 'https://linkedin.com/in/abhinavraghunathan',
     email: 'abhirags@seas.upenn.edu',
     image: Abhinav
