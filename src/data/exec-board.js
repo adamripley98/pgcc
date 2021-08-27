@@ -42,15 +42,6 @@ export default [
   },
   {
     content:
-      "Robert is currently finishing his Capstone in the Organizational Dynamics M-Phil track at the Wharton School. His career interest centers on business development, project management, human capital management and consulting. In his new role with PGCC Robert is focused on preparing for the pro-bono consulting projects for the Fall 2021 semester. Robert will enter the Coaching Cohort program at Penn this fall.",
-    name: 'Robert North',
-    title: 'VP for Biz Dev and Consulting',
-    linkedin: '',
-    email: 'robertnorth58@gmail.com',
-    image: Robert
-  },
-  {
-    content:
       'Alex is a second year master’s student in Biotechnology. She has experience in biotechnology startups, medical device entrepreneurship, healthcare consulting, pharmaceutical marketing and science communications. Her career goal includes biotech/pharmaceutical industry and life science consulting. As the VP Alumni Relations, Alex strives to build connections with alumni and provide resources to best support current PGCC members in career development. In her free time, she enjoys exploring food places, dancing, walking, watching drama and kpop.',
     name: 'Yixuan (Alex) Jiang',
     title: 'VP of Operations',
