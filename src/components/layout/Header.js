@@ -101,7 +101,7 @@ class Header extends React.Component {
                       Upcoming Events
                     </Link>
                     <Link className="px-4 nav-link whitespace-no-wrap my-1" to="/case-competition">
-                      2020 Case Competition
+                      2021 Case Competition
                     </Link>
                   </div>
                 </div>
@@ -193,7 +193,7 @@ class Header extends React.Component {
                 Upcoming Events
               </Link>
               <Link className="px-4 nav-link whitespace-no-wrap my-1 mb-4" to="/case-competition">
-                2020 Case Competition
+                2021 Case Competition
               </Link>
             </div>
             <Link
