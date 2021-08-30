@@ -13,8 +13,8 @@ const result = str.link(
 export default () => (
   <Layout>
     <Banner
-      title="Penn Healthcare Case Competition"
-      subtitle="Participate in the first virtual Penn Healthcare Case Competition on November 7th."
+      title="Penn-Stanford Healthcare Case Competition"
+      subtitle="Participate in the Penn-Stanford Healthcare Case Competition on November 13th."
     />
     <FadeInSection>
       <section className="pt-20">
@@ -22,23 +22,24 @@ export default () => (
           <p className="mt-8 text-2xl font-light text-left">
             Are you a life scientist interested in business or entrepreneurship? Do you wonder how
             game-changing decisions are made about our innovative discoveries once they leave the
-            lab? Penn Biotech Group (PBG) and Penn Graduate Consulting Club (PGCC) will be hosting
-            the first virtual Penn Healthcare Case Competition on <b>November 7th, 2020</b>. This
-            event is meant to give graduate students (PhDs, JDs, MDs, master’s, etc) and postdocs an
-            opportunity to solve a real healthcare problem in <b>teams of 3-6 members</b>. You will
-            also be able to meet and engage with corporate leaders from top healthcare and
-            biotechnology firms who will be serving as judges.
+            lab? Penn Biotech Group (PBG), Penn Graduate Consulting Club (PGCC) and Stanford Advanced
+            Degree Candidate (ADC) Club will be hosting a nation-wide Penn-Stanford Healthcare Case
+            Competition on <b>November 13th, 2020</b>. This event is meant to give graduate students
+            (PhDs, JDs, MDs, master’s, MBAs, etc) and postdocs an opportunity to solve a real healthcare
+            problem in <b>teams of 4-6 members</b>. You will also be able to meet and engage with corporate
+            leaders from top healthcare and biotechnology firms who will be serving as judges.
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             All are welcome to apply to participate. No business experience is necessary. Cash
-            prizes will be given with the first-place team receiving $2000! More information can be
+            prizes will be given with the first-place team receiving $6000! The second-place will
+            receive $3000 and the third-place will receive $1500. More information can be
             found by clicking the buttons below.
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>Applications are open now from October 7th to October 18th, 2020.</b> Additionally,
-            we&apos;ll be hosting a coffee chat on <b>October 9th, 2020 from 7-8 PM EST</b>. Please{' '}
+            <b>Applications are open now from October 6th, 2021.</b> Additionally,
+            we&apos;ll be hosting a coffee chat on <b>September 26th and October 8th, 2021 </b>. Please{' '}
             <a href="https://forms.gle/RdeE8L4MLMuWynTaA">
-              register your team for the competition here,{' '}
+              register your team for the competition here (New form will be provided soon),{' '}
             </a>{' '}
             and find info and register for the coffee chat below!
           </p>
