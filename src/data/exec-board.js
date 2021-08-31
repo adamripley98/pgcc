@@ -15,7 +15,7 @@ import Christina from '../images/headshots/Christina.png';
 export default [
   {
     content:
-      'Mai is a third-year PhD candidate in the Chemical and Biomolecular Engineering program. His research focuses on the analysis of copy number variations within cancer using genomics sequencing technology. His career interests include healthcare consulting and pharmaceutical industry. In his free time, Mai enjoys weight lifting and photography.',
+      'Mai is a fourth-year PhD candidate in the Chemical and Biomolecular Engineering program. His research focuses on the analysis of copy number variations within cancer using genomics sequencing technology. His career interests include healthcare consulting and pharmaceutical industry. In his free time, Mai enjoys weight lifting and photography.',
     name: 'Mai Wang',
     title: 'Co-President',
     linkedin: 'https://www.linkedin.com/in/mai-wang-0199aa73/',
