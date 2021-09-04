@@ -13,8 +13,8 @@ const result = str.link(
 export default () => (
   <Layout>
     <Banner
-      title="Penn-Stanford Healthcare Case Competition"
-      subtitle="Participate in the Penn-Stanford Healthcare Case Competition on November 13th."
+      title="Penn Healthcare Case Competition"
+      subtitle="Participate in the Penn Healthcare Case Competition on November 13th."
     />
     <FadeInSection>
       <section className="pt-20">
