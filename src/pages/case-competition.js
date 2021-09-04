@@ -22,8 +22,7 @@ export default () => (
           <p className="mt-8 text-2xl font-light text-left">
             Are you a life scientist interested in business or entrepreneurship? Do you wonder how
             game-changing decisions are made about our innovative discoveries once they leave the
-            lab? Penn Biotech Group (PBG), Penn Graduate Consulting Club (PGCC) and Stanford Advanced
-            Degree Candidate (ADC) Club will be hosting a nation-wide Penn-Stanford Healthcare Case
+            lab? Penn Biotech Group (PBG) and Penn Graduate Consulting Club (PGCC) will be hosting a nation-wide Penn Healthcare Case
             Competition on <b>November 13th, 2021</b>. This event is meant to give graduate students
             (PhDs, JDs, MDs, master’s, MBAs, etc) and postdocs an opportunity to solve a real healthcare
             problem in <b>teams of 4-6 members</b>. You will also be able to meet and engage with corporate
