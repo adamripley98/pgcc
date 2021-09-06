@@ -36,11 +36,11 @@ export default () => (
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>Applications are open now from October 6th, 2021.</b> Additionally,
-            we&apos;ll be hosting a coffee chat on <b>September 26th and October 8th, 2021 </b>. Please{' '}
-            <a href="https://forms.gle/RdeE8L4MLMuWynTaA">
-              register your team for the competition here (New form will be provided soon),{' '}
+            we&apos;ll be hosting a coffee chat on <b>September 26th and October 8th, 2021 </b>. Registration{' '}
+            <a href="">
+              form will be provided soon,{' '}
             </a>{' '}
-            and find info and register for the coffee chat below!
+            2020 PHCC information is available below and we will update information about 2021 case competition soon!
           </p>
           <div className="flex justify-center mt-20">
             <iframe
@@ -61,7 +61,7 @@ export default () => (
                 rel="noreferrer"
                 className="btn-link"
               >
-                2020 PHCC Flyer
+                2021 PHCC Flyer
               </a>
             </Button>
             <Button className="mt-4 mx-3" size="lg">
