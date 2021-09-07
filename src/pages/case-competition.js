@@ -30,9 +30,7 @@ export default () => (
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             All are welcome to apply to participate. No business experience is necessary. Cash
-            prizes will be given with the first-place team receiving $6000! The second-place will
-            receive $3000 and the third-place will receive $1500. More information can be
-            found by clicking the buttons below.
+            prizes will be given! More information can be found by clicking the buttons below.
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>Applications are open now from October 6th, 2021.</b> Additionally,
