@@ -19,7 +19,7 @@ export default () => (
     <FadeInSection>
       <section className="pt-20">
         <div className="container mx-auto px-8">
-          <p className="mt-8 text-2xl font-light text-left">
+          <p className="mt-8 text-2xl font-light text-justify">
             Are you a life scientist interested in business or entrepreneurship? Do you wonder how
             game-changing decisions are made about our innovative discoveries once they leave the
             lab? Penn Biotech Group (PBG) and Penn Graduate Consulting Club (PGCC) will be hosting a nation-wide Penn Healthcare Case
