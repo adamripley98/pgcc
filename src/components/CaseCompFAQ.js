@@ -3,7 +3,7 @@ import LabelText from './LabelText';
 
 const StatsBox = () => (
   <div className="mx-8">
-    <LabelText className="mb-12 font-bold text-center">Sponsor FAQ</LabelText>
+    <LabelText className="mb-12 font-bold text-center">Case Competition FAQ</LabelText>
     <p className="text-xl font-bold">What is the structure of the case competition?</p>
     <p className="text-xl font-light faq-answer">
       You will form a team of 4-6 members (2 MBA students max/team). If admitted
