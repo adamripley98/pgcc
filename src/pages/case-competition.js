@@ -5,6 +5,7 @@ import MailList from '../components/MailList';
 import Banner from '../components/Banner';
 import FadeInSection from '../components/layout/FadeInSection';
 import Button from '../components/Button';
+import CaseComp2021 from '../images/resources/2021CaseComp.mp4';
 
 const str = 'here';
 const result = str.link(
@@ -22,18 +23,19 @@ export default () => (
           <p className="mt-8 text-2xl font-light text-justify">
             Are you a life scientist interested in business or entrepreneurship? Do you wonder how
             game-changing decisions are made about our innovative discoveries once they leave the
-            lab? Penn Biotech Group (PBG) and Penn Graduate Consulting Club (PGCC) will be hosting a nation-wide Penn Healthcare Case
-            Competition on <b>November 13th, 2021</b>. This event is meant to give graduate students
-            (PhDs, JDs, MDs, master’s, MBAs, etc) and postdocs an opportunity to solve a real healthcare
-            problem in <b>teams of 4-6 members</b>. You will also be able to meet and engage with corporate
-            leaders from top healthcare and biotechnology firms who will be serving as judges.
+            lab? Penn Biotech Group (PBG) and Penn Graduate Consulting Club (PGCC) will be hosting a
+            nation-wide Penn Healthcare Case Competition on <b>November 13th, 2021</b>. This event is
+            meant to give graduate students(PhDs, JDs, MDs, master’s, MBAs, etc) and postdocs an opportunity
+            to solve a real healthcare problem in <b>teams of 4-6 members</b>. You will also be able to meet
+            and engage with corporate leaders from top healthcare and biotechnology firms who will be serving
+            as judges.
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             All are welcome to apply to participate. No business experience is necessary. Cash
             prizes will be given! More information can be found by clicking the buttons below.
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>Timeline</b>
+            <b>Timeline:</b>
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>September 26:</b> Virtual Coffee Chat #1 (Time TBD)
@@ -66,7 +68,7 @@ export default () => (
             <iframe
               className="w-full md:w-2/3 lg:w-1/2 h-64"
               title="case-comp-video"
-              src="https://www.youtube.com/embed/vkpgqlEaRUc"
+              src=CaseComp2021
               frameBorder="0"
               allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
