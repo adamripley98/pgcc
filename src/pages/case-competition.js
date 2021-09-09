@@ -5,6 +5,7 @@ import MailList from '../components/MailList';
 import Banner from '../components/Banner';
 import FadeInSection from '../components/layout/FadeInSection';
 import Button from '../components/Button';
+import CaseCompFAQ from '../components/CaseCompFAQ';
 
 const str = 'here';
 const result = str.link(
@@ -87,27 +88,7 @@ export default () => (
             </Button>
             <Button className="mt-4 mx-3" size="lg">
               <a
-                href="https://pbgconsulting.org/PBGsite/wp-content/uploads/2020/09/Case-Competition-Structure-1.pdf"
-                target="_blank"
-                rel="noreferrer"
-                className="btn-link"
-              >
-                Case Competition Structure
-              </a>
-            </Button>
-            <Button className="mt-4 mx-3" size="lg">
-              <a
-                href="https://upenn.zoom.us/meeting/register/tJwpcOqoqj8tH90kiR8szYz4U4cOHfK4HC3v"
-                target="_blank"
-                rel="noreferrer"
-                className="btn-link"
-              >
-                FAQ
-              </a>
-            </Button>
-            <Button className="mt-4 mx-3" size="lg">
-              <a
-                href="https://upenn.zoom.us/meeting/register/tJwpcOqoqj8tH90kiR8szYz4U4cOHfK4HC3v"
+                href="https://forms.gle/xsUdtRVijkHvP9yV9"
                 target="_blank"
                 rel="noreferrer"
                 className="btn-link"
@@ -118,6 +99,9 @@ export default () => (
           </div>
         </div>
       </section>
+    </FadeInSection>
+    <FadeInSection>
+      <CaseCompFAQ />
     </FadeInSection>
     <FadeInSection>
       <div id="get-involved">

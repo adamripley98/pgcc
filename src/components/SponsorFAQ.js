@@ -11,8 +11,7 @@ const StatsBox = () => (
     </p>
     <p className="text-xl font-bold">When and where is the PGCC Case Competition?</p>
     <p className="text-xl font-light faq-answer">
-      The 2019 PGCC Case Competition will take place on Friday April 26, 2019 at the University of
-      Pennsylvania.
+      The 2021 PGCC Case Competition will take place on November 13, 2021 virually.
     </p>
     <p className="text-xl font-bold">What is my role as a sponsor? </p>
     <p className="text-xl font-light faq-answer">
