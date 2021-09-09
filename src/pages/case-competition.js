@@ -5,7 +5,6 @@ import MailList from '../components/MailList';
 import Banner from '../components/Banner';
 import FadeInSection from '../components/layout/FadeInSection';
 import Button from '../components/Button';
-import CaseComp2021 from '../images/resources/2021CaseComp.mp4';
 
 const str = 'here';
 const result = str.link(
@@ -68,7 +67,7 @@ export default () => (
             <iframe
               className="w-full md:w-2/3 lg:w-1/2 h-64"
               title="case-comp-video"
-              src=CaseComp2021
+              src="https://www.youtube.com/embed/vkpgqlEaRUc"
               frameBorder="0"
               allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
