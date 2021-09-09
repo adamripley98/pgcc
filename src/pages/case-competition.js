@@ -64,17 +64,18 @@ export default () => (
           <p className="mt-8 text-2xl font-light text-left">
             <b>November 13:</b> Final Round (Live via Zoom)
           </p>
-          <div className="flex justify-center mt-20">
-            <iframe
-              className="w-full md:w-2/3 lg:w-1/2 h-64"
-              title="case-comp-video"
-              src="https://www.youtube.com/embed/vkpgqlEaRUc"
-              frameBorder="0"
-              allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            />
-          </div>
+        /**  <div className="flex justify-center mt-20">
+          *  <iframe
+          *    className="w-full md:w-2/3 lg:w-1/2 h-64"
+          *    title="case-comp-video"
+          *    src="https://www.youtube.com/embed/vkpgqlEaRUc"
+          *    frameBorder="0"
+          *    allow="accelerometer;
+          *autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          *    allowFullScreen
+          *  />
+          *</div>
+          */
           <div className="my-20 flex flex-wrap justify-center">
             <Button className="mt-4 mx-3" size="lg">
               <a
