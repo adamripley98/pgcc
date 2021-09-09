@@ -15,7 +15,7 @@ const Footer = () => (
           <h2 className="text-base md:text-lg font-bold">Partnering Organizations</h2>
           <ul className="mt-4 leading-loose text-sm md:text-base">
             <li>
-              <a target="_blank" rel="noreferrer" href="https://pbgconsulting.org/PBGsite/">
+              <a target="_blank" rel="noreferrer" href="https://pennbiotechgroup.org/">
                 Penn Biotech Group
               </a>
             </li>
