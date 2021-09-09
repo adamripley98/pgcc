@@ -33,12 +33,16 @@ export default () => (
             prizes will be given! More information can be found by clicking the buttons below.
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>Applications are open now from October 6th, 2021.</b> Additionally,
-            we&apos;ll be hosting a coffee chat on <b>September 26th and October 8th, 2021 </b>. Registration{' '}
-            <a href="">
-              form will be provided soon,{' '}
-            </a>{' '}
-            2020 PHCC information is available below and we will update information about 2021 case competition soon!
+            <b>Timeline</b>
+            <br><b>September 26:</b> Virtual Coffee Chat #1 (Time TBD)
+            <br><b>October 6:</b> Application Opens
+            <br><b>October 8:</b> Virtual Coffee Chat #2 (Time TBD)
+            <br><b>October 16:</b> Application Deadline (11:59PM EST)
+            <br><b>October 23:</b> Skills Building Course - Day 1
+            <br><b>October 24:</b> Skills Building Course - Day 2
+            <br><b>November 2:</b> First Round Deadline (11:59 PM EST)
+            <br><b>November 9:</b> Finalists announced (with feedback from judges returned)
+            <br><b>November 13:</b> Final Round (Live via Zoom)
           </p>
           <div className="flex justify-center mt-20">
             <iframe
@@ -70,6 +74,16 @@ export default () => (
                 className="btn-link"
               >
                 Case Competition Structure
+              </a>
+            </Button>
+            <Button className="mt-4 mx-3" size="lg">
+              <a
+                href="https://upenn.zoom.us/meeting/register/tJwpcOqoqj8tH90kiR8szYz4U4cOHfK4HC3v"
+                target="_blank"
+                rel="noreferrer"
+                className="btn-link"
+              >
+                FAQ
               </a>
             </Button>
             <Button className="mt-4 mx-3" size="lg">
