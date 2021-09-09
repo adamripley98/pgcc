@@ -34,14 +34,32 @@ export default () => (
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>Timeline</b>
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>September 26:</b> Virtual Coffee Chat #1 (Time TBD)
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>October 6:</b> Application Opens
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>October 8:</b> Virtual Coffee Chat #2 (Time TBD)
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>October 16:</b> Application Deadline (11:59PM EST)
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>October 23:</b> Skills Building Course - Day 1
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>October 24:</b> Skills Building Course - Day 2
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>November 2:</b> First Round Deadline (11:59 PM EST)
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>November 9:</b> Finalists announced (with feedback from judges returned)
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
             <b>November 13:</b> Final Round (Live via Zoom)
           </p>
           <div className="flex justify-center mt-20">
