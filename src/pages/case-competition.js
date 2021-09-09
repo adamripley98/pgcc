@@ -34,15 +34,15 @@ export default () => (
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>Timeline</b>
-            <br><b>September 26:</b> Virtual Coffee Chat #1 (Time TBD)
-            <br><b>October 6:</b> Application Opens
-            <br><b>October 8:</b> Virtual Coffee Chat #2 (Time TBD)
-            <br><b>October 16:</b> Application Deadline (11:59PM EST)
-            <br><b>October 23:</b> Skills Building Course - Day 1
-            <br><b>October 24:</b> Skills Building Course - Day 2
-            <br><b>November 2:</b> First Round Deadline (11:59 PM EST)
-            <br><b>November 9:</b> Finalists announced (with feedback from judges returned)
-            <br><b>November 13:</b> Final Round (Live via Zoom)
+            <b>September 26:</b> Virtual Coffee Chat #1 (Time TBD)
+            <b>October 6:</b> Application Opens
+            <b>October 8:</b> Virtual Coffee Chat #2 (Time TBD)
+            <b>October 16:</b> Application Deadline (11:59PM EST)
+            <b>October 23:</b> Skills Building Course - Day 1
+            <b>October 24:</b> Skills Building Course - Day 2
+            <b>November 2:</b> First Round Deadline (11:59 PM EST)
+            <b>November 9:</b> Finalists announced (with feedback from judges returned)
+            <b>November 13:</b> Final Round (Live via Zoom)
           </p>
           <div className="flex justify-center mt-20">
             <iframe
