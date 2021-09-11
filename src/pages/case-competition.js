@@ -35,7 +35,7 @@ export default () => (
             All are welcome to apply to participate. No business experience is necessary. Cash
             prizes will be given! More information can be found by clicking the buttons below.
           </p>
-          <img className="w-60 h-80 center" src={Three} alt="three" />
+          <img className="w-120 h-160 center" src={Three} alt="three" />
           <p className="mt-8 text-2xl font-light text-left">
             <b>Timeline:</b>
           </p>
@@ -68,7 +68,7 @@ export default () => (
           </p>
           <div className="flex justify-center mt-20">
             <iframe
-              className="w-full md:w-2/3 lg:w-1/2 h-64"
+              className="w-full md:w-2/3 lg:w-1/2 h-80"
               title="case-comp-video"
               src="https://www.youtube.com/embed/7W4_2d8_3nw"
               frameBorder="0"
