@@ -78,8 +78,11 @@ export default () => (
           </div>
           <div className="my-20 flex flex-wrap justify-center">
             <Button className="mt-4 mx-3" size="lg">
+              <a
               <img className="w-120 h-160 content-center" src={Three} alt="three" />
+              >
               2021 PHCC flyer
+              </a>
             </Button>
             <Button className="mt-4 mx-3" size="lg">
               <a
