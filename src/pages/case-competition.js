@@ -31,11 +31,11 @@ export default () => (
             and engage with corporate leaders from top healthcare and biotechnology firms who will be serving
             as judges.
           </p>
-          <img className="w-61 h-80 mr-4" src={Three} alt="three" />
           <p className="mt-8 text-2xl font-light text-left">
             All are welcome to apply to participate. No business experience is necessary. Cash
             prizes will be given! More information can be found by clicking the buttons below.
           </p>
+          <img className="w-610 h-800 center" src={Three} alt="three" />
           <p className="mt-8 text-2xl font-light text-left">
             <b>Timeline:</b>
           </p>
@@ -70,7 +70,7 @@ export default () => (
             <iframe
               className="w-full md:w-2/3 lg:w-1/2 h-64"
               title="case-comp-video"
-              src="https://www.youtube.com/watch?v=7W4_2d8_3nw"
+              src="https://youtu.be/7W4_2d8_3nw"
               frameBorder="0"
               allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
