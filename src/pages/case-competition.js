@@ -35,7 +35,7 @@ export default () => (
             All are welcome to apply to participate. No business experience is necessary. Cash
             prizes will be given! More information can be found by clicking the buttons below.
           </p>
-          <img className="w-100 h-130 center" src={Three} alt="three" />
+          <img className="w-12 h-16 center" src={Three} alt="three" />
           <p className="mt-8 text-2xl font-light text-left">
             <b>Timeline:</b>
           </p>
