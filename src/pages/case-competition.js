@@ -6,6 +6,7 @@ import Banner from '../components/Banner';
 import FadeInSection from '../components/layout/FadeInSection';
 import Button from '../components/Button';
 import CaseCompFAQ from '../components/CaseCompFAQ';
+import Three from '../images/resources/2021PHCC.png';
 
 const str = 'here';
 const result = str.link(
@@ -30,6 +31,7 @@ export default () => (
             and engage with corporate leaders from top healthcare and biotechnology firms who will be serving
             as judges.
           </p>
+          <img className="w-61 h-80 mr-4" src={Three} alt="three" />
           <p className="mt-8 text-2xl font-light text-left">
             All are welcome to apply to participate. No business experience is necessary. Cash
             prizes will be given! More information can be found by clicking the buttons below.
@@ -64,6 +66,17 @@ export default () => (
           <p className="mt-8 text-2xl font-light text-left">
             <b>November 13:</b> Final Round (Live via Zoom)
           </p>
+          <div className="flex justify-center mt-20">
+            <iframe
+              className="w-full md:w-2/3 lg:w-1/2 h-64"
+              title="case-comp-video"
+              src="https://www.youtube.com/watch?v=7W4_2d8_3nw"
+              frameBorder="0"
+              allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
+          </div>
           <div className="my-20 flex flex-wrap justify-center">
             <Button className="mt-4 mx-3" size="lg">
               <a

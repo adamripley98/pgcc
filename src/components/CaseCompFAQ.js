@@ -40,6 +40,12 @@ const StatsBox = () => (
       coffee chats that will enable you to meet other interested applicants and
       form teams of 4-6.
     </p>
+    <p className="text-xl font-bold">
+      More questions?
+    </p>
+    <p className="text-xl font-light faq-answer">
+      Connect with us @ pennhealthcarecc2021@gmail.com
+    </p>
   </div>
 );
 
