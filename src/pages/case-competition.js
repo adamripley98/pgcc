@@ -35,7 +35,7 @@ export default () => (
             All are welcome to apply to participate. No business experience is necessary. Cash
             prizes will be given! More information can be found by clicking the buttons below.
           </p>
-          <img className="w-610 h-800 center" src={Three} alt="three" />
+          <img className="w-305 h-400 center" src={Three} alt="three" />
           <p className="mt-8 text-2xl font-light text-left">
             <b>Timeline:</b>
           </p>
@@ -70,7 +70,7 @@ export default () => (
             <iframe
               className="w-full md:w-2/3 lg:w-1/2 h-64"
               title="case-comp-video"
-              src="https://youtu.be/7W4_2d8_3nw"
+              src="https://www.youtube.com/embed/7W4_2d8_3nw"
               frameBorder="0"
               allow="accelerometer;
           autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -78,16 +78,6 @@ export default () => (
             />
           </div>
           <div className="my-20 flex flex-wrap justify-center">
-            <Button className="mt-4 mx-3" size="lg">
-              <a
-                href="https://pbgconsulting.org/PBGsite/wp-content/uploads/2020/09/2020-PHCC-Flyer.pdf"
-                target="_blank"
-                rel="noreferrer"
-                className="btn-link"
-              >
-                2021 PHCC Flyer
-              </a>
-            </Button>
             <Button className="mt-4 mx-3" size="lg">
               <a
                 href="https://forms.gle/xsUdtRVijkHvP9yV9"
