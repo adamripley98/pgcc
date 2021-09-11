@@ -35,7 +35,6 @@ export default () => (
             All are welcome to apply to participate. No business experience is necessary. Cash
             prizes will be given! More information can be found by clicking the buttons below.
           </p>
-          <img className="w-120 h-160 content-center" src={Three} alt="three" />
           <p className="mt-8 text-2xl font-light text-left">
             <b>Timeline:</b>
           </p>
@@ -78,6 +77,10 @@ export default () => (
             />
           </div>
           <div className="my-20 flex flex-wrap justify-center">
+            <Button className="mt-4 mx-3" size="lg">
+              <img className="w-120 h-160 content-center" src={Three} alt="three" />
+              2021 PHCC flyer
+            </Button>
             <Button className="mt-4 mx-3" size="lg">
               <a
                 href="https://forms.gle/xsUdtRVijkHvP9yV9"
