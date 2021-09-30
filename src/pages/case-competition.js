@@ -88,8 +88,6 @@ export default () => (
                 Coffee Chat Registration
               </a>
             </Button>
-          </div>
-          <div className="my-20 flex flex-wrap justify-center">
             <Button className="mt-4 mx-3" size="lg">
               <a
                 href="https://docs.google.com/document/d/18fTSMhitA97YbPwlslekLW_tgOd4Zf2wTULm1_evlz0/edit?usp=sharing"
