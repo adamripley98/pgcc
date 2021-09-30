@@ -15,7 +15,7 @@ const result = str.link(
 export default () => (
   <Layout>
     <Banner
-      title="Penn Healthcare Case Competition"
+      title="Penn Virtual Healthcare Case Competition"
       subtitle="Participate in the Penn Healthcare Case Competition on November 13th."
     />
     <FadeInSection>
@@ -86,6 +86,18 @@ export default () => (
                 className="btn-link"
               >
                 Coffee Chat Registration
+              </a>
+            </Button>
+          </div>
+          <div className="my-20 flex flex-wrap justify-center">
+            <Button className="mt-4 mx-3" size="lg">
+              <a
+                href="https://docs.google.com/document/d/18fTSMhitA97YbPwlslekLW_tgOd4Zf2wTULm1_evlz0/edit?usp=sharing"
+                target="_blank"
+                rel="noreferrer"
+                className="btn-link"
+              >
+                Competition Logistics
               </a>
             </Button>
           </div>
