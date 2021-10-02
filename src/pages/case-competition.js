@@ -40,22 +40,28 @@ export default () => (
             <b>Timeline:</b>
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>September 26:</b> Virtual Coffee Chat #1 (Time TBD)
+            <b>September 26:</b> Virtual Coffee Chat #1 (2:00 PM EST)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>October 6:</b> Application Opens
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>October 8:</b> Virtual Coffee Chat #2 (Time TBD)
+            <b>October 8:</b> Virtual Coffee Chat #2 (8:30 PM EST)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>October 16:</b> Application Deadline (11:59PM EST)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>October 23:</b> Skills Building Course - Day 1
+            <b>October 19:</b> Skills Building Course - Day 1
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>October 24:</b> Skills Building Course - Day 2
+            <b>October 20:</b> Skills Building Course - Day 2
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
+            <b>October 22:</b> Accepted teams announced (~15-18 teams)
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
+            <b>October 25:</b> Case prompt announced (~15-18 teams)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>November 2:</b> First Round Deadline (11:59 PM EST)
