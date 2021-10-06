@@ -101,7 +101,7 @@ export default () => (
                 rel="noreferrer"
                 className="btn-link"
               >
-                Application form
+                Application Form
               </a>
             </Button>
             <Button className="mt-4 mx-3" size="lg">
