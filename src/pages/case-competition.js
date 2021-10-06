@@ -96,6 +96,16 @@ export default () => (
             </Button>
             <Button className="mt-4 mx-3" size="lg">
               <a
+                href="https://forms.gle/sbjvJ4BzFvAQLv6p7"
+                target="_blank"
+                rel="noreferrer"
+                className="btn-link"
+              >
+                Application form
+              </a>
+            </Button>
+            <Button className="mt-4 mx-3" size="lg">
+              <a
                 href="https://docs.google.com/document/d/18fTSMhitA97YbPwlslekLW_tgOd4Zf2wTULm1_evlz0/edit?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
