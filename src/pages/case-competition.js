@@ -52,16 +52,16 @@ export default () => (
             <b>October 16:</b> Application Deadline (11:59PM EST)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>October 19:</b> Skills Building Course - Day 1
+            <b>October 19:</b> Skills Building Course - Day 1 (8:00 - 10:00 PM EST)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>October 20:</b> Skills Building Course - Day 2
+            <b>October 20:</b> Skills Building Course - Day 2 (8:00 - 10:00 PM EST)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>October 22:</b> Accepted teams announced (~15-18 teams)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>October 25:</b> Case prompt announced (~15-18 teams)
+            <b>October 25:</b> Case prompt announced
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>November 2:</b> First Round Deadline (11:59 PM EST)
@@ -70,7 +70,7 @@ export default () => (
             <b>November 9:</b> Finalists announced (with feedback from judges returned)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>November 13:</b> Final Round (Live via Zoom)
+            <b>November 13:</b> Final Round (Live via Zoom); Winners anounced.
           </p>
           <div className="flex justify-center mt-20">
             <iframe
