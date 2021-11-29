@@ -37,40 +37,16 @@ export default () => (
           </p>
           <img className="max-w-screen-lg mx-auto pb-20" src={Three} alt="three" />
           <p className="mt-8 text-2xl font-light text-left">
-            <b>Timeline:</b>
+            <b>The competition has ended on November 13, 2021. Here are the winning teams:</b>
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>September 26:</b> Virtual Coffee Chat #1 (2:00 PM EST)
+            <b>1st Place:</b> Astralis Consulting (Ishtiaq Mawla, Fabienne Birkle, M. Sydney Smith, Shree P. Metur, Wayne Hawkins )
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>October 6:</b> Application Opens
+            <b>2nd place:</b> MBS Dream Team (Jonathan Ventura, Alexandra Anaele, Christian Torres, Alice Wen)
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>October 8:</b> Virtual Coffee Chat #2 (8:30 PM EST)
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>October 16:</b> Application Deadline (11:59PM EST)
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>October 19:</b> Skills Building Course - Day 1 (8:00 - 10:00 PM EST)
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>October 20:</b> Skills Building Course - Day 2 (8:00 - 10:00 PM EST)
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>October 22:</b> Accepted teams announced (~15-18 teams)
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>October 25:</b> Case prompt announced
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>November 2:</b> First Round Deadline (11:59 PM EST)
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>November 9:</b> Finalists announced (with feedback from judges returned)
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>November 13:</b> Final Round (Live via Zoom); Winners anounced.
+            <b>3rd place: </b> Physicianeers (Priya Arunachalam, Sandra Zhi, Brendan D'Souza, Robby Loving)
           </p>
           <div className="flex justify-center mt-20">
             <iframe
