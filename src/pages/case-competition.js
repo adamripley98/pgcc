@@ -40,7 +40,7 @@ export default () => (
             <b>The competition has ended on November 13, 2021. Here are the winning teams:</b>
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            <b>1st Place:</b> Astralis Consulting (Ishtiaq Mawla, Fabienne Birkle, M. Sydney Smith, Shree P. Metur, Wayne Hawkins )
+            <b>1st place:</b> Astralis Consulting (Ishtiaq Mawla, Fabienne Birkle, M. Sydney Smith, Shree P. Metur, Wayne Hawkins )
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             <b>2nd place:</b> MBS Dream Team (Jonathan Ventura, Alexandra Anaele, Christian Torres, Alice Wen)
