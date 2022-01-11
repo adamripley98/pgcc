@@ -58,16 +58,6 @@ export default [
     email: 'cherylyu@seas.upenn.edu',
     image: Cheryl
   },
-
-  {
-    content:
-      'Claire is a first year Master of Biotechnology student. She’s currently doing an internship at Wistar Institute and her lab’s main research direction is about melanoma metastasis using PDX and Crispr. She participated in PGCC’s pro bono consulting project last year and is passionate about pursuing a career in healthcare consulting or biopharmaceutical industry. As a case competition co chair, Claire looks forward to organizing and contributing to case competitions and all kinds of activities in PGCC. She enjoys traveling, sightseeing, and watching movies with friends in her spare time.',
-    name: 'Claire Zhu',
-    title: 'VP of Case Competition',
-    linkedin: 'https://www.linkedin.com/in/xingyue-zhu-a6b2b5163/',
-    email: 'claire97@seas.upenn.edu',
-    image: Claire
-  },
   {
     content:
       'Ilknur is pursuing a Master in Behavioral and Decision Sciences to complement her engineering and business background. A systems thinker, she is passionate about integrating business, tech, and human-centered design to unlock potential within organizations. Ilknur is a recent MIT Sloan Fellows MBA graduate with experience in operations and business development in the energy industry across 4 continents. As a VP of Case Competition, she aims to make this a highlight event for both students and partner institutions, spurring further collaborations. In her free time, she enjoys traveling (visited 30+ countries), café crawling, and poetry.',
