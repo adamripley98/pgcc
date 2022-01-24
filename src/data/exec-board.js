@@ -93,5 +93,23 @@ export default [
     linkedin: 'https://www.linkedin.com/in/christina-zheng/',
     email: 'leyin@upenn.edu',
     image: Christina
+  },
+  {
+    content:
+      'Shruthi is pursuing a Masters in Behavioral and Decision Sciences. As a mixed-methods industry researcher with a background in Psychology,  she is curious about human interaction with technology and is interested in scaling its positive impact. She has led consulting projects that involve deriving behavioral insights, designing interventions and measuring their impact on employee as well as customer engagement. She has worked with cross functional teams in IT, banking, medical devices, automotive and FMCG, spread across India, Oman, and UK. As the Co-Chair of Business Administration, she aims to design and facilitate the delivery of Mini-MBA series that will focus on empowering students from different disciplines to succeed in the rapidly changing business landscape using modern concepts and strategy. She enjoys running for basic sanity maintenance and in her spare time, scavenges new places for bookstores!',
+    name: 'Shruthi Ramakrishnan',
+    title: 'Co-Chair of Business Administration',
+    linkedin: 'https://www.linkedin.com/in/shra17/',
+    email: 'shra@sas.upenn.edu',
+    image: Shruthi
+  },
+  {
+    content:
+      'Chelsea(Yishuang) is a master student in Social Policy and Data Analytics at the University of Pennsylvania. Her research interest focused on education policy, particularly with international students and families. She has experiences in user experience research and company social responsibilities with tech companies. As a co-chair of Business Administration, she aimed to help students with non-business backgrounds to learn more about the consulting industry, and how to use their own knowledge in this field.',
+    name: 'Chelsea Cao',
+    title: 'Co-Chair of Business Administration',
+    linkedin: 'https://www.linkedin.com/in/yishuang-cao-728b13101/',
+    email: 'yishuang@upenn.edu',
+    image: Chelsea
   }
 ];
