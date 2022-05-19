@@ -87,13 +87,13 @@ export default () => (
                 </div>
                 <p className="mt-4 text-lg">
                   Are you a graduate candidate or post-doc interested in consulting looking to be
-                  part of our organization? Applications open for co-chair of case competition, VP for communication and VP
-for consulting &nbsp;
+                  part of our organization? Applications now open for co-chair of case competition, VP for communication and VP
+for consulting.&nbsp;
                 </p>
                 <br />
                 <Button>
-                  <a className="btn-link" href="mailto:pgcc.comm@gmail.com">
-                    Apply here
+                  <a className="btn-link" href="https://docs.google.com/forms/d/e/1FAIpQLSeIYxbpz2DC1kMVLQKFb9M92bb27OBZuu-wi9wEa6w_Pn2xQg/viewform?usp=sf_link">
+                    Learn more and apply
                   </a>
                 </Button>
               </Card>
