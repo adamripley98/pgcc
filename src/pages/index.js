@@ -93,8 +93,8 @@ for consulting &nbsp;
                 </p>
                 <br />
                 <Button>
-                  <a className="btn-link" href="mailto:pgcc.comm@gmail.com">
-                    Apply here
+                  <a className="btn-link" href="https://docs.google.com/forms/d/e/1FAIpQLSeIYxbpz2DC1kMVLQKFb9M92bb27OBZuu-wi9wEa6w_Pn2xQg/viewform?usp=sf_link">
+                    Learn more and apply
                   </a>
                 </Button>
               </Card>
@@ -134,13 +134,13 @@ for consulting &nbsp;
                   </a>
                 </Button>
               </Card>
-              <p className="mt-4 text-lg">
-                Test
-              </p>
             </div>
           </div>
         </div>
       </section>
+      <p className="mt-4 text-lg">
+        Test
+      </p>
     </FadeInSection>
 
     <SectionSpacer />
