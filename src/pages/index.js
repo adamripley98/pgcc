@@ -134,14 +134,12 @@ for consulting.&nbsp;
                   </a>
                 </Button>
               </Card>
+              <p className="mt-4 text-lg">
+                Test1
             </div>
-            Test1
           </div>
-          Test2
         </div>
-        Test3
       </section>
-      Test4
     </FadeInSection>
 
     //<img className="max-w-screen-lg mx-auto pb-20" src={Flyer} alt="flyer" />
