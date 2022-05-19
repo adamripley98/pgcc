@@ -88,8 +88,8 @@ export default () => (
                 </div>
                 <p className="mt-4 text-lg">
                   Are you a graduate candidate or post-doc interested in consulting looking to be
-                  part of our organization? Applications open for co-chair of case competition, VP for communication and VP
-for consulting &nbsp;
+                  part of our organization? Applications now open for co-chair of case competition, VP for communication and VP
+for consulting. &nbsp;
                 </p>
                 <br />
                 <Button>
@@ -138,9 +138,7 @@ for consulting &nbsp;
           </div>
         </div>
       </section>
-      <p className="mt-4 text-lg">
-        Test
-      </p>
+      <img className="max-w-screen-lg mx-auto pb-20" src={Flyer} alt="three" />
     </FadeInSection>
 
     <SectionSpacer />
