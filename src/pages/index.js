@@ -135,13 +135,17 @@ for consulting.&nbsp;
                 </Button>
               </Card>
             </div>
+            Test1
           </div>
+          Test2
         </div>
+        Test3
       </section>
+      Test4
     </FadeInSection>
 
-    <img className="max-w-screen-lg mx-auto pb-20" src={Flyer} alt="flyer" />
-    <p className="mt-8 text-2xl font-light text-left">
+    //<img className="max-w-screen-lg mx-auto pb-20" src={Flyer} alt="flyer" />
+    //<p className="mt-8 text-2xl font-light text-left">
 
     <SectionSpacer />
     <FadeInSection>
