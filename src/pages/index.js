@@ -134,8 +134,6 @@ for consulting.&nbsp;
                   </a>
                 </Button>
               </Card>
-              <p className="mt-4 text-lg">
-                Test1
             </div>
           </div>
         </div>
