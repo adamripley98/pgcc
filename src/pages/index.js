@@ -23,7 +23,7 @@ export default () => (
         <div className="container mx-auto px-8 lg:flex lg:items-center">
           <div className="text-center lg:text-left lg:w-1/2">
             <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-              UPenn Graduate Consulting Club
+              Penn Graduate Consulting Club
             </h1>
             <p className="text-xl lg:text-2xl mt-6 font-light">
               Premiere student-run consulting club at the University of Pennsylvania, 500+ members
@@ -83,16 +83,17 @@ export default () => (
               <Card className="bg-white">
                 <div className="flex justify-center whitespace-no-wrap">
                   <img className="w-8 h-8 mr-4" src={User} alt="user" />
-                  <p className="font-bold text-xl">Join Our Community</p>
+                  <p className="font-bold text-xl">Join Our Executive Board</p>
                 </div>
                 <p className="mt-4 text-lg">
                   Are you a graduate candidate or post-doc interested in consulting looking to be
-                  part of our organization?&nbsp;
+                  part of our organization? Applications open for co-chair of case competition, VP for communication and VP
+for consulting &nbsp;
                 </p>
                 <br />
                 <Button>
                   <a className="btn-link" href="mailto:pgcc.comm@gmail.com">
-                    Reach out
+                    Apply here
                   </a>
                 </Button>
               </Card>
