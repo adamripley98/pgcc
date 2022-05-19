@@ -15,6 +15,7 @@ import MailList from '../components/MailList';
 import SectionSpacer from '../components/layout/SectionSpacer';
 import FadeInSection from '../components/layout/FadeInSection';
 import IGFeed from '../components/IGFeed';
+import Flyer from '../images/resources/Flyer.jpg';
 
 export default () => (
   <Layout>
@@ -137,6 +138,13 @@ for consulting.&nbsp;
           </div>
         </div>
       </section>
+    </FadeInSection>
+
+    </FadeInSection>
+      </div>
+        <img className="max-w-screen-lg mx-auto pb-20" src={Flyer} alt="three" />
+        <p className="mt-8 text-2xl font-light text-left">
+      </div>
     </FadeInSection>
 
     <SectionSpacer />
