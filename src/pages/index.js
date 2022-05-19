@@ -134,14 +134,14 @@ for consulting.&nbsp;
                   </a>
                 </Button>
               </Card>
-              <img className="max-w-screen-lg mx-auto pb-20" src={Flyer} alt="flyer" />
-              <p className="mt-8 text-2xl font-light text-left">
+            </p>
+            <img className="max-w-screen-lg mx-auto pb-20" src={Flyer} alt="flyer" />
+            <p className="mt-8 text-2xl font-light text-left">
             </div>
           </div>
         </div>
       </section>
     </FadeInSection>
-
 
     <SectionSpacer />
     <FadeInSection>
