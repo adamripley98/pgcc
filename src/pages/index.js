@@ -15,7 +15,7 @@ import MailList from '../components/MailList';
 import SectionSpacer from '../components/layout/SectionSpacer';
 import FadeInSection from '../components/layout/FadeInSection';
 import IGFeed from '../components/IGFeed';
-import Flyer from '../images/resources/Flyer.jpg';
+import Flyer from '../images/resources/flyer2.png';
 
 export default () => (
   <Layout>
@@ -88,8 +88,8 @@ export default () => (
                 </div>
                 <p className="mt-4 text-lg">
                   Are you a graduate candidate or post-doc interested in consulting looking to be
-                  part of our organization? Applications now open for co-chair of case competition, VP for communication and VP
-for consulting. &nbsp;
+                  part of our organization? Applications now open for co-chair of case competition,
+                  VP for finance, VP for career development, and VP for business administration. &nbsp;
                 </p>
                 <br />
                 <Button>
