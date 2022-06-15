@@ -6,7 +6,7 @@ const ContactForm = () => {
     <div className="container mx-auto">
       <div className="flex justify-center items-center flex-col">
         <Card className="mx-4 lg:w-2/3">
-          <form action="https://formcarry.com/s/nkNt2jippDBi" method="POST" acceptCharset="UTF-8">
+          <form action="https://formcarry.com/s/bU95g7EUxl8" method="POST" acceptCharset="UTF-8">
             <div className="lg:flex">
               <input
                 type="text"
