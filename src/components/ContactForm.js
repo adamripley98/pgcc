@@ -49,7 +49,14 @@ const ContactForm = () => {
 				});
 			});
 		</script>
-
+    <script>
+	grecaptcha.ready(function() {
+		grecaptcha.execute('6LeXu4YgAAAAAPQ5f28wh-Eeezm-aAQriFQ83Vie', {action: 'homepage'})
+		.then(function(token) {
+			document.getElementById('captchaResponse').value = token;
+		});
+	});
+</script>
         </Card>
       </div>
     </div>
