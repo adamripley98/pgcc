@@ -29,6 +29,8 @@ const ContactForm = () => {
               name="message"
             />
             <input type="hidden" name="_gotcha" />
+            <input type="hidden" id="captchaResponse" name="g-recaptcha-response" />
+
             <div className="flex justify-center mt-4">
               <input
                 type="submit"
@@ -39,12 +41,12 @@ const ContactForm = () => {
             </div>
           </form>
           <script>
-			             grecaptcha.ready(function() {
-				                 grecaptcha.execute("6LeXu4YgAAAAAPQ5f28wh-Eeezm-aAQriFQ83Vie", {action: "homepage"})
-				                 .then(function(token) {
-
-				                     });
-			             });
+                	grecaptcha.ready(function() {
+                		grecaptcha.execute('6LeXu4YgAAAAAPQ5f28wh-Eeezm-aAQriFQ83Vie', {action: 'homepage'})
+                		.then(function(token) {
+                			document.getElementById('captchaResponse').value = token;
+                		});
+                	});
 		</script>
         </Card>
       </div>
