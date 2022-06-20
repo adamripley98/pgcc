@@ -3,6 +3,7 @@ import Card from './Card';
 
 const ContactForm = () => {
   return (
+    <script src="https://www.google.com/recaptcha/api.js?render=6LeXu4YgAAAAAPQ5f28wh-Eeezm-aAQriFQ83Vie"></script>
     <div className="container mx-auto">
       <div className="flex justify-center items-center flex-col">
         <Card className="mx-4 lg:w-2/3">
@@ -37,6 +38,14 @@ const ContactForm = () => {
               />
             </div>
           </form>
+          <script>
+			             grecaptcha.ready(function() {
+				                 grecaptcha.execute("6LeXu4YgAAAAAPQ5f28wh-Eeezm-aAQriFQ83Vie", {action: "homepage"})
+				                 .then(function(token) {
+
+				                     });
+			             });
+		</script>
         </Card>
       </div>
     </div>
