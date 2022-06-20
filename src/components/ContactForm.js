@@ -43,12 +43,13 @@ const ContactForm = () => {
           </form>
           <script>
 			grecaptcha.ready(function() {
-				grecaptcha.execute("YOUR_SITE_KEY", {action: "homepage"})
+				grecaptcha.execute("6LeXu4YgAAAAAPQ5f28wh-Eeezm-aAQriFQ83Vie", {action: "homepage"})
 				.then(function(token) {
 
 				});
 			});
 		</script>
+
         </Card>
       </div>
     </div>
