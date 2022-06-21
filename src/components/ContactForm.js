@@ -40,7 +40,7 @@ const ContactForm = () => {
               />
             </div>
           </form>
-        
+
         </Card>
       </div>
     </div>
