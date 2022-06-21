@@ -28,6 +28,9 @@ const ContactForm = () => {
               name="message"
             />
             <input type="hidden" name="_gotcha" />
+
+            <input type="hidden" id="captchaResponse" name="g-recaptcha-response" />
+
             <div className="flex justify-center mt-4">
               <input
                 type="submit"
@@ -37,6 +40,7 @@ const ContactForm = () => {
               />
             </div>
           </form>
+        
         </Card>
       </div>
     </div>
