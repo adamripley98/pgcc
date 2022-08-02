@@ -8,12 +8,20 @@ import Mai from '../images/headshots/mai.png';
 import Alex from '../images/headshots/Alex.png';
 import Cheryl from '../images/headshots/Cheryl.png';
 import Ilknur from '../images/headshots/Ilknur.png';
-import Abhinav from '../images/headshots/Abhinav.png';
 import Christina from '../images/headshots/Christina.png';
 
 import Tiffany from '../images/headshots/2022_Tiffany_sized.png';
 import Muskaan from '../images/headshots/2022_muskaan_sized.png';
 import Derek from '../images/headshots/2022_Derek_sized.png';
+import Abhinav from '../images/headshots/2022_Abhinav_sized.png';
+import Daniel from '../images/headshots/2022_Daniel_sized.png';
+import Ishani from '../images/headshots/2022_Ishani_sized.png';
+import Monosij from '../images/headshots/2022_Monosij_sized.png';
+import Om from '../images/headshots/2022_Om_sized.png';
+import Pranshu from '../images/headshots/2022_Pranshu_sized.png';
+import Youge from '../images/headshots/2022_Youge_sized.png';
+import Adam from '../images/headshots/2022_Adam_sized.png';
+
 
 export default [
   {
@@ -38,19 +46,19 @@ export default [
     content:
       'Derek Yang is a 3rd year chemistry PhD working in the lab of Prof. Amos Smith. His research focuses on the development and synthesis of small molecule entry inhibitors of HIV. He is interested in pursing a career in academia and opening his own research lab. As the VP of Communications, he aims to help graduate students at Penn learn about professional development in consulting and keep them connected to consulting opportunities. In his free time, he enjoys skiing, surfing, and playing tennis.',
     name: 'Derek Yang',
-    title: 'VP for Communications',
+    title: 'VP of Communications',
     linkedin: 'https://www.linkedin.com/in/dy12/',
     email: 'dyangg@sas.upenn.edu',
     image: Derek
   },
   {
     content:
-      'Alex is a second year master’s student in Biotechnology. She has experience in biotechnology startups, medical device entrepreneurship, healthcare consulting, pharmaceutical marketing and science communications. Her career goal includes biotech/pharmaceutical industry and life science consulting. As the VP Alumni Relations, Alex strives to build connections with alumni and provide resources to best support current PGCC members in career development. In her free time, she enjoys exploring food places, dancing, walking, watching drama and kpop.',
-    name: 'Yixuan (Alex) Jiang',
-    title: 'VP of Operations',
-    linkedin: 'https://www.linkedin.com/in/yixuan-alex-jiang-38ab991bb/',
-    email: 'yixjiang@seas.upenn.edu',
-    image: Alex
+      'Abhinav is pursuing a Master's in Data Science. A published TEDx speaker, his primary area of focus is algorithmic bias and its various applications. Abhinav has worked with data extensively in the finance/technology sectors and hopes to apply solutions for bias in these industries. As VP of Consulting, Abhinav aims to expand PGCC's reach through strategic corporate sponsorships with both general and specialty consulting firms. In his free time, he plays tennis, writes short stories, and sings.',
+    name: 'Abhinav Raghunathan',
+    title: 'VP of Consulting',
+    linkedin: 'https://linkedin.com/in/abhinavraghunathan/',
+    email: 'abhirags@seas.upenn.edu',
+    image: Abhinav
   },
   {
     content:
