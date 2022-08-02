@@ -37,6 +37,7 @@ export default [
   {
     content:
       'Derek Yang is a 3rd year chemistry PhD working in the lab of Prof. Amos Smith. His research focuses on the development and synthesis of small molecule entry inhibitors of HIV. He is interested in pursing a career in academia and opening his own research lab. As the VP of Communications, he aims to help graduate students at Penn learn about professional development in consulting and keep them connected to consulting opportunities. In his free time, he enjoys skiing, surfing, and playing tennis.',
+    name: 'Derek Yang',
     title: 'VP for Communications',
     linkedin: 'https://www.linkedin.com/in/dy12/',
     email: 'dyangg@sas.upenn.edu',
