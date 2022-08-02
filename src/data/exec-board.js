@@ -12,6 +12,8 @@ import Abhinav from '../images/headshots/Abhinav.png';
 import Christina from '../images/headshots/Christina.png';
 
 import Tiffany from '../images/headshots/2022_Tiffany.jpg';
+import Muskaan from '../images/headshots/2022_Muskaan.jpg';
+import Derek from '../images/headshots/2022_Derek.jpg';
 
 export default [
   {
@@ -25,21 +27,20 @@ export default [
   },
   {
     content:
-      'Christine is a third year PhD candidate in Cell and Molecular Biology program. Her thesis work focuses on studying pancreatic cancer, investigating therapeutic metabolism targets for treating this devastating disease. Her career interests include healthcare consulting and management consulting. As Co-President, Christine aims to provide opportunities for PGCC members to learn about consulting career, and she hopes to guide PGCC’s post-pandemic transition. In her free time, she enjoys dancing and baking.',
-    name: 'Yanqing (Christine) Jiang',
+      'Muskaan is pursuing a Master’s degree in Bioengineering and is currently in her final year. She possesses a diverse set of experience in biotech research, and commercial strategy and operations in the life sciences sector. Muskaan is also a Fellow at the Penn Center for Innovation, and aims to pursue a career in the translational side of healthcare. As Co-President of PGCC, she strives to make an impact in the consulting careers of fellow Penn students by catalyzing initiatives for career development and personal enhancement. In her free time, she enjoys working out, playing badminton, hiking and reading.',
+    name: 'Muskaan Bhatia',
     title: 'Co-President',
-    linkedin: 'https://www.linkedin.com/in/yanqing-christine-jiang-b63a20168/',
-    email: 'yanqingj@pennmedicine.upenn.edu',
-    image: Christine
+    linkedin: 'https://www.linkedin.com/in/muskaan-bhatia-a3298718a/ ',
+    email: 'mskaanb@seas.upenn.edu',
+    image: Muskaan
   },
   {
     content:
-      'Erin is a 3rd year PhD student in Nursing, with a focus in healthcare informatics and data science. Her dissertation focuses on development and implementation of predictive technology to improve clinical decision making in hospitals. She leverages her clinical background as a Registered Nurse and data science training to collaborate with both clinical and administrative teams. Her career interests include healthcare consulting and administration. As VP for Communications, Erin aims to help graduate students across Penn learn about professional development in consulting and foster partnerships between firms and students. In her free time, she enjoys running, skiing, and hiking.',
-    name: 'Erin Kennedy',
+      'Derek Yang is a 3rd year chemistry PhD working in the lab of Prof. Amos Smith. His research focuses on the development and synthesis of small molecule entry inhibitors of HIV. He is interested in pursing a career in academia and opening his own research lab. As the VP of Communications, he aims to help graduate students at Penn learn about professional development in consulting and keep them connected to consulting opportunities. In his free time, he enjoys skiing, surfing, and playing tennis.',
     title: 'VP for Communications',
-    linkedin: 'https://www.linkedin.com/in/erin--kennedy/',
-    email: 'erinken@nursing.upenn.edu',
-    image: Erin
+    linkedin: 'https://www.linkedin.com/in/dy12/',
+    email: 'dyangg@sas.upenn.edu',
+    image: Derek
   },
   {
     content:
