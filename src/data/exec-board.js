@@ -62,6 +62,15 @@ export default [
   },
   {
     content:
+      'Om is a Master’s student in Electrical Engineering. His primary area of focus is Computer Architecture and SoC design. In addition, he is a published author with experience ranging from working with hardware to Deep Learning. Among other skills, he hopes to bring improvisation, analysis, and problem-solving to the table at PGCC. As the VP of Consulting, Om aims to establish connections with a wide range of companies to increase the reach and presence of PGCC while sourcing exciting projects for students looking to sharpen their consulting skills. In his free time, Om loves working out, playing tennis, and writing poetry.',
+    name: 'Om Pranjay',
+    title: 'VP of Consulting',
+    linkedin: 'https://www.linkedin.com/in/om-a-paranjay/',
+    email: 'omadidevparanjay@gmail.com',
+    image: Om
+  },
+  {
+    content:
       'Adam Sax is a PhD candidate in the Program of Comparative Literature and Literary Theory. His dissertation, titled “ungewisse”: investigating time in Paul Celan’s elegy “Epitaph for François,” focuses on the post-war, German-language poet, and his elegy for his infant son. Adam’s research engages late-19th, 20th, and 21st century poetry and prose, while focusing on the poetics of loss through Jewish intellectual history, modern and contemporary aesthetics, psychoanalytic theory, queer theory, (dis)ability studies, genre theory, and translation theory. He is excited to be a part of this year’s PGCC executive board as one of the co-VPs of Business Administration. Adam’s interest in the club comes as he seeks to shift careers into public sector / non-profit consulting. As VP of Business Administration, he plans to organize an engaging line-up of presenters from within and outside of Penn for the mini-MBA lecture series in the fall and spring. These events will garner more interest in the field of consulting and give the field more shape and depth, while also connecting club members with highly regarded academics as well as practitioners in the field.',
     name: 'Adam Sax',
     title: 'VP of Business Administration',
