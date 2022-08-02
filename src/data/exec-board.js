@@ -117,7 +117,7 @@ export default [
   {
     content:
       'Pranshu is pursuing a Masters in Computer and Information Science. Prior to  Penn, he worked as a software engineer for a leading entertainment and media software company. He also has experience as a consulting intern at one of the Big Four companies. As VP for Career Development, Pranshu aims to help organize workshops and sessions for students of the Penn community to enhance their consulting skill set and prepare for a career in consulting. In his free time, he enjoys traveling, watching movies, and working out.',
-    name: 'Daniel Kim',
+    name: 'Pranshu Kumar',
     title: 'VP of Career Development',
     linkedin: 'https://www.linkedin.com/in/kumarpranshu',
     email: 'pranshuk@seas.upenn.edu',
