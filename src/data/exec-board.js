@@ -103,7 +103,7 @@ export default [
     title: 'Co-Chair of Case Competition',
     linkedin: 'www.linkedin.com/in/daniel-kim-09aa5988/',
     email: 'danielkim595@gmail.com',
-    image: Angela
+    image: Daniel
   },
   {
     content:
