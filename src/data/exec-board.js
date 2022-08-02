@@ -74,7 +74,7 @@ export default [
       'Adam Sax is a PhD candidate in the Program of Comparative Literature and Literary Theory. His dissertation, titled “ungewisse”: investigating time in Paul Celan’s elegy “Epitaph for François,” focuses on the post-war, German-language poet, and his elegy for his infant son. Adam’s research engages late-19th, 20th, and 21st century poetry and prose, while focusing on the poetics of loss through Jewish intellectual history, modern and contemporary aesthetics, psychoanalytic theory, queer theory, (dis)ability studies, genre theory, and translation theory. He is excited to be a part of this year’s PGCC executive board as one of the co-VPs of Business Administration. Adam’s interest in the club comes as he seeks to shift careers into public sector / non-profit consulting. As VP of Business Administration, he plans to organize an engaging line-up of presenters from within and outside of Penn for the mini-MBA lecture series in the fall and spring. These events will garner more interest in the field of consulting and give the field more shape and depth, while also connecting club members with highly regarded academics as well as practitioners in the field.',
     name: 'Adam Sax',
     title: 'Co-Chair of Business Administration',
-    linkedin: 'www.linkedin.com/in/adammsax',
+    linkedin: 'https://www.linkedin.com/in/adammsax',
     email: ' ',
     image: Adam
   },
@@ -92,7 +92,7 @@ export default [
       'Youge Pu is a 4th year PhD candidate in Chemistry. Her work focuses on asymmetric organocatalysis. Her recent research includes studies on enantioselective synthesis of aziridines. Youge is passionate about exploring pharma and biotech industries. As Co-Chair of Case Competition, she aims to help people from various backgrounds in developing business skills and preparing for future career development. In her free time, she enjoys cooking, swimming, and playing badminton.',
     name: 'Youge Pu',
     title: 'Co-Chair of Case Compeition',
-    linkedin: 'www.linkedin.com/in/youge-pu',
+    linkedin: 'https://www.linkedin.com/in/youge-pu/',
     email: 'ygpu@sas.upenn.edu',
     image: Youge
   },
@@ -101,7 +101,7 @@ export default [
       'Danny is a 3rd year PhD candidate in Cell and Molecular Biology in the Microbiology, Virology, and Parasitology program. His thesis work focuses on understanding the immunological mechanisms behind bacterial interference as a way to prevent colonization by pathogenic S. aureus. While varied, his career interests include biotech consulting. As Co-Chair of Case Competition, he hopes to provide opportunities for those without prior experience to gain exposure to the consulting field. In his free time, he enjoys hiking and podcasts.',
     name: 'Daniel Kim',
     title: 'Co-Chair of Case Compeition',
-    linkedin: 'www.linkedin.com/in/daniel-kim-09aa5988',
+    linkedin: 'https://www.linkedin.com/in/daniel-kim-09aa5988/',
     email: 'danielkim595@gmail.com',
     image: Daniel
   },
