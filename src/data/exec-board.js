@@ -75,7 +75,7 @@ export default [
     name: 'Adam Sax',
     title: 'Co-Chair of Business Administration',
     linkedin: 'www.linkedin.com/in/adammsax',
-    email: '',
+    email: ' ',
     image: Adam
   },
   {
@@ -122,5 +122,5 @@ export default [
     linkedin: 'https://www.linkedin.com/in/kumarpranshu/',
     email: 'pranshuk@seas.upenn.edu',
     image: Pranshu
-  }
+  },
 ];
