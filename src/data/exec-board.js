@@ -62,11 +62,20 @@ export default [
   },
   {
     content:
+      'Om is a Master’s student in Electrical Engineering. His primary area of focus is Computer Architecture and SoC design. In addition, he is a published author with experience ranging from working with hardware to Deep Learning. Among other skills, he hopes to bring improvisation, analysis, and problem-solving to the table at PGCC. As the VP of Consulting, Om aims to establish connections with a wide range of companies to increase the reach and presence of PGCC while sourcing exciting projects for students looking to sharpen their consulting skills. In his free time, Om loves working out, playing tennis, and writing poetry.',
+    name: 'Om Paranjay',
+    title: 'VP of Consulting',
+    linkedin: 'https://www.linkedin.com/in/om-a-paranjay/',
+    email: 'omadidevparanjay@gmail.com',
+    image: Om
+  },
+  {
+    content:
       'Adam Sax is a PhD candidate in the Program of Comparative Literature and Literary Theory. His dissertation, titled “ungewisse”: investigating time in Paul Celan’s elegy “Epitaph for François,” focuses on the post-war, German-language poet, and his elegy for his infant son. Adam’s research engages late-19th, 20th, and 21st century poetry and prose, while focusing on the poetics of loss through Jewish intellectual history, modern and contemporary aesthetics, psychoanalytic theory, queer theory, (dis)ability studies, genre theory, and translation theory. He is excited to be a part of this year’s PGCC executive board as one of the co-VPs of Business Administration. Adam’s interest in the club comes as he seeks to shift careers into public sector / non-profit consulting. As VP of Business Administration, he plans to organize an engaging line-up of presenters from within and outside of Penn for the mini-MBA lecture series in the fall and spring. These events will garner more interest in the field of consulting and give the field more shape and depth, while also connecting club members with highly regarded academics as well as practitioners in the field.',
     name: 'Adam Sax',
     title: 'Co-Chair of Business Administration',
     linkedin: 'www.linkedin.com/in/adammsax',
-    email: '',
+    email: ' ',
     image: Adam
   },
   {
@@ -94,33 +103,24 @@ export default [
     title: 'Co-Chair of Case Competition',
     linkedin: 'www.linkedin.com/in/daniel-kim-09aa5988/',
     email: 'danielkim595@gmail.com',
-    image: Angela
+    image: Daniel
   },
   {
     content:
-      'Christina Zheng is a second-year Master of Social Policy & Data Analytics (MSSP+DA) student at School of Social Policy & Practice. Prior to pursuing her master’s degree, she graduated from University of Toronto with a BCom in Management and Marketing. Her career interests are focused on public sector consulting and strategy, where she plans to leverage her experience in policy work, data insights, and sales & marketing to deliver better social change. As the VP for Social & Student Engagement, Christina hopes to build connections between PGCC and graduate students who are passionate about a career in consulting. When she is not busy, she enjoys playing the piano and creating original music.',
-    name: 'Christina Zheng',
-    title: 'VP for Social & Student Engagement',
-    linkedin: 'https://www.linkedin.com/in/christina-zheng/',
-    email: 'leyin@upenn.edu',
-    image: Christina
+      'Ishani is a Master’s student in Electrical and Systems Engineering department in the School of Engineering and Applied Sciences. Her academic focus is in the field of Robotics. As VP of Finance, Ishani aims to efficiently manage corporate sponsorships and PGCC’s finances. In her free time she enjoys exploring new places and playing tennis.',
+    name: 'Ishani Mhatre',
+    title: 'VP of Finance',
+    linkedin: 'https://www.linkedin.com/in/ishanimhatre7/',
+    email: 'ishanim@seas.upenn.edu',
+    image: Ishani
   },
   {
     content:
-      'Shruthi is pursuing a Masters in Behavioral and Decision Sciences. As a mixed-methods industry researcher with a background in Psychology,  she is curious about human interaction with technology and is interested in scaling its positive impact. She has led consulting projects that involve deriving behavioral insights, designing interventions and measuring their impact on employee as well as customer engagement. She has worked with cross functional teams in IT, banking, medical devices, automotive and FMCG, spread across India, Oman, and UK. As the Co-Chair of Business Administration, she aims to design and facilitate the delivery of Mini-MBA series that will focus on empowering students from different disciplines to succeed in the rapidly changing business landscape using modern concepts and strategy. She enjoys running for basic sanity maintenance and in her spare time, scavenges new places for bookstores!',
-    name: 'Shruthi Ramakrishnan',
-    title: 'Co-Chair of Business Administration',
-    linkedin: 'https://www.linkedin.com/in/shra17/',
-    email: 'shra@sas.upenn.edu',
-    image: Shruthi
-  },
-  {
-    content:
-      'Chelsea(Yishuang) is a master student in Social Policy and Data Analytics at the University of Pennsylvania. Her research interest focused on education policy, particularly with international students and families. She has experiences in user experience research and company social responsibilities with tech companies. As a co-chair of Business Administration, she aimed to help students with non-business backgrounds to learn more about the consulting industry, and how to use their own knowledge in this field.',
-    name: 'Chelsea Cao',
-    title: 'Co-Chair of Business Administration',
-    linkedin: 'https://www.linkedin.com/in/yishuang-cao-728b13101/',
-    email: 'yishuang@upenn.edu',
-    image: Chelsea
+      'Pranshu is pursuing a Masters in Computer and Information Science. Prior to  Penn, he worked as a software engineer for a leading entertainment and media software company. He also has experience as a consulting intern at one of the 'Big Four' companies. As VP for Career Development, Pranshu aims to help organize workshops and sessions for students of the Penn community to enhance their consulting skill set and prepare for a career in consulting. In his free time, he enjoys traveling, watching movies, and working out.',
+    name: 'Pranshu Kumar',
+    title: 'VP of Career Development',
+    linkedin: 'https://www.linkedin.com/in/kumarpranshu/',
+    email: 'pranshuk@seas.upenn.edu',
+    image: Pranshu
   }
 ];
