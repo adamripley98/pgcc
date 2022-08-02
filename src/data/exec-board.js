@@ -62,21 +62,21 @@ export default [
   },
   {
     content:
-      'Zihan (Cheryl) Yu is a 2nd year master of Biotechnology with a biomedical engineering concentration. Prior to Penn, she graduated from Boston College with years of medical institute working experience. Now her research at Penn is focusing on genetics and computational biology. She has previously interned at McKinsey and now she is a consultant of Impact Consulting. Cheryl also has case competition experience and she was the winner of the TMCCC case competition. During her free time, she enjoys wakesurfing and traveling',
-    name: 'Zihan (Cheryl) Yu',
-    title: 'VP for Career Development',
-    linkedin: 'https://www.linkedin.com/in/cherylyzh/',
-    email: 'cherylyu@seas.upenn.edu',
-    image: Cheryl
+      'Adam Sax is a PhD candidate in the Program of Comparative Literature and Literary Theory. His dissertation, titled “ungewisse”: investigating time in Paul Celan’s elegy “Epitaph for François,” focuses on the post-war, German-language poet, and his elegy for his infant son. Adam’s research engages late-19th, 20th, and 21st century poetry and prose, while focusing on the poetics of loss through Jewish intellectual history, modern and contemporary aesthetics, psychoanalytic theory, queer theory, (dis)ability studies, genre theory, and translation theory. He is excited to be a part of this year’s PGCC executive board as one of the co-VPs of Business Administration. Adam’s interest in the club comes as he seeks to shift careers into public sector / non-profit consulting. As VP of Business Administration, he plans to organize an engaging line-up of presenters from within and outside of Penn for the mini-MBA lecture series in the fall and spring. These events will garner more interest in the field of consulting and give the field more shape and depth, while also connecting club members with highly regarded academics as well as practitioners in the field.',
+    name: 'Adam Sax',
+    title: 'VP of Business Administration',
+    linkedin: 'www.linkedin.com/in/adammsax',
+    email: '',
+    image: Adam
   },
   {
     content:
-      'Ilknur is pursuing a Master in Behavioral and Decision Sciences to complement her engineering and business background. A systems thinker, she is passionate about integrating business, tech, and human-centered design to unlock potential within organizations. Ilknur is a recent MIT Sloan Fellows MBA graduate with experience in operations and business development in the energy industry across 4 continents. As a VP of Case Competition, she aims to make this a highlight event for both students and partner institutions, spurring further collaborations. In her free time, she enjoys traveling (visited 30+ countries), café crawling, and poetry.',
-    name: 'Ilknur Bechir',
-    title: 'VP of Talent Development',
-    linkedin: 'https://www.linkedin.com/in/ilknurbechir/',
-    email: 'ibechir@sas.upenn.edu',
-    image: Ilknur
+      'Monosij is a Ph.D. candidate in Theoretical and Computational Chemistry. His research focuses on developing computational and analytical models to understand light-matter interaction inside optical cavities at the nano/micro- scale. The bigger goal is to understand and control optical properties and chemistry inside cavities using these interactions.  He hopes to utilize his problem-solving and analytical skills in a career in management consulting. In his spare time, Monosij loves cooking, hiking, and landscape photography. As VP of Business Administration at PGCC, he is very excited to develop, organize, and promote the PGCC Mini-MBA program series. The program aims to equip non-MBA graduate students from diverse backgrounds with concepts relevant to consulting in the ever-evolving field of business. Monosij, with his team, intends to coordinate a coherent program that will offer valuable perspectives to consulting from the experts in the field while also bridging the gap for non-MBA students. If you have an idea or any questions, send him an email.',
+    name: 'Monosij Mondal',
+    title: 'VP of Business Administration',
+    linkedin: 'https://www.linkedin.com/in/monosijmondal/',
+    email: 'monosij@sas.upenn.edu',
+    image: Monosij
   },
   {
     content:
