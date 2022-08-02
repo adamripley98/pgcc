@@ -77,50 +77,5 @@ export default [
     linkedin: 'https://www.linkedin.com/in/monosijmondal/',
     email: 'monosij@sas.upenn.edu',
     image: Monosij
-  },
-  {
-    content:
-      'Abhinav is pursuing a Master\'s in Data Science. A published TEDx speaker, his primary area of focus is algorithmic bias and its various applications. Abhinav has worked with data extensively in the finance/technology sectors and hopes to apply solutions for bias in these industries. As VP of Finance, Abhinav aims to expand PGCC\'s reach through strategic corporate sponsorships with both general and specialty consulting firms. In his free time, he plays tennis, writes short stories, and sings.',
-    name: 'Abhinav Raghunathan',
-    title: 'VP of Management',
-    linkedin: 'https://linkedin.com/in/abhinavraghunathan',
-    email: 'abhirags@seas.upenn.edu',
-    image: Abhinav
-  },
-  {
-    content:
-      'Angela is pursuing her master degree in Social Policy and Data Analytics. She has been involved in various strategic planning and data mining research activities and conferences in both tech- and management consulting companies. As VP for Guided Case Practice, Angela aims to organize consulting workshops and case-practice sessions for Penn graduate students to enhance their consulting skill set and prepare for future career development.',
-    name: 'Jingyi (Angela) Guo',
-    title: 'VP for Guided Case Practice',
-    linkedin: 'https://www.linkedin.com/in/jingyi-angela-guo-92995b205/',
-    email: 'angelagj@upenn.edu',
-    image: Angela
-  },
-  {
-    content:
-      'Ishani is a Master’s student in Electrical and Systems Engineering department in the School of Engineering and Applied Sciences. Her academic focus is in the field of Robotics. As VP of Finance, Ishani aims to efficiently manage corporate sponsorships and PGCC’s finances. In her free time she enjoys exploring new places and playing tennis.',
-    name: 'Ishani Mhatre',
-    title: 'VP of Finance',
-    linkedin: 'https://www.linkedin.com/in/ishanimhatre7/',
-    email: 'ishanim@seas.upenn.edu',
-    image: Ishani
-  },
-  {
-    content:
-      'Pranshu is pursuing a Masters in Computer and Information Science. Prior to  Penn, he worked as a software engineer for a leading entertainment and media software company. He also has experience as a consulting intern at one of the 'Big Four' companies. As VP for Career Development, Pranshu aims to help organize workshops and sessions for students of the Penn community to enhance their consulting skill set and prepare for a career in consulting. In his free time, he enjoys traveling, watching movies, and working out.',
-    name: 'Pranshu Kumar',
-    title: 'VP of Career Development',
-    linkedin: 'https://www.linkedin.com/in/kumarpranshu/',
-    email: 'pranshuk@seas.upenn.edu',
-    image: Pranshu
-  },
-  {
-    content:
-      'Chelsea(Yishuang) is a master student in Social Policy and Data Analytics at the University of Pennsylvania. Her research interest focused on education policy, particularly with international students and families. She has experiences in user experience research and company social responsibilities with tech companies. As a co-chair of Business Administration, she aimed to help students with non-business backgrounds to learn more about the consulting industry, and how to use their own knowledge in this field.',
-    name: 'Chelsea Cao',
-    title: 'Co-Chair of Business Administration',
-    linkedin: 'https://www.linkedin.com/in/yishuang-cao-728b13101/',
-    email: 'yishuang@upenn.edu',
-    image: Chelsea
   }
 ];
