@@ -53,7 +53,7 @@ export default [
   },
   {
     content:
-      'Abhinav is pursuing a Master's in Data Science. A published TEDx speaker, his primary area of focus is algorithmic bias and its various applications. Abhinav has worked with data extensively in the finance/technology sectors and hopes to apply solutions for bias in these industries. As VP of Consulting, Abhinav aims to expand PGCC's reach through strategic corporate sponsorships with both general and specialty consulting firms. In his free time, he plays tennis, writes short stories, and sings.',
+      'Abhinav is pursuing a Master’s in Data Science. A published TEDx speaker, his primary area of focus is algorithmic bias and its various applications. Abhinav has worked with data extensively in the finance/technology sectors and hopes to apply solutions for bias in these industries. As VP of Consulting, Abhinav aims to expand PGCC’s reach through strategic corporate sponsorships with both general and specialty consulting firms. In his free time, he plays tennis, writes short stories, and sings.',
     name: 'Abhinav Raghunathan',
     title: 'VP of Consulting',
     linkedin: 'https://linkedin.com/in/abhinavraghunathan/',
