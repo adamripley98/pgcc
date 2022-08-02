@@ -11,9 +11,9 @@ import Ilknur from '../images/headshots/Ilknur.png';
 import Abhinav from '../images/headshots/Abhinav.png';
 import Christina from '../images/headshots/Christina.png';
 
-import Tiffany from '../images/headshots/2022_Tiffany.jpg';
-import Muskaan from '../images/headshots/2022_Muskaan.jpg';
-import Derek from '../images/headshots/2022_Derek.jpg';
+import Tiffany from '../images/headshots/2022_Tiffany_sized.png';
+import Muskaan from '../images/headshots/2022_muskaan_sized.png';
+import Derek from '../images/headshots/2022_Derek_sized.png';
 
 export default [
   {
