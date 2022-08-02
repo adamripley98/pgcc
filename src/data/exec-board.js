@@ -64,7 +64,7 @@ export default [
     content:
       'Adam Sax is a PhD candidate in the Program of Comparative Literature and Literary Theory. His dissertation, titled “ungewisse”: investigating time in Paul Celan’s elegy “Epitaph for François,” focuses on the post-war, German-language poet, and his elegy for his infant son. Adam’s research engages late-19th, 20th, and 21st century poetry and prose, while focusing on the poetics of loss through Jewish intellectual history, modern and contemporary aesthetics, psychoanalytic theory, queer theory, (dis)ability studies, genre theory, and translation theory. He is excited to be a part of this year’s PGCC executive board as one of the co-VPs of Business Administration. Adam’s interest in the club comes as he seeks to shift careers into public sector / non-profit consulting. As VP of Business Administration, he plans to organize an engaging line-up of presenters from within and outside of Penn for the mini-MBA lecture series in the fall and spring. These events will garner more interest in the field of consulting and give the field more shape and depth, while also connecting club members with highly regarded academics as well as practitioners in the field.',
     name: 'Adam Sax',
-    title: 'VP of Business Administration',
+    title: 'Co-Chair of Business Administration',
     linkedin: 'www.linkedin.com/in/adammsax',
     email: '',
     image: Adam
@@ -73,27 +73,27 @@ export default [
     content:
       'Monosij is a Ph.D. candidate in Theoretical and Computational Chemistry. His research focuses on developing computational and analytical models to understand light-matter interaction inside optical cavities at the nano/micro- scale. The bigger goal is to understand and control optical properties and chemistry inside cavities using these interactions.  He hopes to utilize his problem-solving and analytical skills in a career in management consulting. In his spare time, Monosij loves cooking, hiking, and landscape photography. As VP of Business Administration at PGCC, he is very excited to develop, organize, and promote the PGCC Mini-MBA program series. The program aims to equip non-MBA graduate students from diverse backgrounds with concepts relevant to consulting in the ever-evolving field of business. Monosij, with his team, intends to coordinate a coherent program that will offer valuable perspectives to consulting from the experts in the field while also bridging the gap for non-MBA students. If you have an idea or any questions, send him an email.',
     name: 'Monosij Mondal',
-    title: 'VP of Business Administration',
+    title: 'Co-Chair of Business Administration',
     linkedin: 'https://www.linkedin.com/in/monosijmondal/',
     email: 'monosij@sas.upenn.edu',
     image: Monosij
   },
   {
     content:
-      'Abhinav is pursuing a Master\'s in Data Science. A published TEDx speaker, his primary area of focus is algorithmic bias and its various applications. Abhinav has worked with data extensively in the finance/technology sectors and hopes to apply solutions for bias in these industries. As VP of Finance, Abhinav aims to expand PGCC\'s reach through strategic corporate sponsorships with both general and specialty consulting firms. In his free time, he plays tennis, writes short stories, and sings.',
-    name: 'Abhinav Raghunathan',
-    title: 'VP of Management',
-    linkedin: 'https://linkedin.com/in/abhinavraghunathan',
-    email: 'abhirags@seas.upenn.edu',
-    image: Abhinav
+      'Youge Pu is a 4th year PhD candidate in Chemistry. Her work focuses on asymmetric organocatalysis. Her recent research includes studies on enantioselective synthesis of aziridines. Youge is passionate about exploring pharma and biotech industries. As Co-Chair of Case Competition, she aims to help people from various backgrounds in developing business skills and preparing for future career development. In her free time, she enjoys cooking, swimming, and playing badminton.',
+    name: 'Youge Pu',
+    title: 'Co-Chair of Case Competition',
+    linkedin: 'www.linkedin.com/in/youge-pu',
+    email: 'ygpu@sas.upenn.edu',
+    image: Youge
   },
   {
     content:
-      'Angela is pursuing her master degree in Social Policy and Data Analytics. She has been involved in various strategic planning and data mining research activities and conferences in both tech- and management consulting companies. As VP for Guided Case Practice, Angela aims to organize consulting workshops and case-practice sessions for Penn graduate students to enhance their consulting skill set and prepare for future career development.',
-    name: 'Jingyi (Angela) Guo',
-    title: 'VP for Guided Case Practice',
-    linkedin: 'https://www.linkedin.com/in/jingyi-angela-guo-92995b205/',
-    email: 'angelagj@upenn.edu',
+      'Danny is a 3rd year PhD candidate in Cell and Molecular Biology in the Microbiology, Virology, and Parasitology program. His thesis work focuses on understanding the immunological mechanisms behind bacterial interference as a way to prevent colonization by pathogenic S. aureus. While varied, his career interests include biotech consulting. As Co-Chair of Case Competition, he hopes to provide opportunities for those without prior experience to gain exposure to the consulting field. In his free time, he enjoys hiking and podcasts.',
+    name: 'Daniel Kim',
+    title: 'Co-Chair of Case Competition',
+    linkedin: 'www.linkedin.com/in/daniel-kim-09aa5988/',
+    email: 'danielkim595@gmail.com',
     image: Angela
   },
   {
