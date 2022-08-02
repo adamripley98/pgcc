@@ -21,7 +21,7 @@ import Om from '../images/headshots/2022_Om_sized.png';
 import Pranshu from '../images/headshots/2022_Pranshu_sized.png';
 import Youge from '../images/headshots/2022_Youge_sized.png';
 import Adam from '../images/headshots/2022_Adam_sized.png';
-
+import Yutong from '../images/headshots/yutong.png';
 
 export default [
   {
@@ -122,5 +122,14 @@ export default [
     linkedin: 'https://www.linkedin.com/in/kumarpranshu',
     email: 'pranshuk@seas.upenn.edu',
     image: Pranshu
+  },
+  {
+    content:
+      'Bio to come!',
+    name: 'Yutong Wu',
+    title: 'VP of Career Development',
+    linkedin: ' ',
+    email: ' ',
+    image: Yutong
   }
 ];
