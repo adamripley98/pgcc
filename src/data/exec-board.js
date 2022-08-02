@@ -11,7 +11,7 @@ import Ilknur from '../images/headshots/Ilknur.png';
 import Abhinav from '../images/headshots/Abhinav.png';
 import Christina from '../images/headshots/Christina.png';
 
-import Tiffany from '../images/headshots/2022_Tiffany.heic';
+import Tiffany from '../images/headshots/2022_Tiffany.jpg';
 
 export default [
   {
