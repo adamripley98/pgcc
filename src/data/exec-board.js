@@ -90,7 +90,7 @@ export default [
   {
     content:
       'Youge Pu is a 4th year PhD candidate in Chemistry. Her work focuses on asymmetric organocatalysis. Her recent research includes studies on enantioselective synthesis of aziridines. Youge is passionate about exploring pharma and biotech industries. As Co-Chair of Case Competition, she aims to help people from various backgrounds in developing business skills and preparing for future career development. In her free time, she enjoys cooking, swimming, and playing badminton.',
-    name: 'Adam Sax',
+    name: 'Youge Pu',
     title: 'Co-Chair of Case Compeition',
     linkedin: 'www.linkedin.com/in/youge-pu',
     email: 'ygpu@sas.upenn.edu',
@@ -104,5 +104,23 @@ export default [
     linkedin: 'www.linkedin.com/in/daniel-kim-09aa5988',
     email: 'danielkim595@gmail.com',
     image: Daniel
+  },
+  {
+    content:
+      'Ishani is a Master’s student in Electrical and Systems Engineering department in the School of Engineering and Applied Sciences. Her academic focus is in the field of Robotics. As VP of Finance, Ishani aims to efficiently manage corporate sponsorships and PGCC’s finances. In her free time she enjoys exploring new places and playing tennis.',
+    name: 'Ishani Mhatre',
+    title: 'VP of Finance',
+    linkedin: 'https://www.linkedin.com/in/ishanimhatre7/',
+    email: 'ishanim@seas.upenn.edu',
+    image: Ishani
+  },
+  {
+    content:
+      'Pranshu is pursuing a Masters in Computer and Information Science. Prior to  Penn, he worked as a software engineer for a leading entertainment and media software company. He also has experience as a consulting intern at one of the 'Big Four' companies. As VP for Career Development, Pranshu aims to help organize workshops and sessions for students of the Penn community to enhance their consulting skill set and prepare for a career in consulting. In his free time, he enjoys traveling, watching movies, and working out.',
+    name: 'Pranshu Kumar',
+    title: 'VP of Career Development',
+    linkedin: 'https://www.linkedin.com/in/kumarpranshu',
+    email: 'pranshuk@seas.upenn.edu',
+    image: Pranshu
   }
 ];
