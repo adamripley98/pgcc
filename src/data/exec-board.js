@@ -40,7 +40,7 @@ export default [
     title: 'Co-President',
     linkedin: 'https://www.linkedin.com/in/muskaan-bhatia-a3298718a/ ',
     email: 'mskaanb@seas.upenn.edu',
-    image: Tiffany
+    image: Muskaan
   },
   {
     content:
@@ -49,7 +49,7 @@ export default [
     title: 'VP of Communications',
     linkedin: 'https://www.linkedin.com/in/dy12/',
     email: 'dyangg@sas.upenn.edu',
-    image: Tiffany
+    image: Derek
   },
   {
     content:
@@ -58,7 +58,7 @@ export default [
     title: 'VP of Consulting',
     linkedin: 'https://linkedin.com/in/abhinavraghunathan/',
     email: 'abhirags@seas.upenn.edu',
-    image: Tiffany
+    image: Abhinav
   },
   {
     content:
@@ -67,7 +67,7 @@ export default [
     title: 'VP of Consulting',
     linkedin: 'https://www.linkedin.com/in/om-a-paranjay/',
     email: 'omadidevparanjay@gmail.com',
-    image: Tiffany
+    image: Om
   },
   {
     content:
@@ -76,7 +76,7 @@ export default [
     title: 'Co-Chair of Business Administration',
     linkedin: 'www.linkedin.com/in/adammsax',
     email: ' ',
-    image: Tiffany
+    image: Adam
   },
   {
     content:
@@ -85,7 +85,7 @@ export default [
     title: 'Co-Chair of Business Administration',
     linkedin: 'https://www.linkedin.com/in/monosijmondal/',
     email: 'monosij@sas.upenn.edu',
-    image: Tiffany
+    image: Monosij
   },
   {
     content:
@@ -94,7 +94,7 @@ export default [
     title: 'Co-Chair of Case Compeition',
     linkedin: 'www.linkedin.com/in/youge-pu',
     email: 'ygpu@sas.upenn.edu',
-    image: Tiffany
+    image: Youge
   },
   {
     content:
@@ -103,7 +103,7 @@ export default [
     title: 'Co-Chair of Case Compeition',
     linkedin: 'www.linkedin.com/in/daniel-kim-09aa5988',
     email: 'danielkim595@gmail.com',
-    image: Tiffany
+    image: Daniel
   },
   {
     content:
@@ -112,7 +112,7 @@ export default [
     title: 'VP of Finance',
     linkedin: 'https://www.linkedin.com/in/ishanimhatre7/',
     email: 'ishanim@seas.upenn.edu',
-    image: Tiffany
+    image: Ishani
   },
   {
     content:
@@ -121,7 +121,7 @@ export default [
     title: 'VP of Career Development',
     linkedin: 'https://www.linkedin.com/in/kumarpranshu',
     email: 'pranshuk@seas.upenn.edu',
-    image: Tiffany
+    image: Pranshu
   },
   {
     content:
@@ -130,6 +130,6 @@ export default [
     title: 'VP of Career Development',
     linkedin: ' ',
     email: ' ',
-    image: Tiffany
+    image: Yutong
   }
 ];
