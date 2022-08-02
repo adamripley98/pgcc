@@ -11,15 +11,17 @@ import Ilknur from '../images/headshots/Ilknur.png';
 import Abhinav from '../images/headshots/Abhinav.png';
 import Christina from '../images/headshots/Christina.png';
 
+import Tiffany from '../images/headshots/2022_Tiffany.heic';
+
 export default [
   {
     content:
-      'Mai is a 4th PhD candidate in the Chemical and Biomolecular Engineering program. His research focuses on the analysis of copy number variations within cancer using genomics sequencing technology. His career interests include healthcare consulting and pharmaceutical industry. In his free time, Mai enjoys weight lifting and photography.',
-    name: 'Mai Wang',
+      'Tiffany is a second-year master’s student in chemistry. Her research involves synthesizing analogs of small molecule inhibitors for treatment of Fredrich Ataxia. She is interested pursuing a career in management and healthcare consulting. As Co-President, she hopes to aid fellow graduate students with different backgrounds to ramp up on consulting. Her hobbies include decorative painting & mixed media art, baking, and playing with dogs. ',
+    name: 'Tiffany Gu',
     title: 'Co-President',
-    linkedin: 'https://www.linkedin.com/in/mai-wang-0199aa73/',
-    email: 'maiwang@seas.upenn.edu',
-    image: Mai
+    linkedin: 'https://www.linkedin.com/in/tiffany-gu-506601206/',
+    email: 'tfgu@sas.upenn.edu',
+    image: Tiffany
   },
   {
     content:
