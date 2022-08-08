@@ -39,7 +39,7 @@ export default [
     name: 'Muskaan Bhatia',
     title: 'Co-President',
     linkedin: 'https://www.linkedin.com/in/muskaan-bhatia-a3298718a/ ',
-    email: 'mskaanb@seas.upenn.edu',
+    email: 'muskaanb@seas.upenn.edu',
     image: Muskaan
   },
   {
