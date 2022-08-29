@@ -21,7 +21,7 @@ import Om from '../images/headshots/2022_Om_sized.png';
 import Pranshu from '../images/headshots/2022_Pranshu_sized.png';
 import Youge from '../images/headshots/2022_Youge_sized.png';
 import Adam from '../images/headshots/2022_Adam_sized.png';
-import Yutong from '../images/headshots/yutong.png';
+import Truling from '../images/headshots/truling.png';
 
 export default [
   {
@@ -130,6 +130,6 @@ export default [
     title: 'VP of Career Development',
     linkedin: 'https://www.linkedin.com/in/chuting-truling-gong-5b3851244/',
     email: 'truling@sas.upenn.edu',
-    image: Yutong
+    image: Truling
   }
 ];
