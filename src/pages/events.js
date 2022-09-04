@@ -22,9 +22,7 @@ export default () => (
             and Instagram to stay up to date about our events and subscribe to our newsletter for
             more information.
           </p>
-          <p className="mt-8 text-2xl font-light text-left font-bold">
-            Note: all events will be held remotely for the time being due to COVID-19.
-          </p>
+          
         </div>
       </section>
     </FadeInSection>
