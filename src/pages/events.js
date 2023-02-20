@@ -22,7 +22,11 @@ export default () => (
             and Instagram to stay up to date about our events and subscribe to our newsletter for
             more information.
           </p>
+<<<<<<< HEAD
 
+=======
+          
+>>>>>>> 081feb6e601787401048ece54b75acbc755b5742
         </div>
       </section>
     </FadeInSection>
