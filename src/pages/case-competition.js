@@ -29,7 +29,7 @@ export default () => (
             and <b>April 7th</b> (second round) in person. It is our pleasure to invite YOU to participate
             <b>Applications are now open</b>
             <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSceXTV-3OTLWnaH0wWB4qNqkdCQQEH0ukUKQ6iXJFLTC-Z9bA/viewform">
-              here
+               here
             </a>
           </p>
 
@@ -49,7 +49,7 @@ export default () => (
             and attend at least one session if you do not yet have a full team. Please fill
             out the info session sign-up sheet if you plan to attend:
             <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdiyLaPm4TxYQ6TMfQHEiUobWMbyd4q49XAl-58MgfInM5Svg/viewform">
-              link!
+               link!
             </a>
           </p>
 
