@@ -6,6 +6,7 @@ import MailList from '../components/MailList';
 import FacebookEvents from '../components/FacebookEvents';
 import Banner from '../components/Banner';
 import FadeInSection from '../components/layout/FadeInSection';
+import Flyer from '../images/resources/flyer2.png';
 
 export default () => (
   <Layout>
@@ -30,7 +31,7 @@ export default () => (
       <section id="upcoming" className="pt-20">
         <LabelText className="mb-8 font-bold text-center">Upcoming Events</LabelText>
         <p className="mt-8 text-2xl font-light text-left">
-
+        <img className="max-w-screen-lg mx-auto pb-20" src={Flyer} alt="three" />
         </p>
         <FacebookEvents />
       </section>

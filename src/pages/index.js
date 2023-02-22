@@ -15,7 +15,7 @@ import MailList from '../components/MailList';
 import SectionSpacer from '../components/layout/SectionSpacer';
 import FadeInSection from '../components/layout/FadeInSection';
 import IGFeed from '../components/IGFeed';
-import Flyer from '../images/resources/flyer2.png';
+
 
 export default () => (
   <Layout>
@@ -138,7 +138,7 @@ export default () => (
           </div>
         </div>
       </section>
-      <img className="max-w-screen-lg mx-auto pb-20" src={Flyer} alt="three" />
+
     </FadeInSection>
 
     <SectionSpacer />
