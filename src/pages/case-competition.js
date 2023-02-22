@@ -47,7 +47,7 @@ export default () => (
             The info sessions will give an overview of the case competition and facilitate
             team building among interested participants. We highly encourage you to register
             and attend at least one session if you do not yet have a full team. Please fill
-            out the info session sign-up sheet if you plan to attend: 
+            out the info session sign-up sheet if you plan to attend:
             <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdiyLaPm4TxYQ6TMfQHEiUobWMbyd4q49XAl-58MgfInM5Svg/viewform">
                link!
             </a>
@@ -55,29 +55,7 @@ export default () => (
 
           <img className="max-w-screen-lg mx-auto pb-20" src={Three} alt="three" />
 
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>The competition has ended on November 13, 2021. Here are the winning teams:</b>
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>1st place:</b> Astralis Consulting (Ishtiaq Mawla, Fabienne Birkle, M. Sydney Smith, Shree P. Metur, Wayne Hawkins )
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>2nd place:</b> MBS Dream Team (Jonathan Ventura, Alexandra Anaele, Christian Torres, Alice Wen)
-          </p>
-          <p className="mt-8 text-2xl font-light text-left">
-            <b>3rd place: </b> Physicianeers (Priya Arunachalam, Sandra Zhi, Brendan D'Souza, Robby Loving)
-          </p>
-          <div className="flex justify-center mt-20">
-            <iframe
-              className="w-full md:w-2/3 lg:w-1/2 h-80"
-              title="case-comp-video"
-              src="https://www.youtube.com/embed/7W4_2d8_3nw"
-              frameBorder="0"
-              allow="accelerometer;
-          autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            />
-          </div>
+
           <div className="my-20 flex flex-wrap justify-center">
             <Button className="mt-4 mx-3" size="lg">
               <a
