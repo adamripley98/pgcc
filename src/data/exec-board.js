@@ -22,6 +22,8 @@ import Pranshu from '../images/headshots/2022_Pranshu_sized.png';
 import Youge from '../images/headshots/2022_Youge_sized.png';
 import Adam from '../images/headshots/2022_Adam_sized.png';
 import Truling from '../images/headshots/truling.png';
+import Stuti from '../images/headshots/2022_stuti_sized.png';
+import Shuruthi from '../images/headshots/2022_shuruthi_sized.png';
 
 export default [
   {
