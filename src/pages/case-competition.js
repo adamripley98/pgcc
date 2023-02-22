@@ -15,8 +15,8 @@ const result = str.link(
 export default () => (
   <Layout>
     <Banner
-      title="Penn Virtual Healthcare Case Competition"
-      subtitle="Participate in the Penn Healthcare Case Competition on November 13th."
+      title="Penn, Yale, Princeton, Columbia (PYPC) Case Competition"
+      subtitle="Apply to the PYPC Case Competition by March 10th."
     />
     <FadeInSection>
       <section className="pt-20">
@@ -24,12 +24,15 @@ export default () => (
           <p className="mt-8 text-2xl font-light text-justify">
             Are you a life scientist interested in business or entrepreneurship? Do you wonder how
             game-changing decisions are made about our innovative discoveries once they leave the
-            lab? Penn Biotech Group (PBG) and Penn Graduate Consulting Club (PGCC) will be hosting a
-            nation-wide Penn Healthcare Case Competition on <b>November 13th, 2021</b>. This event is
-            meant to give graduate students(PhDs, JDs, MDs, master’s, MBAs, etc) and postdocs an opportunity
-            to solve a real healthcare problem in <b>teams of 4-6 members</b>. You will also be able to meet
-            and engage with corporate leaders from top healthcare and biotechnology firms who will be serving
-            as judges.
+            lab? Penn, Yale, Princeton, and Columbia University will host our 2nd annual regional case
+            competititon (PYPC Case Competiton) on <b>March 24th, 2023</b> (first round) virtually,
+            and <b>April 7th</b> (second round) in person. It is our pleasure to invite YOU to participate
+            <b>Applications are now open at link</b>
+
+            This event is open to all graduate-level students, including those in professional degree programs and post-doctoral fellowships. Teams of 4-6 participants will compete in solving a real-world business problem. We highly recommend forming a team with diverse educational backgrounds. No prior business experience is required! Participants will have the opportunity to engage with judges from top-tier consulting venture capital firms. Cash prizes will be given to the winning teams, with the first-place team receiving $4,000!
+
+            We will be offering two <b>virtual info sessions on Feb 27th and Mar 8th 7pm EST.</b> The info sessions will give an overview of the case competition and facilitate team building among interested participants. We highly encourage you to register and attend at least one session if you do not yet have a full team. Please fill out the info session sign-up sheet if you plan to attend: link!
+
           </p>
           <p className="mt-8 text-2xl font-light text-left">
             All are welcome to apply to participate. No business experience is necessary. Cash
