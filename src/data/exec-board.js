@@ -60,7 +60,7 @@ export default [
     title: 'VP of Consulting',
     linkedin: '',
     email: '',
-    image: Abhinav
+    image: Shuruthi
   },
   {
     content:
@@ -132,6 +132,6 @@ export default [
     title: 'VP of Career Development',
     linkedin: '',
     email: '',
-    image: Truling
+    image: Stuti
   }
 ];
