@@ -27,16 +27,24 @@ export default () => (
             lab? Penn, Yale, Princeton, and Columbia University will host our 2nd annual regional case
             competititon (PYPC Case Competiton) on <b>March 24th, 2023</b> (first round) virtually,
             and <b>April 7th</b> (second round) in person. It is our pleasure to invite YOU to participate
-            <b>Applications are now open at link</b> \r\n
+            <b>Applications are now open at link</b>
+          </p>
 
-            This event is open to all graduate-level students, including those in professional degree programs and post-doctoral fellowships. Teams of 4-6 participants will compete in solving a real-world business problem. We highly recommend forming a team with diverse educational backgrounds. No prior business experience is required! Participants will have the opportunity to engage with judges from top-tier consulting venture capital firms. Cash prizes will be given to the winning teams, with the first-place team receiving $4,000!
-
-            We will be offering two <b>virtual info sessions on Feb 27th and Mar 8th 7pm EST.</b> The info sessions will give an overview of the case competition and facilitate team building among interested participants. We highly encourage you to register and attend at least one session if you do not yet have a full team. Please fill out the info session sign-up sheet if you plan to attend: link!
-
+          <p className="mt-8 text-2xl font-light text-left">
+            This event is open to all graduate-level students, including those in professional
+             degree programs and post-doctoral fellowships. Teams of 4-6 participants will
+             compete in solving a real-world business problem. We highly recommend forming
+             a team with diverse educational backgrounds. No prior business experience is
+             required! Participants will have the opportunity to engage with judges from
+             top-tier consulting venture capital firms. Cash prizes will be given to the 
+             winning teams, with the first-place team receiving $4,000!
           </p>
           <p className="mt-8 text-2xl font-light text-left">
-            All are welcome to apply to participate. No business experience is necessary. Cash
-            prizes will be given! More information can be found by clicking the buttons below.
+            We will be offering two <b>virtual info sessions on Feb 27th and Mar 8th 7pm EST.</b>
+            The info sessions will give an overview of the case competition and facilitate
+            team building among interested participants. We highly encourage you to register
+            and attend at least one session if you do not yet have a full team. Please fill
+            out the info session sign-up sheet if you plan to attend: link!
           </p>
           <img className="max-w-screen-lg mx-auto pb-20" src={Three} alt="three" />
           <p className="mt-8 text-2xl font-light text-left">
