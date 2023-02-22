@@ -6,7 +6,7 @@ import Banner from '../components/Banner';
 import FadeInSection from '../components/layout/FadeInSection';
 import Button from '../components/Button';
 import CaseCompFAQ from '../components/CaseCompFAQ';
-import Three from '../images/resources/2021PHCC.png';
+import Three from '../images/resources/PYPC_flyer.jpg';
 
 const str = 'here';
 const result = str.link(
@@ -27,7 +27,10 @@ export default () => (
             lab? Penn, Yale, Princeton, and Columbia University will host our 2nd annual regional case
             competititon (PYPC Case Competiton) on <b>March 24th, 2023</b> (first round) virtually,
             and <b>April 7th</b> (second round) in person. It is our pleasure to invite YOU to participate
-            <b>Applications are now open at link</b>
+            <b>Applications are now open</b>
+            <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSceXTV-3OTLWnaH0wWB4qNqkdCQQEH0ukUKQ6iXJFLTC-Z9bA/viewform">
+              here
+            </a>
           </p>
 
           <p className="mt-8 text-2xl font-light text-left">
@@ -36,7 +39,7 @@ export default () => (
              compete in solving a real-world business problem. We highly recommend forming
              a team with diverse educational backgrounds. No prior business experience is
              required! Participants will have the opportunity to engage with judges from
-             top-tier consulting venture capital firms. Cash prizes will be given to the 
+             top-tier consulting venture capital firms. Cash prizes will be given to the
              winning teams, with the first-place team receiving $4,000!
           </p>
           <p className="mt-8 text-2xl font-light text-left">
@@ -46,7 +49,9 @@ export default () => (
             and attend at least one session if you do not yet have a full team. Please fill
             out the info session sign-up sheet if you plan to attend: link!
           </p>
+
           <img className="max-w-screen-lg mx-auto pb-20" src={Three} alt="three" />
+
           <p className="mt-8 text-2xl font-light text-left">
             <b>The competition has ended on November 13, 2021. Here are the winning teams:</b>
           </p>
