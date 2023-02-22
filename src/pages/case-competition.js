@@ -47,7 +47,10 @@ export default () => (
             The info sessions will give an overview of the case competition and facilitate
             team building among interested participants. We highly encourage you to register
             and attend at least one session if you do not yet have a full team. Please fill
-            out the info session sign-up sheet if you plan to attend: link!
+            out the info session sign-up sheet if you plan to attend:
+            <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdiyLaPm4TxYQ6TMfQHEiUobWMbyd4q49XAl-58MgfInM5Svg/viewform">
+              link!
+            </a>
           </p>
 
           <img className="max-w-screen-lg mx-auto pb-20" src={Three} alt="three" />
