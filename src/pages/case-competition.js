@@ -27,7 +27,7 @@ export default () => (
             lab? Penn, Yale, Princeton, and Columbia University will host our 2nd annual regional case
             competititon (PYPC Case Competiton) on <b>March 24th, 2023</b> (first round) virtually,
             and <b>April 7th</b> (second round) in person. It is our pleasure to invite YOU to participate
-            <b>Applications are now open at link</b>
+            <b>Applications are now open at link</b> \r\n
 
             This event is open to all graduate-level students, including those in professional degree programs and post-doctoral fellowships. Teams of 4-6 participants will compete in solving a real-world business problem. We highly recommend forming a team with diverse educational backgrounds. No prior business experience is required! Participants will have the opportunity to engage with judges from top-tier consulting venture capital firms. Cash prizes will be given to the winning teams, with the first-place team receiving $4,000!
 

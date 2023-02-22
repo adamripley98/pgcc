@@ -58,7 +58,7 @@ export default [
       'Shuruthi is a fourth-year PhD candidate in Chemistry. Her research focuses on discovering new synthetic routes to elusive transition metal complexes capable of activating inert molecules. As the VP of consulting, Shuruthi hopes to forge new connections with businesses and positively impact them through PGCCs pro-bono consulting program. Outside work, she enjoys long-distance running, yoga, traveling, and spending time with her family.',
     name: 'Shuruthi Senthil',
     title: 'VP of Consulting',
-    linkedin: '',
+    linkedin: ' ',
     email: 'ssenthil@sas.upenn.edu',
     image: Shuruthi
   },
@@ -130,7 +130,7 @@ export default [
       'Bio to come.',
     name: 'Stuti Mittal',
     title: 'VP of Career Development',
-    linkedin: '',
+    linkedin: ' ',
     email: 'mstuti@seas.upenn.edu',
     image: Stuti
   }
