@@ -59,7 +59,7 @@ export default [
     name: 'Shuruthi Senthil',
     title: 'VP of Consulting',
     linkedin: '',
-    email: '',
+    email: 'ssenthil@sas.upenn.edu',
     image: Shuruthi
   },
   {
@@ -131,7 +131,7 @@ export default [
     name: 'Stuti Mittal',
     title: 'VP of Career Development',
     linkedin: '',
-    email: '',
+    email: 'mstuti@seas.upenn.edu',
     image: Stuti
   }
 ];
