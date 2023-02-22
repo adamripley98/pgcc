@@ -30,7 +30,7 @@ export default () => (
       <section id="upcoming" className="pt-20">
         <LabelText className="mb-8 font-bold text-center">Upcoming Events</LabelText>
         <p className="mt-8 text-2xl font-light text-left">
-          test test
+          
         </p>
         <FacebookEvents />
       </section>

@@ -126,7 +126,7 @@ export default [
   {
     content:
       'Truling is a Master candidate of Public Administration. Her relevant working experience involves Consultant and Business Analyst. She is interested in pursuing a career in management consulting. She is excited to be a member of the PGCC E-Board. As VP for Career Development, she aims to host workshops about skills and industry for students who have a great passion in consulting. In her free time, she enjoys traveling, working out and watching movies.',
-    name: 'Truling Gong',
+    name: 'Stuti',
     title: 'VP of Career Development',
     linkedin: 'https://www.linkedin.com/in/chuting-truling-gong-5b3851244/',
     email: 'truling@sas.upenn.edu',
