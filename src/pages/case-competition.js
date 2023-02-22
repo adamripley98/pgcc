@@ -27,7 +27,7 @@ export default () => (
             lab? Penn, Yale, Princeton, and Columbia University will host our 2nd annual regional case
             competititon (PYPC Case Competiton) on <b>March 24th, 2023</b> (first round) virtually,
             and <b>April 7th</b> (second round) in person. It is our pleasure to invite YOU to participate
-            <b> Applications are now open</b>
+            <b> Applications are now open </b>
             <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSceXTV-3OTLWnaH0wWB4qNqkdCQQEH0ukUKQ6iXJFLTC-Z9bA/viewform">
                here
             </a>
@@ -47,7 +47,7 @@ export default () => (
             The info sessions will give an overview of the case competition and facilitate
             team building among interested participants. We highly encourage you to register
             and attend at least one session if you do not yet have a full team. Please fill
-            out the info session sign-up sheet if you plan to attend:
+            out the info session sign-up sheet if you plan to attend: 
             <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdiyLaPm4TxYQ6TMfQHEiUobWMbyd4q49XAl-58MgfInM5Svg/viewform">
                link!
             </a>
@@ -81,17 +81,17 @@ export default () => (
           <div className="my-20 flex flex-wrap justify-center">
             <Button className="mt-4 mx-3" size="lg">
               <a
-                href="https://forms.gle/xsUdtRVijkHvP9yV9"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdiyLaPm4TxYQ6TMfQHEiUobWMbyd4q49XAl-58MgfInM5Svg/viewform"
                 target="_blank"
                 rel="noreferrer"
                 className="btn-link"
               >
-                Coffee Chat Registration
+                Info Session Registration
               </a>
             </Button>
             <Button className="mt-4 mx-3" size="lg">
               <a
-                href="https://forms.gle/sbjvJ4BzFvAQLv6p7"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSceXTV-3OTLWnaH0wWB4qNqkdCQQEH0ukUKQ6iXJFLTC-Z9bA/viewform"
                 target="_blank"
                 rel="noreferrer"
                 className="btn-link"
@@ -101,7 +101,7 @@ export default () => (
             </Button>
             <Button className="mt-4 mx-3" size="lg">
               <a
-                href="https://docs.google.com/document/d/18fTSMhitA97YbPwlslekLW_tgOd4Zf2wTULm1_evlz0/edit?usp=sharing"
+                href=" "
                 target="_blank"
                 rel="noreferrer"
                 className="btn-link"
