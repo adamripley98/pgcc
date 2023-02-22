@@ -53,11 +53,11 @@ export default [
   },
   {
     content:
-      'Abhinav is pursuing a Master’s in Data Science. A published TEDx speaker, his primary area of focus is algorithmic bias and its various applications. Abhinav has worked with data extensively in the finance/technology sectors and hopes to apply solutions for bias in these industries. As VP of Consulting, Abhinav aims to expand PGCC’s reach through strategic corporate sponsorships with both general and specialty consulting firms. In his free time, he plays tennis, writes short stories, and sings.',
-    name: 'Abhinav Raghunathan',
+      'Shuruthi is a fourth-year PhD candidate in Chemistry. Her research focuses on discovering new synthetic routes to elusive transition metal complexes capable of activating inert molecules. As the VP of consulting, Shuruthi hopes to forge new connections with businesses and positively impact them through PGCCs pro-bono consulting program. Outside work, she enjoys long-distance running, yoga, traveling, and spending time with her family.',
+    name: 'Shuruthi Senthil',
     title: 'VP of Consulting',
-    linkedin: 'https://linkedin.com/in/abhinavraghunathan/',
-    email: 'abhirags@seas.upenn.edu',
+    linkedin: '',
+    email: '',
     image: Abhinav
   },
   {
@@ -125,11 +125,11 @@ export default [
   },
   {
     content:
-      'Truling is a Master candidate of Public Administration. Her relevant working experience involves Consultant and Business Analyst. She is interested in pursuing a career in management consulting. She is excited to be a member of the PGCC E-Board. As VP for Career Development, she aims to host workshops about skills and industry for students who have a great passion in consulting. In her free time, she enjoys traveling, working out and watching movies.',
-    name: 'Stuti',
+      'Bio to come.',
+    name: 'Stuti Mittal',
     title: 'VP of Career Development',
-    linkedin: 'https://www.linkedin.com/in/chuting-truling-gong-5b3851244/',
-    email: 'truling@sas.upenn.edu',
+    linkedin: '',
+    email: '',
     image: Truling
   }
 ];
