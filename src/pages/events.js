@@ -6,7 +6,7 @@ import MailList from '../components/MailList';
 import FacebookEvents from '../components/FacebookEvents';
 import Banner from '../components/Banner';
 import FadeInSection from '../components/layout/FadeInSection';
-import Flyer from '../images/resources/flyer2.png';
+import Flyer from '../images/resources/PYPC_flyer.pdf';
 
 export default () => (
   <Layout>
