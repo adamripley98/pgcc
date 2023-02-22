@@ -27,7 +27,7 @@ export default () => (
             lab? Penn, Yale, Princeton, and Columbia University will host our 2nd annual regional case
             competititon (PYPC Case Competiton) on <b>March 24th, 2023</b> (first round) virtually,
             and <b>April 7th</b> (second round) in person. It is our pleasure to invite YOU to participate
-            <b>Applications are now open</b>
+            <b> Applications are now open</b>
             <a target="_blank" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSceXTV-3OTLWnaH0wWB4qNqkdCQQEH0ukUKQ6iXJFLTC-Z9bA/viewform">
                here
             </a>
@@ -55,29 +55,29 @@ export default () => (
 
           <img className="max-w-screen-lg mx-auto pb-20" src={Three} alt="three" />
 
-          //<p className="mt-8 text-2xl font-light text-left">
-            //<b>The competition has ended on November 13, 2021. Here are the winning teams:</b>
-          //</p>
-        //  <p className="mt-8 text-2xl font-light text-left">
-            //<b>1st place:</b> Astralis Consulting (Ishtiaq Mawla, Fabienne Birkle, M. Sydney Smith, Shree P. Metur, Wayne Hawkins )
-          //</p>
-          //<p className="mt-8 text-2xl font-light text-left">
-            //<b>2nd place:</b> MBS Dream Team (Jonathan Ventura, Alexandra Anaele, Christian Torres, Alice Wen)
-          //</p>
-        //  <p className="mt-8 text-2xl font-light text-left">
-            //<b>3rd place: </b> Physicianeers (Priya Arunachalam, Sandra Zhi, Brendan D'Souza, Robby Loving)
-          //</p>
-          //<div className="flex justify-center mt-20">
-            //<iframe
-              //className="w-full md:w-2/3 lg:w-1/2 h-80"
-              //title="case-comp-video"
-              //src="https://www.youtube.com/embed/7W4_2d8_3nw"
-              //frameBorder="0"
-              //allow="accelerometer;
-          //autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              //allowFullScreen
-          //  />
-          //</div>
+          <p className="mt-8 text-2xl font-light text-left">
+            <b>The competition has ended on November 13, 2021. Here are the winning teams:</b>
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
+            <b>1st place:</b> Astralis Consulting (Ishtiaq Mawla, Fabienne Birkle, M. Sydney Smith, Shree P. Metur, Wayne Hawkins )
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
+            <b>2nd place:</b> MBS Dream Team (Jonathan Ventura, Alexandra Anaele, Christian Torres, Alice Wen)
+          </p>
+          <p className="mt-8 text-2xl font-light text-left">
+            <b>3rd place: </b> Physicianeers (Priya Arunachalam, Sandra Zhi, Brendan D'Souza, Robby Loving)
+          </p>
+          <div className="flex justify-center mt-20">
+            <iframe
+              className="w-full md:w-2/3 lg:w-1/2 h-80"
+              title="case-comp-video"
+              src="https://www.youtube.com/embed/7W4_2d8_3nw"
+              frameBorder="0"
+              allow="accelerometer;
+          autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            />
+          </div>
           <div className="my-20 flex flex-wrap justify-center">
             <Button className="mt-4 mx-3" size="lg">
               <a
