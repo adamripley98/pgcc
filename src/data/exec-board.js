@@ -1,29 +1,15 @@
-import Christine from '../images/headshots/christine.jpg';
-import Mohit from '../images/headshots/mohit.jpeg';
-import Shruthi from '../images/headshots/Shruthi.png';
-import Chelsea from '../images/headshots/Chelsea.png';
-import Erin from '../images/headshots/Erin.png';
-import Angela from '../images/headshots/Angela.png';
-import Mai from '../images/headshots/mai.png';
-import Alex from '../images/headshots/Alex.png';
-import Cheryl from '../images/headshots/Cheryl.png';
-import Ilknur from '../images/headshots/Ilknur.png';
-import Christina from '../images/headshots/Christina.png';
-
-import Tiffany from '../images/headshots/2022_Tiffany_sized.png';
-import Muskaan from '../images/headshots/2022_muskaan_sized.png';
-import Derek from '../images/headshots/2022_Derek_sized.png';
-import Abhinav from '../images/headshots/2022_Abhinav_sized.png';
-import Daniel from '../images/headshots/2022_Daniel_sized.png';
-import Ishani from '../images/headshots/2022_Ishani_sized.png';
-import Monosij from '../images/headshots/2022_Monosij_sized.png';
-import Om from '../images/headshots/2022_Om_sized.png';
-import Pranshu from '../images/headshots/2022_Pranshu_sized.png';
-import Youge from '../images/headshots/2022_Youge_sized.png';
-import Adam from '../images/headshots/2022_Adam_sized.png';
-import Truling from '../images/headshots/truling.png';
-import Stuti from '../images/headshots/2022_stuti_sized.png';
-import Shuruthi from '../images/headshots/2022_shuruthi_sized.png';
+import Daniel from '../images/headshots/Daniel.jpg';
+import Youge from '../images/headshots/Youge.jpg';
+import Yohaniz from '../images/headshots/Daniel.jpg';
+import Akash from '../images/headshots/Akash.jpg';
+import Jillian from '../images/headshots/Jillian.jpg';
+import Jihan from '../images/headshots/Jihan.jpg';
+import Henil from '../images/headshots/Henil.jpg';
+import Owen from '../images/headshots/Owen.jpg';
+import Diana from '../images/headshots/Diana.jpg';
+import Tom from '../images/headshots/Tom.jpg';
+import Derick from '../images/headshots/Derick.jpg';
+import Jeesung from '../images/headshots/Jeesung.jpg';
 
 export default [
   {
