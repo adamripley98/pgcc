@@ -1,6 +1,6 @@
 import Daniel from '../images/headshots/Daniel.jpg';
 import Youge from '../images/headshots/Youge.jpg';
-import Yohaniz from '../images/headshots/Daniel.jpg';
+import Yohaniz from '../images/headshots/Blank.jpg';
 import Akash from '../images/headshots/Akash.jpg';
 import Jillian from '../images/headshots/Jillian.jpg';
 import Jihan from '../images/headshots/Jihan.jpg';
@@ -14,110 +14,110 @@ import Jeesung from '../images/headshots/Jeesung.jpg';
 export default [
   {
     content:
-      'Tiffany is a second-year master’s student in chemistry. Her research involves synthesizing analogs of small molecule inhibitors for treatment of Fredrich Ataxia. She is interested pursuing a career in management and healthcare consulting. As Co-President, she hopes to aid fellow graduate students with different backgrounds to ramp up on consulting. Her hobbies include decorative painting & mixed media art, baking, and playing with dogs. ',
-    name: 'Tiffany Gu',
+      'Daniel is a 4th year PhD candidate in the Microbiology, Virology, and Parasitology (MVP) program in the Cell and Molecular Biology (CAMB) graduate group at the Perelman School of Medicine. For his PhD dissertation work, he studies antibiotic-resistant staph infections (in particular, MRSA) and how to prevent them, with a focus on skin/epithelial barriers and inflammation. While varied, his career interests include biotech and life sciences consulting. As Co-President, Daniel hopes to continue expanding PGCC and offer more opportunities to better prepare those without traditional business backgrounds for successful careers in consulting post-Penn. Outside of PGCC and the lab, he enjoys exploring Philly’s restaurant scene, going on long hikes, and binging horror movies with his cat, Bean Purrito.',
+    name: 'Daniel Kim',
     title: 'Co-President',
-    linkedin: 'https://www.linkedin.com/in/tiffany-gu-506601206/',
-    email: 'tfgu@sas.upenn.edu',
+    linkedin: 'https://www.linkedin.com/in/daniel-kim-09aa5988/',
+    email: 'kimdanny@pennmedicine.upenn.edu',
     image: Daniel
   },
   {
     content:
-      'Muskaan is pursuing a Master’s degree in Bioengineering and is currently in her final year. She possesses a diverse set of experience in biotech research, and commercial strategy and operations in the life sciences sector. Muskaan is also a Fellow at the Penn Center for Innovation, and aims to pursue a career in the translational side of healthcare. As Co-President of PGCC, she strives to make an impact in the consulting careers of fellow Penn students by catalyzing initiatives for career development and personal enhancement. In her free time, she enjoys working out, playing badminton, hiking and reading.',
-    name: 'Muskaan Bhatia',
+      'Youge Pu is a 5th year PhD candidate in Chemistry at the University of Pennsylvania. Her work focuses on asymmetric organocatalysis, with a particular interest in enantioselective and diastereoselective synthesis of aziridines. Youge is passionate about exploring pharma and biotech industries. As Co-President at PGCC, Youge is dedicated to fostering an inclusive and supportive environment, empowering Penn graduate students from diverse backgrounds to develop their business skills and prepare for career development. In her free time, she enjoys cooking, swimming, and playing badminton. She has recently taken up skiing and is enthusiastic about discovering diverse ski resorts worldwide with her friends.',
+    name: 'Youge Pu',
     title: 'Co-President',
-    linkedin: 'https://www.linkedin.com/in/muskaan-bhatia-a3298718a/ ',
-    email: 'muskaanb@seas.upenn.edu',
+    linkedin: 'https://www.linkedin.com/in/youge-pu/',
+    email: 'ygpu@sas.upenn.edu',
     image: Youge
   },
   {
     content:
-      'Derek Yang is a 3rd year chemistry PhD working in the lab of Prof. Amos Smith. His research focuses on the development and synthesis of small molecule entry inhibitors of HIV. He is interested in pursing a career in academia and opening his own research lab. As the VP of Communications, he aims to help graduate students at Penn learn about professional development in consulting and keep them connected to consulting opportunities. In his free time, he enjoys skiing, surfing, and playing tennis.',
-    name: 'Derek Yang',
-    title: 'VP of Communications',
-    linkedin: 'https://www.linkedin.com/in/dy12/',
-    email: 'dyangg@sas.upenn.edu',
+      'Yohaniz Ortega-Burgos is a 4th year PhD candidate in Cell and Molecular Biology. Her dissertation research is focused on understanding the mechanisms regulating immune cell tracking into the Central Nervous System during autoimmune diseases, particularly Multiple Sclerosis. Additionally to research, Yohaniz is interested in the business development and technology acquisition in science-oriented industries. As Co-VP of consulting, she hopes to develop projects which can address key strategic challenges for each client, but also provide an opportunity for PGCC members to learn and develop pivotal skills. Besides research, she enjoys playing piano and traveling.',
+    name: 'Yohaniz Ortega-Burgos',
+    title: 'VP of Consulting',
+    linkedin: 'https://www.linkedin.com/in/yohaniz-ortega-burgos-3632b312b/',
+    email: 'yohaniz1@pennmedicine.upenn.edu',
     image: Yohaniz
   },
   {
     content:
-      'Shuruthi is a fourth-year PhD candidate in Chemistry. Her research focuses on discovering new synthetic routes to elusive transition metal complexes capable of activating inert molecules. As the VP of consulting, Shuruthi hopes to forge new connections with businesses and positively impact them through PGCCs pro-bono consulting program. Outside work, she enjoys long-distance running, yoga, traveling, and spending time with her family.',
-    name: 'Shuruthi Senthil',
+      'Jeesung is a 5th-year Ph.D. candidate in Psychology at the University of Pennsylvania. Her research interest primarily lies in exploring effective strategies to persuade individuals to adopt healthier lifestyles. Her research specifically centers around developing brain-based models to evaluate the effectiveness of health message interventions in promoting behaviors conducive to well-being, such as physical activity. She also delves into the fascinating intersection between social networks and brain networks to gain insights into individual differences in mental health, including loneliness. With a strong passion for data-driven decision-making and scientific approaches, she is thrilled to bring her expertise to solve challenging real-world business problems. When she is not deep into her work, you can find her drumming, immersing herself in music, and cuddling with her adorable dog.',
+    name: 'Jeesung Ahn',
     title: 'VP of Consulting',
-    linkedin: ' ',
-    email: 'ssenthil@sas.upenn.edu',
-    image: Akash
+    linkedin: 'https://www.linkedin.com/in/jeesung-ahn/',
+    email: 'jeesung@sas.upenn.edu',
+    image: Jeesung
   },
   {
     content:
-      'Om is a Master’s student in Electrical Engineering. His primary area of focus is Computer Architecture and SoC design. In addition, he is a published author with experience ranging from working with hardware to Deep Learning. Among other skills, he hopes to bring improvisation, analysis, and problem-solving to the table at PGCC. As the VP of Consulting, Om aims to establish connections with a wide range of companies to increase the reach and presence of PGCC while sourcing exciting projects for students looking to sharpen their consulting skills. In his free time, Om loves working out, playing tennis, and writing poetry.',
-    name: 'Om Pranjay',
-    title: 'VP of Consulting',
-    linkedin: 'https://www.linkedin.com/in/om-a-paranjay/',
-    email: 'omadidevparanjay@gmail.com',
-    image: Jillian
-  },
-  {
-    content:
-      'Adam Sax is a PhD candidate in the Program of Comparative Literature and Literary Theory. His dissertation, titled “ungewisse”: investigating time in Paul Celan’s elegy “Epitaph for François,” focuses on the post-war, German-language poet, and his elegy for his infant son. Adam’s research engages late-19th, 20th, and 21st century poetry and prose, while focusing on the poetics of loss through Jewish intellectual history, modern and contemporary aesthetics, psychoanalytic theory, queer theory, (dis)ability studies, genre theory, and translation theory. He is excited to be a part of this year’s PGCC executive board as one of the co-VPs of Business Administration. Adam’s interest in the club comes as he seeks to shift careers into public sector / non-profit consulting. As VP of Business Administration, he plans to organize an engaging line-up of presenters from within and outside of Penn for the mini-MBA lecture series in the fall and spring. These events will garner more interest in the field of consulting and give the field more shape and depth, while also connecting club members with highly regarded academics as well as practitioners in the field.',
-    name: 'Adam Sax',
-    title: 'Co-Chair of Business Administration',
-    linkedin: 'https://www.linkedin.com/in/adammsax',
-    email: ' ',
-    image: Jihan
-  },
-  {
-    content:
-      'Monosij is a Ph.D. candidate in Theoretical and Computational Chemistry. His research focuses on developing computational and analytical models to understand light-matter interaction inside optical cavities at the nano/micro- scale. The bigger goal is to understand and control optical properties and chemistry inside cavities using these interactions.  He hopes to utilize his problem-solving and analytical skills in a career in management consulting. In his spare time, Monosij loves cooking, hiking, and landscape photography. As VP of Business Administration at PGCC, he is very excited to develop, organize, and promote the PGCC Mini-MBA program series. The program aims to equip non-MBA graduate students from diverse backgrounds with concepts relevant to consulting in the ever-evolving field of business. Monosij, with his team, intends to coordinate a coherent program that will offer valuable perspectives to consulting from the experts in the field while also bridging the gap for non-MBA students. If you have an idea or any questions, send him an email.',
-    name: 'Monosij Mondal',
-    title: 'Co-Chair of Business Administration',
-    linkedin: 'https://www.linkedin.com/in/monosijmondal/',
-    email: 'monosij@sas.upenn.edu',
-    image: Henil
-  },
-  {
-    content:
-      'Youge Pu is a 4th year PhD candidate in Chemistry. Her work focuses on asymmetric organocatalysis. Her recent research includes studies on enantioselective synthesis of aziridines. Youge is passionate about exploring pharma and biotech industries. As Co-Chair of Case Competition, she aims to help people from various backgrounds in developing business skills and preparing for future career development. In her free time, she enjoys cooking, swimming, and playing badminton.',
-    name: 'Youge Pu',
-    title: 'Co-Chair of Case Compeition',
-    linkedin: 'https://www.linkedin.com/in/youge-pu/',
-    email: 'ygpu@sas.upenn.edu',
-    image: Owen
-  },
-  {
-    content:
-      'Danny is a 3rd year PhD candidate in Cell and Molecular Biology in the Microbiology, Virology, and Parasitology program. His thesis work focuses on understanding the immunological mechanisms behind bacterial interference as a way to prevent colonization by pathogenic S. aureus. While varied, his career interests include biotech consulting. As Co-Chair of Case Competition, he hopes to provide opportunities for those without prior experience to gain exposure to the consulting field. In his free time, he enjoys hiking and podcasts.',
-    name: 'Daniel Kim',
-    title: 'Co-Chair of Case Compeition',
-    linkedin: 'https://www.linkedin.com/in/daniel-kim-09aa5988/',
-    email: 'danielkim595@gmail.com',
-    image: Diana
-  },
-  {
-    content:
-      'Ishani is a Master’s student in Electrical and Systems Engineering department in the School of Engineering and Applied Sciences. Her academic focus is in the field of Robotics. As VP of Finance, Ishani aims to efficiently manage corporate sponsorships and PGCC’s finances. In her free time she enjoys exploring new places and playing tennis.',
-    name: 'Ishani Mhatre',
-    title: 'VP of Finance',
-    linkedin: 'https://www.linkedin.com/in/ishanimhatre7/',
-    email: 'ishanim@seas.upenn.edu',
+      'Tom Celenza is a 4th year PhD candidate in Mechanical Engineering & Applied Mechanics at Penn’s School of Engineering and Applied Science. His research involves using nanofabrication techniques to create ultrathin, ultralight structures for photophoretic, or light-driven, levitation, a novel flight mechanism for exploring  the mesosphere and lower Martian atmosphere. He previously graduated from University of Delaware with a Bachelor’s Degree in Mechanical Engineering. Tom’s career interests vary but include some form of strategy, management, or technology consulting where he can apply his engineering and mathematical skill set with consulting knowledge. As Co-VP of Career Development, he hopes to broaden the understanding of the consulting career path as a whole to give networking opportunities beyond just the MBB firms and raise student awareness of various boutique consulting firms, as well as provide panels with current MBB and other consultants, connect members with recruiters through career fair-type events, and provide resources for resume and interview preparation.',
+    name: 'Tom Celenza',
+    title: 'VP of Career Development',
+    linkedin: 'https://www.linkedin.com/in/tomcelenza/',
+    email: 'tcelenza@seas.upenn.edu',
     image: Tom
   },
   {
     content:
-      'Pranshu is pursuing a Masters in Computer and Information Science. Prior to  Penn, he worked as a software engineer for a leading entertainment and media software company. He also has experience as a consulting intern at one of the Big Four companies. As VP for Career Development, Pranshu aims to help organize workshops and sessions for students of the Penn community to enhance their consulting skill set and prepare for a career in consulting. In his free time, he enjoys traveling, watching movies, and working out.',
-    name: 'Pranshu Kumar',
+      'Derick is a 4th-year PhD candidate in Biochemistry and Molecular Biophysics at Penn Medicine. His research focuses on developing a new contrast agent specifically designed for individuals with inflammatory bowel disease. Alongside his academic pursuits, Derick has a keen interest in life science consulting. As the Co-VP of Career Development, his primary objectives are to facilitate career exploration, provide professional development opportunities, foster networking connections, and organize comprehensive case interview preparation.',
+    name: 'Derick N. Rosario-Berríos ',
     title: 'VP of Career Development',
-    linkedin: 'https://www.linkedin.com/in/kumarpranshu',
-    email: 'pranshuk@seas.upenn.edu',
+    linkedin: 'https://www.linkedin.com/in/derick-rosario-325732166/',
+    email: 'dnr13@pennmedicine.upenn.edu',
     image: Derick
   },
   {
     content:
-      'Bio to come.',
-    name: 'Stuti Mittal',
-    title: 'VP of Career Development',
-    linkedin: ' ',
-    email: 'mstuti@seas.upenn.edu',
-    image: Jeesung
+      'Akash Pallath is a 5th-year PhD candidate in Chemical and Biomolecular Engineering. His graduate research focuses on developing physics-informed and data-driven computational techniques to solve fundamental problems in biomolecular design. He is also part of a team building an entrepreneurial venture to commercialize technology for biologics optimization developed in his research group, and has been the venture’s Technical Lead in the NSF I-Corps accelerator program and its Entrepreneurial Lead in the Penn I-Corps accelerator program. Beyond research, Akash has a strong interest in the business side of the biotech industry, and aims to forge a career in management consulting, specifically within the pharma, medtech, and life sciences space. As Co-VP of Casing at PGCC, he aims to organize events and curate resources for Penn graduate students to develop and refine their casing skills for consulting interviews. In his spare time, Akash likes to read, work out, and practice his golf swing.',
+    name: 'Akash Pallath',
+    title: 'VP of Casing',
+    linkedin: 'https://www.linkedin.com/in/akash-pallath/',
+    email: 'apallath@seas.upenn.edu',
+    image: Akash
+  },
+  {
+    content:
+      'Jillian Eisenhauer is a 4th PhD candidate in the Gene Therapy and Vaccines (GTV) subprogram in the Cellular and Molecular Biology (CAMB) graduate group at the Perelman School of Medicine. Her current research focuses on the development of vaccines for multi-drug resistant Pseudomonas aeruginosa alongside the discovery and design of new DNA-encoded monoclonal antibodies against other antimicrobial resistant bacteria (i.e., MRSA, Streptococcus pneumoniae). Research aside, Jillian is also interested in the biotech and pharma industries. Most notably, she is interested in general and life sciences consulting. As the co-VP of Casing, Jillian hopes to implement casing workshops to help students practice writing cases and answering cases as practice for future interviews. Furthermore, she is excited to help organize the annual PYPC case competition that occurs in the spring. Jillian is also eager to help develop and provide free materials to those interested in consulting or getting ready for consulting interviews. In her free time, Jillian enjoys playing video games, going to the movies, and taking mid-day naps!',
+    name: 'Jillian Eisenahuer',
+    title: 'VP of Casing',
+    linkedin: 'https://www.linkedin.com/in/jillian-eisenhauer-5a9494143/',
+    email: 'eisej@pennmedicine.upenn.edu',
+    image: Jillian
+  },
+  {
+    content:
+      'Owen Vadala is a 2nd-year Master of Science in Education candidate in Education Policy at the Penn Graduate School of Education. He previously graduated from Columbia University with a Master of Arts in Higher & Postsecondary Education, and from the University of Maine with a Bachelor of Science in Secondary Education. His career interests include academia, management consulting, higher education administration, education non-profits, education research, public service/government, and policy think tanks. As Co-VP of Business Education, Owen hopes to bridge the wide gap between non-MBA graduate students and management consulting with a specific focus on social sector projects. He is excited to bring his unique background across a variety of education-based initiatives and business topics to PGCC’s members. In his free time, Owen enjoys watching films of all genres, listening to obscure music, exploring the city, and playing modern/classic video games. ',
+    name: 'Owen Vadala',
+    title: 'VP of Business Education',
+    linkedin: 'https://www.linkedin.com/in/owen-vadala/',
+    email: 'ovadala@wharton.upenn.edu',
+    image: Owen
+  },
+  {
+    content:
+      'Diana Coutinho is a highly accomplished professional with a diverse background in research, policy, and program management. Currently pursuing her PhD in Quantitative Methods at the University of Pennsylvania, Diana brings extensive expertise in evidence-based decision-making. Her career spans prestigious institutions and organizations, including Brazil’s President’s Office, the National School of Public Administration, and the Ayton Senna Institute, where she led innovative projects and delivered impactful results. With a combination of research and management skills, coupled with a passion for bridging the gap between science and public policy, Diana’s work has contributed to the development of national policies, the advancement of education, and the simplification of regulations. Fluent in multiple languages, she is engaged in volunteer mentoring and finds joy in urban hiking. ',
+    name: 'Diana Coutinho',
+    title: 'VP of Business Education',
+    linkedin: 'https://www.linkedin.com/in/diana-coutinho-72355514/',
+    email: 'dcout@upenn.edu',
+    image: Diana
+  },
+  {
+    content:
+      'Jihan Chen is a 1st-year Master of Science candidate in Computer and Information Technology at Penn Engineering. He recently graduated from the University of Notre Dame with majors in Economics and the Great Books, and he is now moving on to explore the world of computer science. His career interests include management, strategy, and tech consulting as well as product management. As Co-VP of Communications and Marketing, Jihan aspires to expand PGCC’s community and increase PGCC’s impact on campus. He is enthusiastic about leveraging his past experiences in public relations and marketing to bring high-quality consulting-related events to PGCC’s members. In his free time, Jihan enjoys reading, city-walking, and learning hip-hop and k-pop choreographies.',
+    name: 'Jihan Chen',
+    title: 'VP of Communications and Marketing',
+    linkedin: 'https://www.linkedin.com/in/9912-jihan-chen/',
+    email: 'jihanc@seas.upenn.edu',
+    image: Jihan
+  },
+  {
+    content:
+      'Henil is a 2nd year Masters in Computer and Information Science student at Penn Engineering. He completed his B.Tech. in Computer Science Engineering from VIT, Vellore, India. He has worked at one of the Big Four consulting firms and has an interest in strategy, research, data analysis and tech consulting. He has been a part of the PGCC Pro-Bono projects before and has in-depth consulting experience. As Co-VP of Communications and Marketing, Henil aims to take PGCC to a wider audience and increase its reach to every master’s and PhD student at Penn. He wishes to leverage his past marketing experience to make a concise public image for PGCC and also make its communications channels more robust. His hobbies include varsity hip-hop, cooking and loves having animals around him.',
+    name: 'Henil Satra',
+    title: 'VP of Communications and Marketing',
+    linkedin: 'https://www.linkedin.com/in/henil-satra-490669190/',
+    email: 'henil17@seas.upenn.edu',
+    image: Henil
   }
 ];
