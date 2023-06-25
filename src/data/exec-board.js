@@ -109,7 +109,7 @@ export default [
     title: 'VP of Career Development',
     linkedin: 'https://www.linkedin.com/in/kumarpranshu',
     email: 'pranshuk@seas.upenn.edu',
-    image: Derek
+    image: Derick
   },
   {
     content:
