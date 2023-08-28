@@ -57,7 +57,7 @@ export default () => (
         <LabelText>Join Our Consulting Team</LabelText>
         <p className="mt-8 text-xl font-light text-left md:text-center">
           If you’re a student,{' '}
-          <a target="_" rel="noreferrer" href="https://forms.gle/V9UUAp8yHkGws8mf6">
+          <a target="_" rel="noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdEVcxjuCNkpYfOdaoHDqetwp_LyO3eKPc5_x246zYnwZIQtw/viewform?pli=1">
             apply here
           </a>{' '}
           to be considered for future Pro Bono consulting projects.
