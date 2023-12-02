@@ -131,24 +131,6 @@ class About extends React.Component {
         </FadeInSection>
         <SectionSpacer />
         <FadeInSection>
-          <section id="advisors">
-            <div className="container mx-auto px-2">
-              <LabelText className="mb-8 pb-8 font-bold text-center">Advisors</LabelText>
-              <div className="flex justify-center">
-                {advisors.map(person => (
-                  <div key={person.name} className="w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4 mb-4">
-                    <AdvisorCard
-                      changeModalState={() => this.changeModalState(person)}
-                      person={person}
-                    />
-                  </div>
-                ))}
-              </div>
-            </div>
-          </section>
-        </FadeInSection>
-        <SectionSpacer />
-        <FadeInSection>
           <section id="alumni">
             <div className="container mx-auto px-2">
               <LabelText className="mb-8 pb-8 font-bold text-center">PGCC Alumni</LabelText>
