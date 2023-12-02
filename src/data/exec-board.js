@@ -37,7 +37,7 @@ export default [
     title: 'VP of Consulting',
     linkedin: 'https://www.linkedin.com/in/yohaniz-ortega-burgos-3632b312b/',
     email: 'yohaniz1@pennmedicine.upenn.edu',
-    image: Yohaniz
+    image: yohaniz
   },
   {
     content:
@@ -86,12 +86,12 @@ export default [
   },
   {
     content:
-      'Owen Vadala is a 2nd-year Master of Science in Education candidate in Education Policy at the Penn Graduate School of Education. He previously graduated from Columbia University with a Master of Arts in Higher & Postsecondary Education, and from the University of Maine with a Bachelor of Science in Secondary Education. His career interests include academia, management consulting, higher education administration, education non-profits, education research, public service/government, and policy think tanks. As Co-VP of Business Education, Owen hopes to bridge the wide gap between non-MBA graduate students and management consulting with a specific focus on social sector projects. He is excited to bring his unique background across a variety of education-based initiatives and business topics to PGCC’s members. In his free time, Owen enjoys watching films of all genres, listening to obscure music, exploring the city, and playing modern/classic video games. ',
-    name: 'Owen Vadala',
+      'Xuefei Zou is a 2nd-year PhD student in Quantitative Methods at the Graduate School of Education. Armed with a Master of Arts in Education Policy from Columbia University, Xuefei is dedicated to advancing the field through rigorous research. Her primary focus involves employing mixed methods to evaluate the effectiveness of social-psychological interventions on educational outcomes. Her research delves into the intricate nuances of treatment subgroup effects, exploring the heterogeneity within these impacts, and investigating potential mechanisms contributing to program failures in achieving anticipated outcomes. As the Co-Vice President of Business Education, Xuefei is committed to demystifying the intricate consulting world and facilitating a captivating learning experience for aspirant consultants. Beyond academia, Xuefei finds joy in diverse interests, including indulging in movies, assembling mechanical keyboards, playing badminton, and exploring new destinations through travel.',
+    name: 'Xuefei Zou',
     title: 'VP of Business Education',
-    linkedin: 'https://www.linkedin.com/in/owen-vadala/',
-    email: 'ovadala@wharton.upenn.edu',
-    image: Owen
+    linkedin: 'https://www.linkedin.com/in/xuefei-zou-3b1892a2/',
+    email: 'xfzou@upenn.edu',
+    image: xuefie
   },
   {
     content:
