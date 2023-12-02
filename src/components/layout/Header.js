@@ -80,9 +80,6 @@ class Header extends React.Component {
                     <Link className="px-4 nav-link my-1" to="/about/#executive-board">
                       Executive Board
                     </Link>
-                    <Link className="px-4 nav-link my-1" to="/about/#advisors">
-                      Advisors
-                    </Link>
                     <Link className="px-4 nav-link my-1" to="/about/#alumni">
                       Alumni
                     </Link>
