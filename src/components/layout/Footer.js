@@ -54,7 +54,7 @@ const Footer = () => (
     </footer>
     <div className="flex justify-center py-4 mx-3 border-t">
       <p className="text-gray-600 text-sm text-center">
-        Penn Graduate Consulting Club © 2020, all rights reserved. Website developed by{' '}
+        Penn Graduate Consulting Club © 2024, all rights reserved. Website developed by{' '}
         <a target="_blank" rel="noreferrer" href="https://www.riplo.io/">
           Riplo
         </a>
